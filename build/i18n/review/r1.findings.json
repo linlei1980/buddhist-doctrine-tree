@@ -1,0 +1,182 @@
+[
+ {
+  "id": "all_suffering",
+  "field": "en",
+  "severity": "medium",
+  "problem": "「诸法无我」译作 “non-self”，未用规范 §2／§5 的定型译法 “all dharmas are without self”；本节点引文 sources[0].en_q 亦作 “all dharmas are non-self.”。",
+  "zh_source": "「诸行无常，诸行是苦，诸法[[anatta|无我]]。」",
+  "current": "all dharmas are [[anatta|non-self]]",
+  "suggested": "all dharmas are [[anatta|without self]]"
+ },
+ {
+  "id": "three_seals",
+  "field": "en",
+  "severity": "medium",
+  "problem": "「诸法无我」在本节点两处正文及三处引文一律作 “non-self”（正文另一处为 “all formations are impermanent, all formations are suffering, all dharmas are non-self”；引文作 “all [[nonself_seal|dharmas are non-self]]”“Are all dharmas non-self?”“all dharmas are [[anatta|non-self]]”），规范定型译法为 “all dharmas are without self”。",
+  "zh_source": "「诸法[[nonself_seal|无我]]」",
+  "current": "[[nonself_seal|all dharmas are non-self]]",
+  "suggested": "[[nonself_seal|all dharmas are without self]]"
+ },
+ {
+  "id": "nonself_seal",
+  "field": "en_q",
+  "severity": "medium",
+  "problem": "引文「一切法无我」译作 “All dharmas are non-self.”，应依规范作 “All dharmas are without self.”（本节点标题概念即「诸法无我」）。",
+  "zh_source": "「一切[[nonself_seal|法无我]]。」",
+  "current": "All [[nonself_seal|dharmas are non-self]].",
+  "suggested": "All [[nonself_seal|dharmas are without self]]."
+ },
+ {
+  "id": "eightfold",
+  "field": "en",
+  "severity": "low",
+  "problem": "「三十七道品」译作 “the thirty-seven factors of enlightenment”，规范 §2 作 “the thirty-seven aids to enlightenment”（“factors of enlightenment” 通常指七觉支，易混）。",
+  "zh_source": "八正道是[[thirty_seven_bodhipakkhiya|三十七道品]]的中枢",
+  "current": "the hub of the thirty-seven factors of enlightenment",
+  "suggested": "the hub of the thirty-seven aids to enlightenment"
+ },
+ {
+  "id": "marga",
+  "field": "en",
+  "severity": "low",
+  "problem": "「三十七道品」译作 “the thirty-seven factors of enlightenment”，规范 §2 作 “the thirty-seven aids to enlightenment”。",
+  "zh_source": "后世论书整理[[thirty_seven_bodhipakkhiya|三十七道品]]时的标准分类",
+  "current": "in arranging the thirty-seven factors of enlightenment",
+  "suggested": "in arranging the thirty-seven aids to enlightenment"
+ },
+ {
+  "id": "right_effort",
+  "field": "en",
+  "severity": "low",
+  "problem": "「三十七道品」译作 “thirty-seven factors of enlightenment”，规范 §2 作 “the thirty-seven aids to enlightenment”。",
+  "zh_source": "正精进在[[thirty_seven_bodhipakkhiya|三十七道品]]中被反复强调",
+  "current": "[[thirty_seven_bodhipakkhiya|thirty-seven factors of enlightenment]]",
+  "suggested": "[[thirty_seven_bodhipakkhiya|thirty-seven aids to enlightenment]]"
+ },
+ {
+  "id": "right_mindfulness",
+  "field": "en",
+  "severity": "low",
+  "problem": "「四念处」译作 “four foundations of mindfulness”，规范 §2 作 “the four establishments of mindfulness”；同节点 sources[0].en_q 亦作 “the four foundations of mindfulness”。",
+  "zh_source": "即[[four_foundations|四念处]]的实践",
+  "current": "[[four_foundations|four foundations of mindfulness]]",
+  "suggested": "[[four_foundations|four establishments of mindfulness]]"
+ },
+ {
+  "id": "right_samadhi",
+  "field": "en",
+  "severity": "low",
+  "problem": "「四禅八定」译作 “the four dhyānas and eight meditative attainments”，规范 §2 作 “the four dhyānas and eight concentrations”。",
+  "zh_source": "即[[four_dhyanas|四禅八定]]等",
+  "current": "[[four_dhyanas|four dhyānas and eight meditative attainments]]",
+  "suggested": "[[four_dhyanas|four dhyānas and eight concentrations]]"
+ },
+ {
+  "id": "craving",
+  "field": "en",
+  "severity": "low",
+  "problem": "「十二因缘」译作 “twelvefold dependent origination”，规范 §2 作 “the twelve links of dependent origination”；同段下文又作 “the twelvefold chain”。",
+  "zh_source": "也是[[twelve_links|十二因缘]]的第八支「爱」",
+  "current": "[[twelve_links|twelvefold dependent origination]]",
+  "suggested": "[[twelve_links|the twelve links of dependent origination]]"
+ },
+ {
+  "id": "ignorance",
+  "field": "en",
+  "severity": "low",
+  "problem": "「十二因缘」译作 “the twelvefold chain”，规范 §2 作 “the twelve links of dependent origination”。",
+  "zh_source": "也是十二因缘的第一支",
+  "current": "the first link of the twelvefold chain",
+  "suggested": "the first link of the twelve links of dependent origination"
+ },
+ {
+  "id": "anatta",
+  "field": "en",
+  "severity": "low",
+  "problem": "「十二处」译作 “twelve sense-fields”，规范 §2 作 “the twelve sense bases”。",
+  "zh_source": "以[[five_aggregates|五蕴]]、[[twelve_ayatana|十二处]]、十八界分析经验",
+  "current": "the [[twelve_ayatana|twelve sense-fields]] and the eighteen elements",
+  "suggested": "the [[twelve_ayatana|twelve sense bases]] and the eighteen elements"
+ },
+ {
+  "id": "anatta",
+  "field": "en",
+  "severity": "low",
+  "problem": "「主（自在）」的「自在」译作 “self-existent”（self-existent 义为「自有、独立存在」）；自在应作 autonomous／at will，本库他处「不自主」即作 autonomous。同节点 nonself_seal 的同一四义亦作 “self-existent”。",
+  "zh_source": "常（常恒不变）、一（独立不依他）、主（自在）、宰（支配）四义",
+  "current": "master (self-existent) and sovereign (controlling)",
+  "suggested": "master (autonomous) and sovereign (controlling)"
+ },
+ {
+  "id": "not_one_not_diff",
+  "field": "en",
+  "severity": "low",
+  "problem": "《中论》梵名作 “Madhyamaka-kārikā”，规范 §4 及本节点出处栏（sources[0].en）均作 “Mūlamadhyamakakārikā”，全库他处亦同。",
+  "zh_source": "这一表述后来在《中论》中被扩展为「八不」中的一对",
+  "current": "the *Madhyamaka-kārikā*",
+  "suggested": "the *Mūlamadhyamakakārikā*"
+ },
+ {
+  "id": "four_seals",
+  "field": "en",
+  "severity": "low",
+  "problem": "《法华经·方便品》章名正文作 “Skillful Means”，而同节点出处栏 sources[2].en 作 “Expedient Means”，全库通行亦作 “Expedient Means”，前后不一。",
+  "zh_source": "《妙法莲华经·方便品》称「实相印」",
+  "current": "“Skillful Means” chapter",
+  "suggested": "“Expedient Means” chapter"
+ },
+ {
+  "id": "nirodha",
+  "field": "en",
+  "severity": "low",
+  "problem": "「择灭无为」未用通行译名 analytical cessation（pratisaṃkhyā-nirodha），而作解释性短语 “cessation through discernment, the unconditioned”（sources[1].en_q 同此；nirvana 节点亦同）。",
+  "zh_source": "于无为法作「择灭无为」",
+  "current": "it is cessation through discernment, the unconditioned",
+  "suggested": "it is analytical cessation, the unconditioned (pratisaṃkhyā-nirodha)"
+ },
+ {
+  "id": "nirvana",
+  "field": "en",
+  "severity": "low",
+  "problem": "「择灭无为」未用通行译名 analytical cessation（pratisaṃkhyā-nirodha），而作解释性短语 “cessation through discernment, the unconditioned”。",
+  "zh_source": "在无为法中即择灭无为",
+  "current": "among the unconditioned dharmas it is cessation through discernment, the unconditioned",
+  "suggested": "among the unconditioned dharmas it is analytical cessation, the unconditioned (pratisaṃkhyā-nirodha)"
+ },
+ {
+  "id": "right_livelihood",
+  "field": "en_title",
+  "severity": "medium",
+  "problem": "出处栏 sources[1].en 在中文所无之处擅自增补卷次：中文仅作《大智度论》卷19、《瑜伽师地论》，英译却作 “fascicle 22”（卷22 见于同节点 sources[3] 的中文，非此条）。",
+  "zh_source": "《大智度论》卷19、《瑜伽师地论》",
+  "current": "*Mahāprajñāpāramitā-śāstra* (Da Zhidu Lun), fascicle 19; *Yogācārabhūmi-śāstra*, fascicle 22",
+  "suggested": "*Mahāprajñāpāramitā-śāstra* (Da Zhidu Lun), fascicle 19; *Yogācārabhūmi-śāstra*"
+ },
+ {
+  "id": "samudaya",
+  "field": "en",
+  "severity": "medium",
+  "problem": "「义为集起、生起、招感、根源」中的「招感」（招引果报）译作 “accumulation”，而 accumulation 系「集起」之义；段首 “The arising, root and accumulation of suffering.”（←「苦的生起、根源与招感」）同样把「招感」作 accumulation，未译出招引果报一义。",
+  "zh_source": "义为集起、生起、招感、根源",
+  "current": "it means arising together, origination, accumulation and root",
+  "suggested": "it means arising together, origination, the bringing about of result, and root"
+ },
+ {
+  "id": "dukkha",
+  "field": "en_q",
+  "severity": "low",
+  "problem": "「愁悲忧恼苦」为四词，英译只作 “grief, sorrow and distress” 三项，「忧」漏译。",
+  "zh_source": "生苦、老苦、病苦、死苦、愁悲忧恼苦……",
+  "current": "the suffering of grief, sorrow and distress",
+  "suggested": "the suffering of grief, sorrow, anxiety and distress"
+ },
+ {
+  "id": "right_mindfulness",
+  "field": "en_title",
+  "severity": "low",
+  "problem": "出处栏 sources[1].en 书名后引号错配：结尾用了左引号 “ （U+201C），应为右引号 ”。",
+  "zh_source": "《中阿含经》卷24 第98经〈念处经〉",
+  "current": "“Satipaṭṭhāna Sūtra“",
+  "suggested": "“Satipaṭṭhāna Sūtra”"
+ }
+]
