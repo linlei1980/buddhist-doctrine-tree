@@ -135,7 +135,15 @@ Corrections are welcome. If a definition is wrong, a quotation does not match it
 - **Content** (definitions, dating, the structure, the explanatory text): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - **Quotations from scriptures and treatises**: the Chinese Buddhist canon is largely in the public domain. Quotations here were checked against the *Taishō Tripiṭaka* (CBETA), with thanks.
 
-If you reuse the content, please keep the attribution and a link back to this repository.
+### Copying, reposting and reuse
+
+**You are welcome to copy, repost, translate, adapt or redistribute this material — including commercially — with no need to ask permission.** The licence already grants that. The only condition is attribution: a link back to the repository is enough.
+
+A ready-to-paste credit line:
+
+> Source: 佛教基础理论结构树 / Buddhist Doctrines · A Structured Reference — https://github.com/linlei1980/buddhist-doctrine-tree (CC BY 4.0)
+
+If you modify or cut the material, please note that you have done so. If you would rather redistribute without any attribution requirement at all, [open an issue](../../issues) and I will consider re-licensing the text to CC0 — the current CC BY 4.0 keeps attribution, which is all that is asked.
 
 ---
 
@@ -266,7 +274,15 @@ python3 build/i18n_build.py     # 只重建英文译文数据（改动译文后�
 - **内容**（各节点的释义、年代标注、结构编排与说明文字）：[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh)
 - **所引经文与论疏原文**：汉文佛典原文多属公有领域，本仓库仅为研究引用。引文原文据《大正新修大藏经》（CBETA 电子佛典集成）核对，谨此说明并致谢。
 
-使用或转载内容时，请保留出处与本仓库链接。
+### 转载与引用
+
+**欢迎转载、翻译、改编、再分发，包括商业用途，无须事先征得同意。** 许可已经授予这些权利，唯一的要求是署名——注明出处并附上本仓库链接即可。
+
+可直接复制的署名格式：
+
+> 来源：佛教基础理论结构树 / Buddhist Doctrines · A Structured Reference —— https://github.com/linlei1980/buddhist-doctrine-tree （CC BY 4.0）
+
+若你对内容作了增删或改写，请一并说明改动情况。若你希望**连署名也不要求**，请开 [Issue](../../issues) 说明用途，我可以考虑把文字部分改为 CC0（公有领域）——当前的 CC BY 4.0 保留署名这一条，是我唯一的请求。
 
 ---
 

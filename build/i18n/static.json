@@ -11,27 +11,89 @@
   "guideUse": "<b>Four ways to read</b><ul><li><b>To build a framework</b> — start from the main line on this page, then work through the outline from 01 to 12, reading each node's definition. In every node the <b>first paragraph is the gist</b>; exposition and disputed points follow.</li><li><b>To follow the development</b> — switch to the Timeline and read from “c. 6th–5th century BCE” onwards, watching for the nodes marked as key.</li><li><b>To examine one concept</b> — use the search box. It covers names, Indic terms, the body of the definitions and the titles of cited texts; enter <i>Kośa</i> or <i>Madhyamakakārikā</i> to list every relevant node and text node.</li><li><b>To compare school positions</b> — filter by relation type. Selecting <b>Contrast</b> alone gives every disputed question; selecting <b>Assessment</b> gives each school's placement of a given concept.</li></ul><b>What each node contains</b><ul><li><b>Definition</b> — organised as gist, exposition and disputed points.</li><li><b>Dating · textual layers</b> — “Formation of the idea” is the earliest traceable form of the notion in the literature; “Fixation of the text” is when it was named and systematically arranged; “Chinese translation” is when a Chinese reader could actually encounter it. The three are often centuries apart, hence the separate columns.</li><li><b>Sources</b> — cited as far as fascicle, chapter or sutta number, with the passage quoted; the tags distinguish scripture, vinaya, treatise, and historical source. A concept often appears first in a scripture and is fixed later by a treatise; conflating the two falsifies the dating.</li><li><b>Related nodes</b> — with the type of relation and its specific wording; coloured terms inside a definition also link directly.</li></ul><b>Three criteria for judging the dating</b><ul><li>All dates here are approximate or given as a range. For the Buddha's dates there are three traditions — Southern (624–544 BCE), Chinese (565–486 BCE) and modern scholarship (c. 480–400 BCE) — and this page counts from “c. 5th century BCE” throughout, without adopting one.</li><li>Questions such as the councils and the origins of Mahāyāna are recorded only in later retrospective accounts, and those accounts do not agree with the chronology given by physical evidence (the Aśokan edicts, the Gandhāran manuscripts). Both sides are set out separately here.</li><li>The transmission history in layer 12 is a modern historical and philological reconstruction, different in kind from the doctrinal content of layers 01 to 11, and best read separately.</li></ul><b>The network and the main line</b><ul><li>The nine items of the main line mark the trunk only; they are not the only order in which the material can be understood. Of the 619 relations on this page about 49 per cent cross layers, and two relation types — Contested questions and Contrast — exist specifically to record doctrinal disagreement.</li></ul>",
   "guideGlossSummary": "The ten relation types",
   "guideGloss": "<p>Relations between nodes are reduced to ten types. The first edition used 142 labels; the specific wording now appears as small print on each relation row, and only the type remains here.</p><table><tr><th>Type</th><th>Meaning</th><th>Example from this page</th></tr><tr><td><span class=\"tagline\">Part</span></td><td>Whole and part: contains, opens into, divides</td><td>Four Noble Truths ← suffering, origin, cessation, path</td></tr><tr><td><span class=\"tagline\">Sequence</span></td><td>Successive: entry, preliminary, stage</td><td>Three refuges → five precepts</td></tr><tr><td><span class=\"tagline\">Cause</span></td><td>Cause and result: root, produces, ripens</td><td>Twelve links → the six realms</td></tr><tr><td><span class=\"tagline\">Identity</span></td><td>Same referent under another name</td><td>the peace of nirvāṇa = analytical cessation</td></tr><tr><td><span class=\"tagline\">Assessment</span></td><td>A school's placement of a concept</td><td>tathāgatagarbha → taken as a basis by the esoteric school</td></tr><tr><td><span class=\"tagline\">Contrast</span></td><td>Two positions set against each other</td><td>Sarvāstivāda ↔ Sautrāntika (three times exist / past and future do not)</td></tr><tr><td><span class=\"tagline\">Practice</span></td><td>Doctrine and its practice: method, object of contemplation</td><td>four establishments of mindfulness → thirty-seven aids</td></tr><tr><td><span class=\"tagline\">Layer</span></td><td>Attribution to a textual stratum</td><td>early layer → developmental layer</td></tr><tr><td><span class=\"tagline\">Basis</span></td><td>The scripture or reasoning relied on</td><td>ālaya-consciousness, on the <i>Saṃdhinirmocana-sūtra</i></td></tr><tr><td><span class=\"tagline\">Note</span></td><td>Explanation, example, supplement</td><td>the three seals judged by the Four Noble Truths</td></tr></table>",
-  "metaNote": "<b>On the dating given here</b>　All dates are approximate or given as a range, in three columns. <b>Formation of the idea</b> is the earliest traceable form of the notion in the literature; <b>fixation of the text</b> is when it was named, systematically arranged and given a settled formulation — the two are often centuries apart; <b>Chinese translation</b> is the point at which a Chinese reader could actually encounter it, frequently centuries after the Indian composition. For the Buddha's dates there are three traditions — Southern (624–544 BCE), Chinese (565–486 BCE) and modern scholarship (c. 480–400 BCE); this page counts from “c. 5th century BCE” throughout and does not adopt one. <br><br><b>On standpoint</b>　This page passes no judgement on the doctrines; it records structure, definitions, sources and dating only. Where the schools differ over a concept (tathāgatagarbha, the two truths, unconditioned dharmas, the essence of the precepts), the divergence is marked at the node concerned and given its own “contested questions” nodes and <b>Contrast</b> relations, so that a reader can compare them directly. <br><br><b>On the textual layers</b>　Alongside the early, developmental, folk and meta layers this page adds a <b>modern layer</b> — modern methods of study and modern forms of practice. Like the other four it concerns how the teaching has been arranged, studied and carried on, not the teaching itself. The translation history, Tibetan and Southern transmission, and scholarly discussion collected in layer 12 are material about the transmission and study of texts, and are not to be conflated with the doctrinal content of layers 01 to 11.",
+  "metaNote": "<b>On the dating given here</b>　All dates are approximate or given as a range, in three columns. <b>Formation of the idea</b> is the earliest traceable form of the notion in the literature; <b>fixation of the text</b> is when it was named, systematically arranged and given a settled formulation — the two are often centuries apart; <b>Chinese translation</b> is the point at which a Chinese reader could actually encounter it, frequently centuries after the Indian composition. For the Buddha's dates there are three traditions — Southern (624–544 BCE), Chinese (565–486 BCE) and modern scholarship (c. 480–400 BCE); this page counts from “c. 5th century BCE” throughout and does not adopt one. <br><br><b>On standpoint</b>　This page passes no judgement on the doctrines; it records structure, definitions, sources and dating only. Where the schools differ over a concept (tathāgatagarbha, the two truths, unconditioned dharmas, the essence of the precepts), the divergence is marked at the node concerned and given its own “contested questions” nodes and <b>Contrast</b> relations, so that a reader can compare them directly. <br><br><b>On the textual layers</b>　Alongside the early, developmental, folk and meta layers this page adds a <b>modern layer</b> — modern methods of study and modern forms of practice. Like the other four it concerns how the teaching has been arranged, studied and carried on, not the teaching itself. The translation history, Tibetan and Southern transmission, and scholarly discussion collected in layer 12 are material about the transmission and study of texts, and are not to be conflated with the doctrinal content of layers 01 to 11.<br><br><b>On licensing</b>　The content here is released under CC BY 4.0 — <b>copying, reposting, translating, adapting and redistributing it, including commercially, are all welcome and need no permission</b>; a credit line and a link back to the repository are all that is asked. The code is MIT. This page is a single file: save it, share it, read it offline.",
   "chainNodes": [
-    ["Four Noble Truths", "problem", "#C2410C"],
-    ["Three Seals", "criterion", "#7C3AED"],
-    ["Dependent Origination · Karma", "principle", "#0369A1"],
-    ["Nikāyas · Abhidharma", "treatises", "#1D4ED8"],
-    ["Madhyamaka · Yogācāra", "Mahāyāna", "#4338CA"],
-    ["Tathāgatagarbha", "ground", "#BE185D"],
-    ["Classification · Schools", "system", "#A21CAF"],
-    ["Practice", "practice", "#4D7C0F"],
-    ["History · Transmission", "history", "#57534E"]
+    [
+      "Four Noble Truths",
+      "problem",
+      "#C2410C"
+    ],
+    [
+      "Three Seals",
+      "criterion",
+      "#7C3AED"
+    ],
+    [
+      "Dependent Origination · Karma",
+      "principle",
+      "#0369A1"
+    ],
+    [
+      "Nikāyas · Abhidharma",
+      "treatises",
+      "#1D4ED8"
+    ],
+    [
+      "Madhyamaka · Yogācāra",
+      "Mahāyāna",
+      "#4338CA"
+    ],
+    [
+      "Tathāgatagarbha",
+      "ground",
+      "#BE185D"
+    ],
+    [
+      "Classification · Schools",
+      "system",
+      "#A21CAF"
+    ],
+    [
+      "Practice",
+      "practice",
+      "#4D7C0F"
+    ],
+    [
+      "History · Transmission",
+      "history",
+      "#57534E"
+    ]
   ],
-  "chainArrows": ["criterion", "principle", "treatises", null, "Mahāyāna", "ground", "system", null, null],
+  "chainArrows": [
+    "criterion",
+    "principle",
+    "treatises",
+    null,
+    "Mahāyāna",
+    "ground",
+    "system",
+    null,
+    null
+  ],
   "chainSide": "cross-cutting",
   "docsIntro": "<p>The table below is compiled automatically from the “Sources” of every node — <strong>{n} texts in all</strong>. Each row gives the number of nodes citing that text, the category it belongs to, and whether a text node has been created for it; click a row to expand every node that cites it.</p><p><b>On dating</b>　Text nodes deliberately carry no date of their own. For most scriptures the origin of the teaching and the fixation of the text are centuries apart, and this page keeps those two judgements inside the nodes that discuss the text (layers 04 and 12) rather than compressing them into one figure here. Where a translation date could be established from the source lines it is shown in the node itself.</p>",
   "docsGroups": {
-    "经": ["Scripture", "the Buddha's teaching, including the early Nikāyas and the Chinese Āgamas"],
-    "律": ["Vinaya", "monastic precepts and the procedures of the order"],
-    "论疏": ["Treatise and commentary", "śāstras and commentaries — to be dated separately from the scriptures"],
-    "史料": ["Historical source", "chronicles, catalogues, inscriptions and edicts"],
-    "文献": ["Other cited item", ""]
+    "经": [
+      "Scripture",
+      "the Buddha's teaching, including the early Nikāyas and the Chinese Āgamas"
+    ],
+    "律": [
+      "Vinaya",
+      "monastic precepts and the procedures of the order"
+    ],
+    "论疏": [
+      "Treatise and commentary",
+      "śāstras and commentaries — to be dated separately from the scriptures"
+    ],
+    "史料": [
+      "Historical source",
+      "chronicles, catalogues, inscriptions and edicts"
+    ],
+    "文献": [
+      "Other cited item",
+      ""
+    ]
   },
-  "pathsIntro": "Four routes through the material."
+  "pathsIntro": "Four routes through the material.",
+  "metaNoteZh": "<b>关于本页的年代标注</b>　所有年代均为约数或区间。年代分三栏：<b>思想形成</b>指该观念在文献中可追溯的最早形态；<b>文献定型</b>指它被命名、被系统整理、被赋予确定表述的时间——两者常相差数百年；<b>汉译流传</b>指汉传读者的实际接触时点，与印度成书时间往往相隔数百年。佛陀生卒年有南传（前624—前544）、汉传（前565—前486）、现代学界（约前480—前400）三说；本页统一自「约前 5 世纪」起算，不取一说。<br><br><b>关于立场</b>　本页不作教义评判，仅收录理论结构、释义、文献出处与年代；宗派之间对部分概念（如如来藏、二谛、无为法、戒体）的解释互有出入，页内于相应节点标明分歧所在，并另设「论诤」类节点与「对辨」类关系专门记录，读者可据此自行参校。<br><br><b>关于层积标注</b>　本页于早期层、发展层、民间层、元层积之外增设「近世层」（近现代的研究方法与实践形态）。该层与前四层同属关于教义如何被整理、研究与延续的层次，而非教义本身。第十二层「历史 · 传播」所收汉译史、藏译史、南传史及学界讨论，性质属文献的流传与研究，不宜与前十一层的教义内容混同看待。<br><br><b>关于许可</b>　本页内容以 CC BY 4.0 发布，<b>欢迎转载、翻译、改编与再分发（含商业用途），无须事先征得同意</b>，注明出处并附本仓库链接即可；代码部分为 MIT。本页为单文件，可直接另存分享，也可离线使用。"
 }

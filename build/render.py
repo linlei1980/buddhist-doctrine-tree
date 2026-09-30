@@ -375,7 +375,8 @@ def welcome_html(lang, meta_zh=''):
         p3 = ('左栏三个视图：<b>目录</b>为十二层结构树，可按关系类型筛选；<b>年表</b>按九个时段排列，'
               '用于检视发展线索；<b>学习路径</b>提供四条自基础至实践的读法。右侧两个标签页：'
               '<b>总览</b>（本条及其下的修订说明、阅读路径与关系类型）与<b>经律论总览</b>（149 种文献的检索表）。')
-        meta = meta_zh
+        # 页脚从 static.json 取，保证与英文版同源、不被后续步骤覆盖
+        meta = i18n.static().get('metaNoteZh') or meta_zh
     else:
         st = i18n.static(), 
         st = i18n.static()
