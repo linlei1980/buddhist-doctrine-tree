@@ -1,0 +1,27 @@
+name: 校验与重建
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: 重新生成页面（内含五项数据校验）
+        run: python3 build/build.py
+      - name: 确认生成结果与仓库内容一致
+        run: |
+          if ! git diff --quiet; then
+            echo "::error::build/build.py 的输出与仓库中的文件不一致。"
+            echo "请在本地运行 python3 build/build.py 后提交生成结果。"
+            git --no-pager diff --stat
+            exit 1
+          fi
+          echo "生成结果一致。"

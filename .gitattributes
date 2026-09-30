@@ -1,0 +1,7 @@
+# 统一按文本处理，避免跨平台换行符变化
+* text=auto eol=lf
+
+# 单文件成品的 diff 无意义（数据全部内联在一行里），在统计中标记为生成文件
+index.html linguist-generated=true
+data/buddhism.data.js linguist-generated=true
+data/buddhism.json linguist-generated=true
