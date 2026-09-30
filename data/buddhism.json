@@ -522,7 +522,7 @@
      "color": "#0F766E"
     },
     {
-     "t": "《杂阿含经》卷1 第34经",
+     "t": "《杂阿含经》卷2 第34经",
      "q": "「诸所有色，若过去、若未来、若现在……彼一切非我、非我所如实观察。」",
      "tag": "经",
      "color": "#0F766E"
@@ -1049,7 +1049,7 @@
    "src": [
     {
      "t": "《成唯识论述记》卷二",
-     "q": "「[[vipaka|[[vipaka|异熟]]]]」三义（异时而熟、异类而熟、变异而熟）的界说。",
+     "q": "「[[vipaka|异熟]]」三义（异时而熟、异类而熟、变异而熟）的界说。",
      "tag": "论疏",
      "color": "#8A94A6"
     },
@@ -6477,10 +6477,12 @@
        "id": "samudaya",
        "children": [
         {
-         "id": "craving"
+         "id": "craving",
+         "seeAlso": 1
         },
         {
-         "id": "ignorance"
+         "id": "ignorance",
+         "seeAlso": 1
         }
        ]
       },
@@ -11580,6 +11582,222 @@
    "s": "doc_52",
    "t": "yichang",
    "l": "依据"
+  },
+  {
+   "s": "four_foundations",
+   "t": "right_mindfulness",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "four_dhyanas",
+   "t": "right_samadhi",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "five_precepts",
+   "t": "right_action",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "four_truths",
+   "t": "medical_logic",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "dukkha",
+   "t": "four_seals",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "anatta",
+   "t": "nonself_seal",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "nirodha",
+   "t": "nirvana",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "unconditioned",
+   "t": "nirvana",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "karma",
+   "t": "link_formation",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "emptiness",
+   "t": "dependent_origination",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "paratantra",
+   "t": "dependent_origination",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "continuity",
+   "t": "samsara",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "rupa",
+   "t": "five_aggregates",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "parinispanna",
+   "t": "suchness",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "emptiness",
+   "t": "suchness",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "tathagatagarbha",
+   "t": "suchness",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "emptiness",
+   "t": "ultimate",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "anatta",
+   "t": "emptiness",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "paratantra",
+   "t": "three_natures",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "alaya",
+   "t": "eight_consciousnesses",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "buddha_nature",
+   "t": "tathagatagarbha",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "pure_mind",
+   "t": "tathagatagarbha",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "parikalpita",
+   "t": "pure_mind",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "six_paramitas",
+   "t": "bodhisattva_path",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "not_one_not_diff",
+   "t": "anatta",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "continuity",
+   "t": "not_one_not_diff",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "suffering_continues",
+   "t": "nirvana",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "two_truths",
+   "t": "three_truths_round",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "emptiness",
+   "t": "three_truths_round",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "three_bodies",
+   "t": "huayan",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "dependent_origination",
+   "t": "dharma_realm_origination",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "emptiness",
+   "t": "one_true_dharmadhatu",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "chan",
+   "t": "no_attainment",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "eightfold",
+   "t": "vinaya",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "four_dhyanas",
+   "t": "samadhi_training",
+   "l": "体同",
+   "auto": 1
+  },
+  {
+   "s": "dukkha",
+   "t": "all_suffering",
+   "l": "体同",
+   "auto": 1
   }
  ],
  "rels": {

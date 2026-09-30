@@ -150,6 +150,13 @@ for mod in (content_a, content_b, content_c, content_d):
         node.setdefault('era', 'none')
         nodes[k] = node
 
+# ---------- 《杂阿含经》经号校订 ----------
+# 原版把《无我相经》（第34经）系于卷1；该经在《杂阿含经》中属卷二
+# （卷1 止于第32经）。卷10 与卷15 经号经核无误，不改。
+for _s in nodes['nonself_seal']['src']:
+    if _s.get('t') == '《杂阿含经》卷1 第34经':
+        _s['t'] = '《杂阿含经》卷2 第34经'
+
 # ---------- 原版 14 处出处与年代的校订（2026-09 中文校对 A1 组）----------
 # 这些节点的初值来自原版，故必须在此覆盖（改 content_*.py 或 i18n/work/*.json 均无效：
 # build.py 从中解析原版 HTML 取初值，英文题名另经 build/i18n/sources.json 查表）。
@@ -170,7 +177,7 @@ _CN = {
                    ('q',1,'「一切」以[[eighteen_dhatu|十八界]]说明。','「一切」以十二处（六内处、六外处）说明。')],
  # 异熟三义（异时/异类/变异）见《成唯识论述记》卷二，非《俱舍论》卷二
  'vipaka':    [('t',0,'《俱舍论》卷2','《成唯识论述记》卷二'),
-               ('q',0,'「[[vipaka|异熟]]」三义（异时、异类、变异）的经典界说。','「[[vipaka|异熟]]」三义（异时而熟、异类而熟、变异而熟）的界说。')],
+               ('q',0,'「异熟」三义（异时、异类、变异）的经典界说。','「异熟」三义（异时而熟、异类而熟、变异而熟）的界说。')],
  # 《佛性论》〈如来藏品〉在卷二
  'suchness':  [('t',2,'《佛性论》卷一〈如来藏品〉','《佛性论》卷二〈如来藏品〉')],
  # 论书成立年与译出年口径不一，与他处统一为译出年
@@ -467,7 +474,7 @@ TREE = json.loads(r"""
 [
  {"title":"01 问题层 · 四圣谛","epoch":"约前 5 世纪","items":[
    {"id":"four_truths","children":[
-     {"id":"dukkha"},{"id":"samudaya","children":[{"id":"craving"},{"id":"ignorance"}]},
+     {"id":"dukkha"},{"id":"samudaya","children":[{"id":"craving","seeAlso":1},{"id":"ignorance","seeAlso":1}]},
      {"id":"nirodha"},{"id":"marga","children":[{"id":"eightfold","children":[
        {"id":"right_view"},{"id":"right_thought"},{"id":"right_speech"},{"id":"right_action"},
        {"id":"right_livelihood"},{"id":"right_effort"},{"id":"right_mindfulness"},{"id":"right_samadhi"}]}]},
@@ -770,6 +777,9 @@ add('all_suffering','nirvana','依据',None)
 if unknown:
     print('!! 未能归类的原关系标签:', sorted(unknown))
 E = [e for e in E if e['s'] in nodes and e['t'] in nodes]
+# 「体同」是「异名同事」，关系本身可互换：若只有单向声明，反向也应可见，
+# 否则从一端看不到另一端（渲染器按有向边展示）。此处自动补齐反向边。
+
 print('关系总数', len(E), '类型', sorted({e['l'] for e in E}))
 
 # ============================================================
@@ -860,6 +870,21 @@ for k, v in nodes.items():
 for k, v in nodes.items():
     v['depth'] = place[k][0] if k in place else 3
     v['see'] = [x for x in (v.get('see') or []) if x in nodes]
+
+# 「体同」是「异名同事」，关系本身可互换：若只单向声明，反向也应可见，
+# 否则从一端看不到另一端（渲染器按有向边展示关联节点）。此处自动补齐反向边。
+_seen = {(e['s'], e['t'], e['l']) for e in E}
+_added = 0
+for _e in list(E):
+    if _e['l'] != '体同':
+        continue
+    _rev = (_e['t'], _e['s'], '体同')
+    if _rev in _seen:
+        continue
+    E.append(dict(s=_e['t'], t=_e['s'], l='体同', auto=1))
+    _seen.add(_rev)
+    _added += 1
+print('体同反向边补齐', _added, '条')
 
 # 校验
 errs = []
@@ -1248,7 +1273,7 @@ GUIDE_USE = '''<details><summary>阅读路径与判读方法</summary><div class
 </ul>
 <b>关系网络与主线的关系</b>
 <ul>
-<li>主线九项只表示主干，不表示唯一的理解顺序。全页 795 条关系中约 76% 为跨层关系，另有「论诤」「对辨」两类专门记录宗派分歧。</li>
+<li>主线九项只表示主干，不表示唯一的理解顺序。全页 831 条关系中约 76% 为跨层关系，另有「论诤」「对辨」两类专门记录宗派分歧。</li>
 </ul>
 </div></details>'''
 

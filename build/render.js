@@ -13,11 +13,26 @@ const RELS = DATA.rels, CATS = DATA.cats, EP = DATA.epochs, ERAS = DATA.eras, TT
 
 const ADJ = {}; Object.keys(NODES).forEach(id => ADJ[id] = []);
 let edgeN = 0;
+const ADJ_SEEN = {};   /* 同一对节点与同一关系只显示一行：体同等可互换的关系常双向声明 */
+Object.keys(NODES).forEach(id => ADJ_SEEN[id] = {});
 EDGES.forEach(e => {
   if (!NODES[e.s] || !NODES[e.t]) return;
   edgeN++;
-  ADJ[e.s].push({o: e.t, l: e.l, note: e.note || '', dir: 'out'});
-  ADJ[e.t].push({o: e.s, l: e.l, note: e.note || '', dir: 'in'});
+  const push = (from, to, dir) => {
+    const key = to + '|' + e.l;
+    const prev = ADJ_SEEN[from][key];
+    if (prev) {
+      /* 已有该对关系：若本次带说明而先前没有，则补上说明；方向以声明边为准 */
+      if (!prev.note && e.note) prev.note = e.note;
+      if (dir === 'out') prev.dir = 'out';
+      return;
+    }
+    const item = {o: to, l: e.l, note: e.note || '', dir};
+    ADJ_SEEN[from][key] = item;
+    ADJ[from].push(item);
+  };
+  push(e.s, e.t, 'out');
+  push(e.t, e.s, 'in');
 });
 
 /* ---------- 工具 ---------- */
@@ -68,7 +83,8 @@ function buildItem(item, depth) {
     head.textContent = item.name || item.note || '';
     if (item.name) frag.appendChild(head);
   } else {
-    const row = nodeRow(item.id, depth, item.note);
+    // item.note 为作者的层级说明；seeAlso 表示该节点在别处已有正位，此处为「另见」
+    const row = nodeRow(item.id, depth, item.seeAlso ? (UI.seeAlso || '') : item.note);
     if (row) frag.appendChild(row);
   }
   (item.children || []).forEach(c => frag.appendChild(buildItem(c, depth + 1)));

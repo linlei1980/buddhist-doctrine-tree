@@ -2,15 +2,15 @@
 
 **English** · [中文](#中文)　·　[Jump to English](#english)
 
-一份把佛教基础理论组织为十二层结构的单页参考：231 个概念、795 条带类型的关系、550 条文献出处引证，每个概念附释义、分栏年代与出处原文；中英双语，可离线使用。
+一份把佛教基础理论组织为十二层结构的单页参考：231 个概念、831 条带类型的关系、550 条文献出处引证，每个概念附释义、分栏年代与出处原文；中英双语，可离线使用。
 
-*A single-page reference in twelve layers — 231 concepts, 795 typed relations, 550 cited passages — bilingual, self-contained, works offline.*
+*A single-page reference in twelve layers — 231 concepts, 831 typed relations, 550 cited passages — bilingual, self-contained, works offline.*
 
 ---
 
 ## English
 
-A single-page reference that organises the foundational doctrines of Buddhism into **twelve layers**: 231 concepts, 795 typed relations between them, and 550 cited passages, each concept carrying a definition, the source it rests on, and dated textual layers.
+A single-page reference that organises the foundational doctrines of Buddhism into **twelve layers**: 231 concepts, 831 typed relations between them, and 550 cited passages, each concept carrying a definition, the source it rests on, and dated textual layers.
 
 **Read online (no download)**: <https://linlei1980.github.io/buddhist-doctrine-tree/en.html>
 **Chinese edition**: <https://linlei1980.github.io/buddhist-doctrine-tree/>　·　a language switch sits at the top right of both pages
@@ -48,7 +48,7 @@ Search covers names, Indic terms, the body of the definitions, and the titles of
 | | |
 |---|---|
 | Concepts | 231 (51 of them text entries, generated automatically) |
-| Typed relations | 795 in ten types, about 76 % of them crossing layers |
+| Typed relations | 831 in ten types, about 76 % of them crossing layers |
 | Cited passages | 549, given down to fascicle, chapter or sutta number, with the quotation |
 | Outline depth | 12 layers |
 | Timeline | 9 periods, from about the 6th century BCE to the modern period |
@@ -156,7 +156,7 @@ If you modify or cut the material, please note that you have done so. If you wou
 
 [English](#english) · **中文**
 
-一份把佛教基础理论组织为**十二层结构**的单页参考：231 个概念，795 条带类型的概念关系，550 条文献出处引证，每个概念都标注释义、出处原文与分栏年代。
+一份把佛教基础理论组织为**十二层结构**的单页参考：231 个概念，831 条带类型的概念关系，550 条文献出处引证，每个概念都标注释义、出处原文与分栏年代。
 
 **在线查看（无需下载）**：<https://linlei1980.github.io/buddhist-doctrine-tree/>
 **英文版**：<https://linlei1980.github.io/buddhist-doctrine-tree/en.html>　·　两页右上角均可切换语言
@@ -194,7 +194,7 @@ If you modify or cut the material, please note that you have done so. If you wou
 | 项 | 数量 |
 |---|---|
 | 概念 | 230（其中 51 个为自动生成的文献节点） |
-| 概念关系 | 795，规范为 10 类，约 76% 为跨层关系 |
+| 概念关系 | 831，规范为 10 类，约 76% 为跨层关系 |
 | 出处引证 | 550 条，标至卷 / 品 / 经号并附原文 |
 | 目录层级 | 12 层 |
 | 年表时段 | 9 段（约前 6 世纪 — 近现代） |

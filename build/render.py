@@ -22,7 +22,7 @@ LANGS = {
 UI_KEYS = [
     'searchPlaceholder', 'tabTree', 'tabTimeline', 'tabPath', 'tabWelcome', 'tabDocs', 'tabNode',
     'toolsExpand', 'toolsCollapse', 'relHint', 'tlKeyOnly', 'tlAll', 'tlHint', 'pathHint',
-    'back', 'guideSummary', 'noMatch', 'seeAlsoPrefix', 'eraPosPrefix', 'ttkAbout',
+    'back', 'guideSummary', 'noMatch', 'seeAlso', 'seeAlsoPrefix', 'eraPosPrefix', 'ttkAbout',
     'secMeaning', 'secTime', 'secSource', 'secRelated', 'badgeSrc', 'badgeRel', 'epLabel',
     'docNoDating', 'unitLayers', 'unitPeriods',
 ]
@@ -75,11 +75,12 @@ DOC_NAME_EN = {
 }
 
 DOC_GROUP_EN = {
-    '经藏 · 主要经典': 'Sūtra · principal scriptures',
-    '律藏 · 戒律与僧事': 'Vinaya · precepts and monastic procedure',
-    '论疏 · 论书与注疏': 'Treatise and commentary',
-    '史料 · 史传、目录与法敕': 'Historical source',
-    '其他引用文献': 'Other cited texts',
+    # 键为文献节点的 kind（build.py 的 DOC_GROUP_NAME 以此为前缀）
+    '经': ('Sūtra', 'principal scriptures'),
+    '律': ('Vinaya', 'precepts and monastic procedure'),
+    '论疏': ('Treatise', 'treatises and commentaries'),
+    '史料': ('Historical source', 'histories, catalogues and edicts'),
+    '文献': ('Other cited texts', ''),
 }
 
 def translate_data(lang):
@@ -161,25 +162,37 @@ def tree_for(lang):
     for L in T:
         L['title'] = LAYER_TITLES_EN.get(L['title'], L['title'])
         L['epoch'] = LAYER_EPOCH_EN.get(L['epoch'], L['epoch'])
-        for it in L['items']:
-            note = it.get('note')
-            if note:
-                if '见「05 大乘层」' in note:
-                    it['note'] = 'three natures · eight consciousnesses · transformation into wisdom · four wisdoms — see layer 05'
-                elif note == '第一支':
-                    it['note'] = '1st link'
-                elif note == '第八支':
-                    it['note'] = '8th link'
-                elif re.fullmatch(r'\d+ 种', note):
-                    it['note'] = note.replace('种', ' texts')
-                else:
-                    parts = note.split(' · ')
-                    head = DOC_GROUP_EN.get(parts[0], parts[0])
-                    it['note'] = ' · '.join([head] + [p.replace('种', ' texts') for p in parts[1:]])
+        # 层级说明需递归处理：节点可出现在任意深度（如十二支之下的「第一支」）
+        def fix_note(items):
+            for it in items:
+                note = it.get('note')
+                if note:
+                    if '见「05 大乘层」' in note:
+                        it['note'] = ('three natures · eight consciousnesses · transformation into '
+                                      'wisdom · four wisdoms — see layer 05')
+                    elif note == '第一支':
+                        it['note'] = '1st link'
+                    elif note == '第八支':
+                        it['note'] = '8th link'
+                    elif re.fullmatch(r'\d+ 种', note):
+                        it['note'] = note.replace('种', ' texts')
+                    elif it['id'].startswith('docgroup_'):
+                        _kind = it['id'][len('docgroup_'):]
+                        _nm = DOC_GROUP_EN.get(_kind)
+                        _cnt = re.search(r'(\d+) 种$', note)
+                        if _nm:
+                            it['note'] = ' · '.join(
+                                [x for x in (_nm[0], _nm[1], (_cnt.group(1) if _cnt else '')) if x])
+                    else:
+                        it['note'] = note
+                fix_note(it.get('children', []))
+        for L in T:
+            fix_note(L['items'])
         # 文献分组标题
     def fix_group(items):
         for it in items:
             if it['id'].startswith('docgroup_'):
+                # 分组标题：译名（+ 条数）。计数既是标题的一部分，也用于 note
                 it['name'] = it.get('note', '')
             fix_group(it.get('children', []))
     for L in T:
