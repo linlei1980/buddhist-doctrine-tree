@@ -1,0 +1,101 @@
+[
+ {
+  "id": "abhidharma",
+  "field": "en",
+  "severity": "high",
+  "problem": "中文所引有部定义「色者，变坏义」被译作 “form means the nature of resistance”。「变坏」（变坏／坏灭）与「质碍」（resistance）是两套不同的色的定义，此处改换了所引定义，属事实性误译。",
+  "zh_source": "（如「色者，变坏义」）",
+  "current": "form means the nature of resistance",
+  "suggested": "form means being subject to change and destruction"
+ },
+ {
+  "id": "abhidharma",
+  "field": "en",
+  "severity": "medium",
+  "problem": "「摄、相应、因、果等门」中的「相应」（saṃprayoga）译作 correspondence，非学界通行译法；同一批次 six_causes_five_results 中「相应因」作 associated cause，前后不一致。",
+  "zh_source": "**摄、相应、因、果等门**",
+  "current": "The gates of inclusion, correspondence, cause, and result",
+  "suggested": "The gates of inclusion, association, cause, and result"
+ },
+ {
+  "id": "debate_atom",
+  "field": "en",
+  "severity": "medium",
+  "problem": "中文「无部分者相加，仍不能构成有部分之物」被译成 “parts added to one another still cannot constitute something that has parts”，把「无部分者」误作「有部分者」，使经量部／唯识的关键论证变成同义反复，论证力度被削弱。",
+  "zh_source": "（无部分者相加，仍不能构成有部分之物）",
+  "current": "(parts added to one another still cannot constitute something that has parts)",
+  "suggested": "(things without parts, added to one another, still cannot constitute something that has parts)"
+ },
+ {
+  "id": "debate_two_truths",
+  "field": "en",
+  "severity": "medium",
+  "problem": "天台术语「即」译作 “immediately”（“immediately”并无「即空即假即中」之「即」义），且与本批次他处「即空即假即中 → empty, provisional, and middle at once」的译法不一致。",
+  "zh_source": "这是把「言教」与「境」的对立消解于「即」字。",
+  "current": "in the word “immediately.”",
+  "suggested": "in the word “at once” (即)."
+ },
+ {
+  "id": "eighteen_schools",
+  "field": "en_q",
+  "severity": "medium",
+  "problem": "引文中的链接显示文字「二十部」被译成 eighteen schools，与中文数字（二十部）不符；《异部宗轮论》所记传统为二十部，而非十八部。",
+  "zh_source": "记[[eighteen_schools|二十部]]之分裂次第与各部宗义。",
+  "current": "[[eighteen_schools|eighteen schools]]",
+  "suggested": "[[eighteen_schools|twenty schools]]"
+ },
+ {
+  "id": "eighteen_schools",
+  "field": "en",
+  "severity": "low",
+  "problem": "出处英译题名（sources[1].en）把「《岛史》第五章」的「章」译作 fascicle（卷）；Dīpavaṃsa 无「卷」之分，宜作 chapter。",
+  "zh_source": "《岛史》第五章、《大史》",
+  "current": "*Dīpavaṃsa*, fascicle 5, and *Mahāvaṃsa*",
+  "suggested": "*Dīpavaṃsa*, chapter 5, and *Mahāvaṃsa*"
+ },
+ {
+  "id": "hetuvidya",
+  "field": "en",
+  "severity": "high",
+  "problem": "中文只列《因明入正理论》（Nyāyapraveśa）与窥基《因明大疏》两种「汉传因明的主要文本」，英译额外加入 *Nyāyamukha*（《因明正理门论》）——原文没有的内容；虽该书确为汉传因明要籍，仍属擅自增补。",
+  "zh_source": "《因明入正理论》与窥基《因明大疏》是汉传因明的主要文本。",
+  "current": "the *Nyāyamukha* and the *Nyāyapraveśa*, with Kuiji's *Yinming Dashu*, are the principal Chinese texts of hetuvidyā.",
+  "suggested": "the *Nyāyapraveśa* and Kuiji's *Yinming Dashu* are the principal Chinese texts of hetuvidyā."
+ },
+ {
+  "id": "six_causes_five_results",
+  "field": "en",
+  "severity": "low",
+  "problem": "「择灭无为」未用通行译名 analytical cessation（pratisaṃkhyā-nirodha），而以解释性短语 “the uncompounded cessation obtained by analysis” 代之，作为专名不便检索。",
+  "zh_source": "而是「择灭无为」",
+  "current": "the uncompounded cessation obtained by analysis",
+  "suggested": "analytical cessation, the uncompounded (pratisaṃkhyā-nirodha)"
+ },
+ {
+  "id": "vijnapti_matra",
+  "field": "en_q",
+  "severity": "medium",
+  "problem": "引文「我说识所缘，唯识所现故」译作 “is consciousness-only, because it is what is manifested by that”：中文谓所缘为「唯识所现」，英译改成「即是唯识」并以 “by that” 回指自身，语意循环、指代不明，且强于原文。",
+  "zh_source": "「我说识所缘，[[vijnapti_matra|唯识]]所现故。」",
+  "current": "“That which I say is the object of consciousness is [[vijnapti_matra|consciousness-only]], because it is what is manifested by that.”",
+  "suggested": "“That which I say is the object of consciousness is so because it is manifested by [[vijnapti_matra|consciousness-only]].”"
+ },
+ {
+  "id": "yogacara_vs_madhyamaka",
+  "field": "en_q",
+  "severity": "medium",
+  "problem": "「理有情无」译作 “reasonable but without a being”，把「理有」（依理／胜义上有）误读为 “reasonable”，并丢掉「有」的实有义；原义为「理上有，而（有情／实我）无」。",
+  "zh_source": "依他起「理有情无」的立场。",
+  "current": "The position that the dependent nature is “reasonable but without a being.”",
+  "suggested": "The position that the dependent nature “exists in principle, though the being does not.”"
+ },
+ {
+  "id": "yogacara_vs_madhyamaka",
+  "field": "en",
+  "severity": "low",
+  "problem": "出处英译题名（sources[0].en）把「卷8、卷9」译作 chs. 8 and 9，与全批次「卷 = fascicle」的写法不一致。",
+  "zh_source": "《成唯识论》卷8、卷9",
+  "current": "chs. 8 and 9",
+  "suggested": "fascicles 8 and 9"
+ }
+]

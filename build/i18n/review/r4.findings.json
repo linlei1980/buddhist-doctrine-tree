@@ -1,0 +1,101 @@
+[
+  {
+    "id": "parikalpita",
+    "field": "en_q",
+    "severity": "high",
+    "problem": "「情有理无」的「情」指迷情、妄情（众生迷妄的认识），英语佛学中 affection 一般指贪爱（烦恼）；译作 “existent as affection” 既乖原义，也不成句——本义是「在迷情上为有（众生认识中似有），在理上为无」。",
+    "zh_source": "「遍计所执，情有理无。」",
+    "current": "“The imagined nature is existent as affection and non-existent in principle.”",
+    "suggested": "“The imagined nature is affirmed in sentient experience but absent in reality.”"
+  },
+  {
+    "id": "paratantra",
+    "field": "en_q",
+    "severity": "high",
+    "problem": "「理有情无」同样把「情」误作 affection：应为「理上有（实有），迷情上无（其上无遍计所执）」；按现译读者会读成依他起「作为情爱不存在」，无法与同句「别有实体」相衔接。",
+    "zh_source": "「依他起，理有情无」——依他起别有实体，非如遍计全无。",
+    "current": "“The dependent nature is existent in principle and non-existent as affection” — the dependent nature has its own distinct substantiality, unlike the imagined nature, which is wholly non-existent.",
+    "suggested": "“The dependent nature is real in principle but non-existent in [deluded] sentient experience” — the dependent nature has its own distinct substantiality, unlike the imagined nature, which is wholly non-existent."
+  },
+  {
+    "id": "parikalpita",
+    "field": "en",
+    "severity": "medium",
+    "problem": "正文两处承上把「情有」译作 existent as affection，并把「情有理无」对举为 existent as affection / non-existent in principle；「情」此处指众生迷情（认识中），非贪爱，术语用错导致定义失真。",
+    "zh_source": "它的特点是「情有理无」：在众生的认识中确实存在（情有），但在实际的法上并不存在（理无）。",
+    "current": "Its characteristic is “existent as affection, non-existent in principle” (qing you li wu): it genuinely exists in the cognition of sentient beings (existent as affection), but it does not exist in the actual dharmas (non-existent in principle).",
+    "suggested": "Its characteristic is “affirmed in sentient experience but absent in reality” (qing you li wu): it genuinely exists in the cognition of sentient beings, but it does not exist in the actual dharmas."
+  },
+  {
+    "id": "three_doors",
+    "field": "en_q",
+    "severity": "high",
+    "problem": "「观无我我所」中第二个「无」被漏译，作 “non-self and what belongs to a self”（我、我所），与原文相反；无我我所即「无我、无我所」，是离慢习、得见清净之观，须补出否定。",
+    "zh_source": "最后观[[anatta|无我]]我所而离慢习、得知见清净",
+    "current": "Through the three contemplations of emptiness, signlessness, and nothingness, one finally contemplates [[anatta|non-self]] and what belongs to a self, thereby abandoning the habit of conceit and attaining purity of knowledge and vision; this is called the “seal of the noble Dharma”.",
+    "suggested": "Through the three contemplations of emptiness, signlessness, and nothingness, one finally contemplates [[anatta|non-self]] and nothing belonging to a self, thereby abandoning the habit of conceit and attaining purity of knowledge and vision; this is called the “seal of the noble Dharma”."
+  },
+  {
+    "id": "eight_consciousnesses",
+    "field": "en",
+    "severity": "medium",
+    "problem": "「既不需假设一个实体灵魂，又需要说明业力如何跨生命相续」译成 “it is necessary neither to posit … nor to fail to explain …”；neither…nor 的常规读法是「两者都不必」，等于说「不必说明业力相续」，与原文「必须说明」相反，句子自相矛盾。",
+    "zh_source": "既不需假设一个实体灵魂，又需要说明业力如何跨生命相续",
+    "current": "it is necessary neither to posit a substantial soul nor to fail to explain how karma continues across lives",
+    "suggested": "there is no need to posit a substantial soul, yet one must explain how karma continues across lives"
+  },
+  {
+    "id": "alaya",
+    "field": "en",
+    "severity": "low",
+    "problem": "同一节点内「卷」的译法不一致：正文作 ch. 7，本节点出处栏作 fascicle 7。卷应为 fascicle（品才是 chapter），全批宜统一。",
+    "zh_source": "《入楞伽经》卷7",
+    "current": "the *Laṅkāvatāra Sūtra* (Ru Lengqie Jing), ch. 7",
+    "suggested": "the *Laṅkāvatāra Sūtra* (Ru Lengqie Jing), fascicle 7"
+  },
+  {
+    "id": "three_natures",
+    "field": "en",
+    "severity": "low",
+    "problem": "同一节点内「卷74」正文作 ch. 74，出处栏作 fascicle 74，前后不一致；建议统一为 fascicle。（同批 three_doors 的 ch. 28／ch. 74／ch. 20、parinispanna 与 tathagatagarbha 的 chs. 8 and 9／chs. 4 and 7 同此。）",
+    "zh_source": "见《瑜伽师地论》卷74",
+    "current": "(see *Yogācārabhūmi-śāstra*, ch. 74)",
+    "suggested": "(see *Yogācārabhūmi-śāstra*, fascicle 74)"
+  },
+  {
+    "id": "three_doors",
+    "field": "en",
+    "severity": "low",
+    "problem": "「卷」译作 ch.（chapter）：本批同一「卷」多数译作 fascicle（如《杂阿含经》卷3 → fascicle 3），此处及同段 ch. 74、ch. 20 应统一为 fascicle。",
+    "zh_source": "《俱舍论》卷28",
+    "current": "*Abhidharmakośa-bhāṣya* (Jushe lun), ch. 28",
+    "suggested": "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicle 28"
+  },
+  {
+    "id": "icchantika",
+    "field": "en",
+    "severity": "low",
+    "problem": "术语重复：中文「一阐提（icchantika，……）」已给出原语，英文再写成 “The icchantika (icchantika, …)”，括号内重复本词，冗余。",
+    "zh_source": "一阐提（icchantika，「欲求者」）",
+    "current": "**The icchantika** (icchantika, “one who desires”)",
+    "suggested": "**The icchantika** (“one who desires”)"
+  },
+  {
+    "id": "tathagatagarbha",
+    "field": "en",
+    "severity": "low",
+    "problem": "「唯识也不完全等同如来藏」译作 “Yogācāra does not wholly equate it with the tathāgatagarbha either”；it 无先行词（若指如来藏本身则同义反复），读者无法确定被等同的是什么。",
+    "zh_source": "唯识也不完全等同如来藏",
+    "current": "and Yogācāra does not wholly equate it with the tathāgatagarbha either",
+    "suggested": "nor does Yogācāra wholly equate [its own position] with the tathāgatagarbha"
+  },
+  {
+    "id": "three_natures",
+    "field": "en",
+    "severity": "low",
+    "problem": "单复数不一致：“one and the same” 后接复数名词 dependently originated dharmas，语法不通。",
+    "zh_source": "对同一缘起法的三种认识状态",
+    "current": "The three are not three worlds but three cognitive states with respect to one and the same dependently originated dharmas.",
+    "suggested": "The three are not three worlds but three cognitive states with respect to the same dependently originated dharmas."
+  }
+]
