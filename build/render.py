@@ -387,6 +387,69 @@ def welcome_html(lang, meta_zh=''):
             '  <div class="meta-note" id="metaNote">%s</div>\n</div>'
             % (h2, p1, p2, chain_html(lang), p3, guide_html(lang), meta))
 
+# ---------------------------------------------------------------- <head>（含 SEO）
+def head_html(lang):
+    """生成 head：标题、描述、关键词、canonical、hreflang 与 OG。"""
+    u = lambda k: i18n.ui_str(lang, k)
+    esc = lambda t: (t.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+                     .replace('"', '&quot;'))
+    title, desc, kw = u('title'), u('metaDesc'), u('metaKeywords')
+    canon, alt = u('canonical'), i18n.ui_str('en' if lang == 'zh' else 'zh', 'canonical')
+    return ('<head>\n'
+            '<meta charset="UTF-8">\n'
+            '<meta name="viewport" content="width=device-width,initial-scale=1">\n'
+            '<title>%s</title>\n'
+            '<meta name="description" content="%s">\n'
+            '<meta name="keywords" content="%s">\n'
+            '<link rel="canonical" href="%s">\n'
+            '<link rel="alternate" hreflang="zh-Hans" href="%s">\n'
+            '<link rel="alternate" hreflang="en" href="%s">\n'
+            '<link rel="alternate" hreflang="x-default" href="%s">\n'
+            '<meta property="og:type" content="article">\n'
+            '<meta property="og:site_name" content="%s">\n'
+            '<meta property="og:title" content="%s">\n'
+            '<meta property="og:description" content="%s">\n'
+            '<meta property="og:url" content="%s">\n'
+            '<meta property="og:locale" content="%s">\n'
+            '<meta property="og:locale:alternate" content="%s">\n'
+            '<meta name="twitter:card" content="summary">\n'
+            '<meta name="twitter:title" content="%s">\n'
+            '<meta name="twitter:description" content="%s">\n'
+            '<script type="application/ld+json">%s</script>\n'
+            '</head>\n'
+            % (esc(title), esc(desc), esc(kw), esc(canon),
+               i18n.ui_str('zh', 'canonical'), i18n.ui_str('en', 'canonical'),
+               i18n.ui_str('zh', 'canonical'), esc(u('siteName')), esc(title), esc(desc),
+               esc(canon), u('ogLocale'), u('ogLocaleAlt'), esc(title), esc(desc),
+               json.dumps(ldjson(lang), ensure_ascii=False)))
+
+def ldjson(lang):
+    """结构化数据：说明这是什么、面向谁、以何语言呈现。"""
+    u = lambda k: i18n.ui_str(lang, k)
+    return {
+        '@context': 'https://schema.org',
+        '@type': 'LearningResource',
+        'name': u('title'),
+        'description': u('metaDesc'),
+        'url': u('canonical'),
+        'inLanguage': 'zh-Hans' if lang == 'zh' else 'en',
+        'learningResourceType': 'Reference work',
+        'educationalLevel': 'Beginner to advanced',
+        'about': [{'@type': 'Thing', 'name': x} for x in
+                  (['佛教', '佛学', '四圣谛', '缘起', '无我', '中观', '唯识', '如来藏', '判教',
+                    '汉传佛教', '藏传佛教', '南传佛教'] if lang == 'zh' else
+                   ['Buddhism', 'Buddhist doctrine', 'Four Noble Truths', 'dependent origination',
+                    'non-self', 'Madhyamaka', 'Yogācāra', 'tathāgatagarbha',
+                    'doctrinal classification', 'Chinese Buddhism', 'Tibetan Buddhism',
+                    'Theravāda'])],
+        'isAccessibleForFree': True,
+        'license': 'https://creativecommons.org/licenses/by/4.0/',
+        'author': {'@type': 'Person', 'name': 'Lin Lei'},
+        'keywords': u('metaKeywords'),
+        'hasPart': {'@type': 'WebPage', 'url': i18n.ui_str('en' if lang == 'zh' else 'zh', 'canonical'),
+                    'inLanguage': 'en' if lang == 'zh' else 'zh-Hans'},
+    }
+
 # ---------------------------------------------------------------- 整页生成
 def header_html(lang):
     u = lambda k: i18n.ui_str(lang, k)
@@ -408,9 +471,11 @@ def render_page(lang, meta_zh=''):
                 'border:1px solid var(--line);border-radius:12px;padding:2px 11px;font-size:11.5px">%s</a>'
                 % (i18n.ui_str(lang, 'switchHref'), i18n.ui_str(lang, 'switchLabel')))
     page = seg.PAGE
+    # 用生成好的 head 段替换模板里的 head
+    i = page.index('<head'); j = page.index('</head>') + len('</head>')
+    page = page[:i] + head_html(lang).rstrip('\n') + page[j:]
+    page = page.replace('<html lang="zh-CN">', '<html lang="%s">' % i18n.ui_str(lang, 'htmlLang'), 1)
     page = page.replace('__CSS__', seg.CSS)
-    page = page.replace('__TITLE__', i18n.ui_str(lang, 'title'))
-    page = page.replace('__HTML_LANG__', i18n.ui_str(lang, 'htmlLang'))
     page = page.replace('<span>十二层主线 + 部派阿毗达磨 + 印度大乘 + 汉传十宗 + 藏传南传　·　每个概念附释义、出处引文与年代考订</span>',
                         '<span>%s</span>' % i18n.ui_str(lang, 'pageSub'))
     # 标题行加语言切换
