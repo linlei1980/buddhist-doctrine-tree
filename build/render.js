@@ -24,8 +24,9 @@ EDGES.forEach(e => {
 const esc = s => String(s == null ? '' : s)
   .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const mdIn = s => esc(s)
-  .replace(/\*\*(.+?)\*\*/g, '<b>$1</b>')
+  // 先斜体后粗体，二者可互相嵌套（如 **粗体内的 *书名***）
   .replace(/(^|[^*])\*([^*\n]+?)\*(?!\*)/g, '$1<i>$2</i>')
+  .replace(/\*\*(.+?)\*\*/g, '<b>$1</b>')
   .replace(/\[\[([a-z0-9_]+)\|(.+?)\]\]/g, '<a href="#$1" class="ilink">$2</a>')
   .replace(/\n\n/g, '<br><br>')
   .replace(/\n(?=- |\d+\. )/g, '<br>')

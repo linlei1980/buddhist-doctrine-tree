@@ -18,29 +18,33 @@ JUAN = [(re.compile(r'\bjuan\s+(\d+)'), r'fascicle \1'),
 # 经号：统一用 "sūtra N"
 SUTRA = [(re.compile(r'\bsūtra no\.\s*'), 'sūtra '),
          (re.compile(r'\bsutta no\.\s*'), 'sutta ')]
-# 书名：Nikāya / Āgama / Sūtra 等词去连字符、统一大写
+# 书名：统一连字符与大小写。**必须幂等**——用 (?<!\*) 与 (?!\*) 排除已被斜体包裹的情形，
+# 否则每运行一次就会在星号外再包一层星号（曾因此累积成 ***…***）。
+def _title(pat, form):
+    return (re.compile(r'(?<!\*)\*?' + pat + r'\*?(?!\*)'), form)
+
 TITLES = [
- (re.compile(r'\bDīgha-nikāya\b'), '*Dīgha Nikāya*'),
- (re.compile(r'\bMajjhima-nikāya\b'), '*Majjhima Nikāya*'),
- (re.compile(r'\bSaṃyutta-nikāya\b'), '*Saṃyutta Nikāya*'),
- (re.compile(r'\bSaṃyukta-nikāya\b'), '*Saṃyukta Nikāya*'),
- (re.compile(r'\bAṅguttara-nikāya\b'), '*Aṅguttara Nikāya*'),
- (re.compile(r'\bSaṃyukta-āgama\b'), '*Saṃyukta-āgama*'),
- (re.compile(r'\bMadhyama-āgama\b'), '*Madhyama-āgama*'),
- (re.compile(r'\bDīrgha-āgama\b'), '*Dīrgha-āgama*'),
- (re.compile(r'\bEkottarika-āgama\b'), '*Ekottarika-āgama*'),
- (re.compile(r'\bMahāsatipaṭṭhāna[- ]sutta\b'), '*Mahāsatipaṭṭhāna Sutta*'),
- (re.compile(r'\bMahācattārīsaka[- ]sutta\b'), '*Mahācattārīsaka Sutta*'),
- (re.compile(r'\bSāmaññaphala[- ]sutta\b'), '*Sāmaññaphala Sutta*'),
- (re.compile(r'\bSatipaṭṭhāna[- ]sutta\b'), '*Satipaṭṭhāna Sutta*'),
- (re.compile(r'\bAnattalakkhaṇa[- ]sutta\b'), '*Anattalakkhaṇa Sutta*'),
- (re.compile(r'\bMūlamadhyamakakārikā\b'), '*Mūlamadhyamakakārikā*'),
- (re.compile(r'\bMulamadhyamakakarika\b'), '*Mūlamadhyamakakārikā*'),
- (re.compile(r'\bMadhyamaka-kārikā\b'), '*Mūlamadhyamakakārikā*'),
- (re.compile(r'\bYogācārabhūmi\b(?!-śāstra)'), '*Yogācārabhūmi-śāstra*'),
- (re.compile(r'\bYogacarabhumi-sastra\b'), '*Yogācārabhūmi-śāstra*'),
- (re.compile(r'\bSaṃdhinirmocana Sūtra\b'), '*Saṃdhinirmocana-sūtra*'),
- (re.compile(r'\bAbhidharmakośa-bhāṣya\b'), '*Abhidharmakośa-bhāṣya*'),
+ _title(r'Dīgha-nikāya', '*Dīgha Nikāya*'),
+ _title(r'Majjhima-nikāya', '*Majjhima Nikāya*'),
+ _title(r'Saṃyutta-nikāya', '*Saṃyutta Nikāya*'),
+ _title(r'Saṃyukta-nikāya', '*Saṃyukta Nikāya*'),
+ _title(r'Aṅguttara-nikāya', '*Aṅguttara Nikāya*'),
+ _title(r'Saṃyukta-āgama', '*Saṃyukta-āgama*'),
+ _title(r'Madhyama-āgama', '*Madhyama-āgama*'),
+ _title(r'Dīrgha-āgama', '*Dīrgha-āgama*'),
+ _title(r'Ekottarika-āgama', '*Ekottarika-āgama*'),
+ _title(r'Mahāsatipaṭṭhāna[- ]sutta', '*Mahāsatipaṭṭhāna Sutta*'),
+ _title(r'Mahācattārīsaka[- ]sutta', '*Mahācattārīsaka Sutta*'),
+ _title(r'Sāmaññaphala[- ]sutta', '*Sāmaññaphala Sutta*'),
+ _title(r'Satipaṭṭhāna[- ]sutta', '*Satipaṭṭhāna Sutta*'),
+ _title(r'Anattalakkhaṇa[- ]sutta', '*Anattalakkhaṇa Sutta*'),
+ _title(r'Mūlamadhyamakakārikā', '*Mūlamadhyamakakārikā*'),
+ _title(r'Mulamadhyamakakarika', '*Mūlamadhyamakakārikā*'),
+ _title(r'Madhyamaka-kārikā', '*Mūlamadhyamakakārikā*'),
+ _title(r'Yogācārabhūmi(?!-śāstra)', '*Yogācārabhūmi-śāstra*'),
+ _title(r'Yogacarabhumi-sastra', '*Yogācārabhūmi-śāstra*'),
+ _title(r'Saṃdhinirmocana Sūtra', '*Saṃdhinirmocana-sūtra*'),
+ _title(r'Abhidharmakośa-bhāṣya', '*Abhidharmakośa-bhāṣya*'),
 ]
 # 中文注释：同一部书的罗马化括注统一
 PARENS = [
