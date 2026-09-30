@@ -239,7 +239,7 @@ nodes['nonself_seal'] = dict(
 
 # 原节点年表时段标注
 ERA_BY_ID = {
- '前6-5': ['three_realms','kalpa_cosmology','vinaya_rites','four_truths','dukkha','samudaya','nirodha','marga','eightfold','right_view',
+ '前6-5': ['three_realms','kalpa_cosmology','vinaya_rites','four_truths','dukkha','samudaya','nirodha','marga','eightfold','right_view','six_realms','ten_paths',
            'right_thought','right_speech','right_action','right_livelihood','right_effort',
            'right_mindfulness','right_samadhi','craving','ignorance','medical_logic',
            'impermanence','all_suffering','nonself_seal','nirvana','dependent_origination','twelve_links',
@@ -251,8 +251,8 @@ ERA_BY_ID = {
            'three_trainings','sila','samadhi_training','prajna','four_foundations','four_dhyanas',
            'twelve_ayatana','eighteen_dhatu','anatta','pudgala','not_one_not_diff','three_doors',
            'thirty_seven_bodhipakkhiya','sravaka_fruits'],
- '前3-1': ['three_seals','four_seals','unconditioned','three_unconditioned'],
- '4-7':   ['samatha_vipassana','four_reliances','caitasika','six_unconditioned','suchness','two_truths','conventional','ultimate',
+ '前3-1': ['caitasika','suchness','three_seals','four_seals','unconditioned','three_unconditioned'],
+ '4-7':   ['samatha_vipassana','four_reliances','six_unconditioned','two_truths','conventional','ultimate',
            'emptiness','three_natures','parikalpita','paratantra','parinispanna',
            'eight_consciousnesses','alaya','transformation','four_wisdoms','karma_ownership',
            'suffering_continues','tathagatagarbha','buddha_nature','pure_mind','garbha_sutras',
@@ -263,7 +263,7 @@ ERA_BY_ID = {
            'buddha_name','pure_land','vinaya','precepts','tantra','three_mysteries','abhisheka',
            'mandala','sokushin_jobutsu','four_immeasurables','four_attractions','bodhisattva_path',
            'six_paramitas','five_paths','buddha_body_land','three_vehicles_one_vehicle'],
- '8-12':  ['chan_methods','six_realms','ten_paths'],
+ '8-12':  ['chan_methods'],
  'none':  ['historical_layers','early_layer','development_layer','folk_layer','minimal_skeleton',
            'canon_expansion'],
 }
@@ -738,9 +738,12 @@ for _L in TREE:
             _it['note'] = '%d 种' % sum(1 for d in DOCS if 'id' in d)
 
 # 文献节点 → 引用该文献的节点（此时文献节点才存在）
+# 注意：此处**不可截断**。文献节点正文声明「共 N 个节点引用此文献」，
+# 若只连最相关的少数几条，关系图与正文自相矛盾（曾误限为 8 条，
+# 使 444 条引用只画出 273 条，被引最多的《杂阿含经》只有 8 条出边）。
 _doc_edge = 0
 for _k in list(DOC_IDS.values()):
-    for _i in DOC_IDS_INV.get(_k, [])[:8]:
+    for _i in DOC_IDS_INV.get(_k, []):
         add(_k, _i, '依据', None)
         _doc_edge += 1
 E = [e for e in E if e['s'] in nodes and e['t'] in nodes]
@@ -1178,7 +1181,7 @@ GUIDE_USE = '''<details><summary>阅读路径与判读方法</summary><div class
 </ul>
 <b>关系网络与主线的关系</b>
 <ul>
-<li>主线九项只表示主干，不表示唯一的理解顺序。全页 609 条关系中约 70% 为跨层关系，另有「论诤」「对辨」两类专门记录宗派分歧。</li>
+<li>主线九项只表示主干，不表示唯一的理解顺序。全页 790 条关系中约 76% 为跨层关系，另有「论诤」「对辨」两类专门记录宗派分歧。</li>
 </ul>
 </div></details>'''
 

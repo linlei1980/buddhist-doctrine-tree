@@ -1181,7 +1181,7 @@
     "fix": "定型列举见《长部》22 与论书",
     "trans": "十善十恶的通俗化与报应故事，属民间层，盛于中国唐宋以后"
    },
-   "era": "8-12"
+   "era": "前6-5"
   },
   "samsara": {
    "n": "轮回",
@@ -1246,7 +1246,7 @@
     "fix": "部派多说五趣、大乘多说六道；十法界的组织属天台宗（6世纪）",
     "trans": "地狱变相、六道细节的通俗化属民间层"
    },
-   "era": "8-12"
+   "era": "前6-5"
   },
   "continuity": {
    "n": "相续",
@@ -1484,7 +1484,7 @@
     "form": "约前5世纪（受想思等基本心所）",
     "fix": "心所体系化：有部四十六心所（约2—4世纪）；唯识五十一心所（约5—7世纪）"
    },
-   "era": "4-7"
+   "era": "前3-1"
   },
   "three_unconditioned": {
    "n": "三无为",
@@ -1574,7 +1574,7 @@
     "form": "约前5世纪（法的实相义）",
     "fix": "唯识以真如为圆成实（4—5世纪）；「七种真如」见《解深密经》；真如缘起说见《大乘起信论》（约6世纪，中国撰述）"
    },
-   "era": "4-7"
+   "era": "前3-1"
   },
   "two_truths": {
    "n": "二谛",
@@ -5578,11 +5578,11 @@
    "en": "—",
    "c": "canon",
    "ep": "meta",
-   "d": "**类别**　经（佛陀的教说，含早期尼柯耶与汉译阿含）\n\n**本页引用**　共 50 个节点引用此文献，最相关的十几个：[[right_livelihood|正命]]、[[dependent_origination|缘起]]、业、三解脱门、五戒、四圣谛、涅槃寂静、十二因缘、识、判善三标准、轮回、相续、传灯之喻、法…。\n\n这一页不重复经文，只交代它在体系里的位置；要找它的内容，请点开下方「关联节点」——每一处引用都附有原文引文。",
+   "d": "**类别**　经（佛陀的教说，含早期尼柯耶与汉译阿含）\n\n**本页引用**　共 50 个节点引用此文献，最相关的十几个：[[right_livelihood|正命]]、[[dependent_origination|缘起]]、业、三解脱门、五戒、四圣谛、涅槃寂静、十二因缘、识、判善三标准、十善十恶、轮回、相续、传灯之喻…。\n\n这一页不重复经文，只交代它在体系里的位置；要找它的内容，请点开下方「关联节点」——每一处引用都附有原文引文。",
    "src": [
     {
      "t": "本页引用此文献的节点",
-     "q": "[[right_livelihood|正命]]；缘起；业；三解脱门；五戒；四圣谛；涅槃寂静；十二因缘；识；判善三标准；轮回；相续……",
+     "q": "[[right_livelihood|正命]]；缘起；业；三解脱门；五戒；四圣谛；涅槃寂静；十二因缘；识；判善三标准；十善十恶；轮回……",
      "tag": "文献",
      "color": "#8A94A6"
     }
@@ -5595,11 +5595,11 @@
    "en": "—",
    "c": "canon",
    "ep": "meta",
-   "d": "**类别**　经（佛陀的教说，含早期尼柯耶与汉译阿含）\n\n**本页引用**　共 17 个节点引用此文献，最相关的十几个：[[dependent_origination|缘起]]、[[four_foundations|四念处]]、诸行是苦、十二因缘、轮回、定学、四禅八定、十二处、三十七道品、三界二十八天、劫与成住坏空、正念、正定、名色…。\n\n这一页不重复经文，只交代它在体系里的位置；要找它的内容，请点开下方「关联节点」——每一处引用都附有原文引文。",
+   "d": "**类别**　经（佛陀的教说，含早期尼柯耶与汉译阿含）\n\n**本页引用**　共 17 个节点引用此文献，最相关的十几个：[[dependent_origination|缘起]]、[[four_foundations|四念处]]、诸行是苦、十二因缘、十善十恶、轮回、定学、四禅八定、十二处、三十七道品、三界二十八天、劫与成住坏空、正念、正定…。\n\n这一页不重复经文，只交代它在体系里的位置；要找它的内容，请点开下方「关联节点」——每一处引用都附有原文引文。",
    "src": [
     {
      "t": "本页引用此文献的节点",
-     "q": "[[dependent_origination|缘起]]；四念处；诸行是苦；十二因缘；轮回；定学；四禅八定；十二处；三十七道品；三界二十八天；劫与成住坏空；正念……",
+     "q": "[[dependent_origination|缘起]]；四念处；诸行是苦；十二因缘；十善十恶；轮回；定学；四禅八定；十二处；三十七道品；三界二十八天；劫与成住坏空……",
      "tag": "文献",
      "color": "#8A94A6"
     }
@@ -5646,11 +5646,11 @@
    "en": "—",
    "c": "canon",
    "ep": "meta",
-   "d": "**类别**　经（佛陀的教说，含早期尼柯耶与汉译阿含）（本页跨类引用：经/论疏）\n\n**本页引用**　共 13 个节点引用此文献，最相关的十几个：识、[[yogacara|瑜伽行派]]、[[suchness|真如]]、判教、论诤：如来藏是否了义、三乘与一乘、止观、三性、八识、阿赖耶识、法相宗 / 唯识宗、识有境无、遍计所执性。\n\n这一页不重复经文，只交代它在体系里的位置；要找它的内容，请点开下方「关联节点」——每一处引用都附有原文引文。",
+   "d": "**类别**　经（佛陀的教说，含早期尼柯耶与汉译阿含）（本页跨类引用：经/论疏）\n\n**本页引用**　共 13 个节点引用此文献，最相关的十几个：识、[[suchness|真如]]、[[yogacara|瑜伽行派]]、判教、论诤：如来藏是否了义、三乘与一乘、止观、三性、八识、阿赖耶识、法相宗 / 唯识宗、识有境无、遍计所执性。\n\n这一页不重复经文，只交代它在体系里的位置；要找它的内容，请点开下方「关联节点」——每一处引用都附有原文引文。",
    "src": [
     {
      "t": "本页引用此文献的节点",
-     "q": "识；[[yogacara|瑜伽行派]]；真如；判教；论诤：如来藏是否了义；三乘与一乘；止观；三性；八识；阿赖耶识；法相宗 / 唯识宗；识有境无……",
+     "q": "识；[[suchness|真如]]；瑜伽行派；判教；论诤：如来藏是否了义；三乘与一乘；止观；三性；八识；阿赖耶识；法相宗 / 唯识宗；识有境无……",
      "tag": "文献",
      "color": "#8A94A6"
     }
@@ -5680,11 +5680,11 @@
    "en": "—",
    "c": "canon",
    "ep": "meta",
-   "d": "**类别**　经（佛陀的教说，含早期尼柯耶与汉译阿含）\n\n**本页引用**　共 8 个节点引用此文献，最相关的十几个：[[four_foundations|四念处]]、[[all_suffering|诸行是苦]]、十二处、三十七道品、正念、受、南传佛教与巴利三藏、十善十恶。\n\n这一页不重复经文，只交代它在体系里的位置；要找它的内容，请点开下方「关联节点」——每一处引用都附有原文引文。",
+   "d": "**类别**　经（佛陀的教说，含早期尼柯耶与汉译阿含）\n\n**本页引用**　共 8 个节点引用此文献，最相关的十几个：[[four_foundations|四念处]]、[[all_suffering|诸行是苦]]、十善十恶、十二处、三十七道品、正念、受、南传佛教与巴利三藏。\n\n这一页不重复经文，只交代它在体系里的位置；要找它的内容，请点开下方「关联节点」——每一处引用都附有原文引文。",
    "src": [
     {
      "t": "本页引用此文献的节点",
-     "q": "[[four_foundations|四念处]]；诸行是苦；十二处；三十七道品；正念；受；南传佛教与巴利三藏；十善十恶",
+     "q": "[[four_foundations|四念处]]；诸行是苦；十善十恶；十二处；三十七道品；正念；受；南传佛教与巴利三藏",
      "tag": "文献",
      "color": "#8A94A6"
     }
@@ -6022,11 +6022,11 @@
    "en": "—",
    "c": "canon",
    "ep": "meta",
-   "d": "**类别**　论疏（论书与注疏——判年代时必须与「经」分开看）\n\n**本页引用**　共 46 个节点引用此文献，最相关的十几个：[[right_livelihood|正命]]、业、[[three_doors|三解脱门]]、五戒、诸行是苦、识、法、假名我、定学、慧学、四禅八定、十八界、三十七道品、声闻四果…。\n\n这一页不重复经文，只交代它在体系里的位置；要找它的内容，请点开下方「关联节点」——每一处引用都附有原文引文。",
+   "d": "**类别**　论疏（论书与注疏——判年代时必须与「经」分开看）\n\n**本页引用**　共 46 个节点引用此文献，最相关的十几个：[[right_livelihood|正命]]、业、[[three_doors|三解脱门]]、五戒、诸行是苦、识、六道、法、假名我、定学、慧学、四禅八定、十八界、三十七道品…。\n\n这一页不重复经文，只交代它在体系里的位置；要找它的内容，请点开下方「关联节点」——每一处引用都附有原文引文。",
    "src": [
     {
      "t": "本页引用此文献的节点",
-     "q": "[[right_livelihood|正命]]；业；三解脱门；五戒；诸行是苦；识；法；假名我；定学；慧学；四禅八定；十八界……",
+     "q": "[[right_livelihood|正命]]；业；三解脱门；五戒；诸行是苦；识；六道；法；假名我；定学；慧学；四禅八定……",
      "tag": "文献",
      "color": "#8A94A6"
     }
@@ -6039,11 +6039,11 @@
    "en": "—",
    "c": "canon",
    "ep": "meta",
-   "d": "**类别**　论疏（论书与注疏——判年代时必须与「经」分开看）\n\n**本页引用**　共 31 个节点引用此文献，最相关的十几个：识、[[karma_criteria|判善三标准]]、[[continuity|相续]]、法、假名我、惑 → 业 → 苦、异熟、善 · 不善 · 无记、论诤：无我，谁受报、无为法、论诤：极微与无方分、经量部、六因四缘五果、瑜伽行派…。\n\n这一页不重复经文，只交代它在体系里的位置；要找它的内容，请点开下方「关联节点」——每一处引用都附有原文引文。",
+   "d": "**类别**　论疏（论书与注疏——判年代时必须与「经」分开看）\n\n**本页引用**　共 31 个节点引用此文献，最相关的十几个：识、[[karma_criteria|判善三标准]]、[[continuity|相续]]、法、假名我、惑 → 业 → 苦、异熟、善 · 不善 · 无记、真如、论诤：无我，谁受报、无为法、心所法、论诤：极微与无方分、经量部…。\n\n这一页不重复经文，只交代它在体系里的位置；要找它的内容，请点开下方「关联节点」——每一处引用都附有原文引文。",
    "src": [
     {
      "t": "本页引用此文献的节点",
-     "q": "识；[[karma_criteria|判善三标准]]；相续；法；假名我；惑 → 业 → 苦；异熟；善 · 不善 · 无记；论诤：无我，谁受报；无为法；论诤：极微与无方分；经量部……",
+     "q": "识；[[karma_criteria|判善三标准]]；相续；法；假名我；惑 → 业 → 苦；异熟；善 · 不善 · 无记；真如；论诤：无我，谁受报；无为法；心所法……",
      "tag": "文献",
      "color": "#8A94A6"
     }
@@ -6073,11 +6073,11 @@
    "en": "—",
    "c": "canon",
    "ep": "meta",
-   "d": "**类别**　论疏（论书与注疏——判年代时必须与「经」分开看）\n\n**本页引用**　共 20 个节点引用此文献，最相关的十几个：[[right_livelihood|正命]]、业、[[three_doors|三解脱门]]、涅槃寂静、判善三标准、轮回、三法印、龙树、大乘起源问题、二谛、四无量心、四摄法、空、苦在相续…。\n\n这一页不重复经文，只交代它在体系里的位置；要找它的内容，请点开下方「关联节点」——每一处引用都附有原文引文。",
+   "d": "**类别**　论疏（论书与注疏——判年代时必须与「经」分开看）\n\n**本页引用**　共 20 个节点引用此文献，最相关的十几个：[[right_livelihood|正命]]、业、[[three_doors|三解脱门]]、涅槃寂静、判善三标准、十善十恶、轮回、六道、三法印、龙树、大乘起源问题、二谛、四无量心、四摄法…。\n\n这一页不重复经文，只交代它在体系里的位置；要找它的内容，请点开下方「关联节点」——每一处引用都附有原文引文。",
    "src": [
     {
      "t": "本页引用此文献的节点",
-     "q": "[[right_livelihood|正命]]；业；三解脱门；涅槃寂静；判善三标准；轮回；三法印；龙树；大乘起源问题；二谛；四无量心；四摄法……",
+     "q": "[[right_livelihood|正命]]；业；三解脱门；涅槃寂静；判善三标准；十善十恶；轮回；六道；三法印；龙树；大乘起源问题；二谛……",
      "tag": "文献",
      "color": "#8A94A6"
     }
@@ -6175,11 +6175,11 @@
    "en": "—",
    "c": "canon",
    "ep": "meta",
-   "d": "**类别**　论疏（论书与注疏——判年代时必须与「经」分开看）\n\n**本页引用**　共 6 个节点引用此文献，最相关的十几个：[[icchantika|一阐提 · 常乐我净]]、真如、佛性、自性清净心、菩萨道、三身佛。\n\n这一页不重复经文，只交代它在体系里的位置；要找它的内容，请点开下方「关联节点」——每一处引用都附有原文引文。",
+   "d": "**类别**　论疏（论书与注疏——判年代时必须与「经」分开看）\n\n**本页引用**　共 6 个节点引用此文献，最相关的十几个：[[suchness|真如]]、一阐提 · 常乐我净、佛性、自性清净心、菩萨道、三身佛。\n\n这一页不重复经文，只交代它在体系里的位置；要找它的内容，请点开下方「关联节点」——每一处引用都附有原文引文。",
    "src": [
     {
      "t": "本页引用此文献的节点",
-     "q": "[[icchantika|一阐提 · 常乐我净]]；真如；佛性；自性清净心；菩萨道；三身佛",
+     "q": "[[suchness|真如]]；一阐提 · 常乐我净；佛性；自性清净心；菩萨道；三身佛",
      "tag": "文献",
      "color": "#8A94A6"
     }
@@ -6277,11 +6277,11 @@
    "en": "—",
    "c": "canon",
    "ep": "meta",
-   "d": "**类别**　论疏（论书与注疏——判年代时必须与「经」分开看）\n\n**本页引用**　共 4 个节点引用此文献，最相关的十几个：[[icchantika|一阐提 · 常乐我净]]、如来藏、真如、自性清净心。\n\n这一页不重复经文，只交代它在体系里的位置；要找它的内容，请点开下方「关联节点」——每一处引用都附有原文引文。",
+   "d": "**类别**　论疏（论书与注疏——判年代时必须与「经」分开看）\n\n**本页引用**　共 4 个节点引用此文献，最相关的十几个：[[suchness|真如]]、一阐提 · 常乐我净、如来藏、自性清净心。\n\n这一页不重复经文，只交代它在体系里的位置；要找它的内容，请点开下方「关联节点」——每一处引用都附有原文引文。",
    "src": [
     {
      "t": "本页引用此文献的节点",
-     "q": "[[icchantika|一阐提 · 常乐我净]]；如来藏；真如；自性清净心",
+     "q": "[[suchness|真如]]；一阐提 · 常乐我净；如来藏；自性清净心",
      "tag": "文献",
      "color": "#8A94A6"
     }
@@ -9355,6 +9355,216 @@
    "l": "依据"
   },
   {
+   "s": "doc_1",
+   "t": "link_consciousness",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "karma_criteria",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "ten_paths",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "samsara",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "continuity",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "flame_analogy",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "dharma_term",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "five_aggregates",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "anatta",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "pudgala",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "three_trainings",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "twelve_ayatana",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "eighteen_dhatu",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "thirty_seven_bodhipakkhiya",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "sravaka_fruits",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "dukkha",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "samudaya",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "nirodha",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "marga",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "eightfold",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "right_view",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "right_speech",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "right_effort",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "ignorance",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "medical_logic",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "impermanence",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "nonself_seal",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "link_formation",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "link_namarupa",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "link_sadayatana",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "link_contact",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "link_feeling",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "link_clinging",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "link_becoming",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "link_birth",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "forward_reverse",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "conditioned",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "rupa",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "craving",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "three_seals",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "suffering_continues",
+   "l": "依据"
+  },
+  {
+   "s": "doc_1",
+   "t": "early_layer",
+   "l": "依据"
+  },
+  {
    "s": "doc_2",
    "t": "dependent_origination",
    "l": "依据"
@@ -9376,6 +9586,11 @@
   },
   {
    "s": "doc_2",
+   "t": "ten_paths",
+   "l": "依据"
+  },
+  {
+   "s": "doc_2",
    "t": "samsara",
    "l": "依据"
   },
@@ -9392,6 +9607,46 @@
   {
    "s": "doc_2",
    "t": "twelve_ayatana",
+   "l": "依据"
+  },
+  {
+   "s": "doc_2",
+   "t": "thirty_seven_bodhipakkhiya",
+   "l": "依据"
+  },
+  {
+   "s": "doc_2",
+   "t": "three_realms",
+   "l": "依据"
+  },
+  {
+   "s": "doc_2",
+   "t": "kalpa_cosmology",
+   "l": "依据"
+  },
+  {
+   "s": "doc_2",
+   "t": "right_mindfulness",
+   "l": "依据"
+  },
+  {
+   "s": "doc_2",
+   "t": "right_samadhi",
+   "l": "依据"
+  },
+  {
+   "s": "doc_2",
+   "t": "link_namarupa",
+   "l": "依据"
+  },
+  {
+   "s": "doc_2",
+   "t": "link_feeling",
+   "l": "依据"
+  },
+  {
+   "s": "doc_2",
+   "t": "councils",
    "l": "依据"
   },
   {
@@ -9435,6 +9690,36 @@
    "l": "依据"
   },
   {
+   "s": "doc_3",
+   "t": "marga",
+   "l": "依据"
+  },
+  {
+   "s": "doc_3",
+   "t": "eightfold",
+   "l": "依据"
+  },
+  {
+   "s": "doc_3",
+   "t": "ignorance",
+   "l": "依据"
+  },
+  {
+   "s": "doc_3",
+   "t": "link_sadayatana",
+   "l": "依据"
+  },
+  {
+   "s": "doc_3",
+   "t": "forward_reverse",
+   "l": "依据"
+  },
+  {
+   "s": "doc_3",
+   "t": "link_aging_death",
+   "l": "依据"
+  },
+  {
    "s": "doc_4",
    "t": "right_livelihood",
    "l": "依据"
@@ -9475,18 +9760,43 @@
    "l": "依据"
   },
   {
+   "s": "doc_4",
+   "t": "right_action",
+   "l": "依据"
+  },
+  {
+   "s": "doc_4",
+   "t": "right_effort",
+   "l": "依据"
+  },
+  {
+   "s": "doc_4",
+   "t": "right_samadhi",
+   "l": "依据"
+  },
+  {
+   "s": "doc_4",
+   "t": "sila",
+   "l": "依据"
+  },
+  {
+   "s": "doc_4",
+   "t": "right_thought",
+   "l": "依据"
+  },
+  {
    "s": "doc_5",
    "t": "link_consciousness",
    "l": "依据"
   },
   {
    "s": "doc_5",
-   "t": "yogacara",
+   "t": "suchness",
    "l": "依据"
   },
   {
    "s": "doc_5",
-   "t": "suchness",
+   "t": "yogacara",
    "l": "依据"
   },
   {
@@ -9512,6 +9822,31 @@
   {
    "s": "doc_5",
    "t": "three_natures",
+   "l": "依据"
+  },
+  {
+   "s": "doc_5",
+   "t": "eight_consciousnesses",
+   "l": "依据"
+  },
+  {
+   "s": "doc_5",
+   "t": "alaya",
+   "l": "依据"
+  },
+  {
+   "s": "doc_5",
+   "t": "faxiang",
+   "l": "依据"
+  },
+  {
+   "s": "doc_5",
+   "t": "vijnapti_matra",
+   "l": "依据"
+  },
+  {
+   "s": "doc_5",
+   "t": "parikalpita",
    "l": "依据"
   },
   {
@@ -9555,6 +9890,11 @@
    "l": "依据"
   },
   {
+   "s": "doc_6",
+   "t": "right_thought",
+   "l": "依据"
+  },
+  {
    "s": "doc_7",
    "t": "four_foundations",
    "l": "依据"
@@ -9562,6 +9902,11 @@
   {
    "s": "doc_7",
    "t": "all_suffering",
+   "l": "依据"
+  },
+  {
+   "s": "doc_7",
+   "t": "ten_paths",
    "l": "依据"
   },
   {
@@ -9587,11 +9932,6 @@
   {
    "s": "doc_7",
    "t": "southern_tradition",
-   "l": "依据"
-  },
-  {
-   "s": "doc_7",
-   "t": "ten_paths",
    "l": "依据"
   },
   {
@@ -10021,12 +10361,202 @@
   },
   {
    "s": "doc_27",
+   "t": "six_realms",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
    "t": "dharma_term",
    "l": "依据"
   },
   {
    "s": "doc_27",
    "t": "pudgala",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "samadhi_training",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "prajna",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "four_dhyanas",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "eighteen_dhatu",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "thirty_seven_bodhipakkhiya",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "sravaka_fruits",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "three_realms",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "kalpa_cosmology",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "dukkha",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "samudaya",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "nirodha",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "impermanence",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "link_formation",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "link_clinging",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "link_becoming",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "link_birth",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "three_lives",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "delusion_karma_suffering",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "vipaka",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "karma_types",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "kusala_akusala",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "conditioned",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "rupa",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "debate_pudgala",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "unconditioned",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "abhidharma",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "sarvastivada",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "caitasika",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "three_unconditioned",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "debate_atom",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "sautrantika",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "six_causes_five_results",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "four_immeasurables",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "karma_ownership",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "precepts",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "jushe",
+   "l": "依据"
+  },
+  {
+   "s": "doc_27",
+   "t": "five_paths",
    "l": "依据"
   },
   {
@@ -10070,6 +10600,121 @@
    "l": "依据"
   },
   {
+   "s": "doc_28",
+   "t": "suchness",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "debate_pudgala",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "unconditioned",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "caitasika",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "debate_atom",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "sautrantika",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "six_causes_five_results",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "yogacara",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "debate_two_truths",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "yogacara_vs_madhyamaka",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "three_natures",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "eight_consciousnesses",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "alaya",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "faxiang",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "vijnapti_matra",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "five_paths",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "buddha_body_land",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "six_unconditioned",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "parikalpita",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "paratantra",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "transformation",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "four_wisdoms",
+   "l": "依据"
+  },
+  {
+   "s": "doc_28",
+   "t": "parinispanna",
+   "l": "依据"
+  },
+  {
    "s": "doc_29",
    "t": "nirvana",
    "l": "依据"
@@ -10110,6 +10755,81 @@
    "l": "依据"
   },
   {
+   "s": "doc_29",
+   "t": "debate_atom",
+   "l": "依据"
+  },
+  {
+   "s": "doc_29",
+   "t": "two_truths",
+   "l": "依据"
+  },
+  {
+   "s": "doc_29",
+   "t": "debate_two_truths",
+   "l": "依据"
+  },
+  {
+   "s": "doc_29",
+   "t": "yogacara_vs_madhyamaka",
+   "l": "依据"
+  },
+  {
+   "s": "doc_29",
+   "t": "emptiness",
+   "l": "依据"
+  },
+  {
+   "s": "doc_29",
+   "t": "karma_ownership",
+   "l": "依据"
+  },
+  {
+   "s": "doc_29",
+   "t": "suffering_continues",
+   "l": "依据"
+  },
+  {
+   "s": "doc_29",
+   "t": "no_attainment",
+   "l": "依据"
+  },
+  {
+   "s": "doc_29",
+   "t": "three_truths_round",
+   "l": "依据"
+  },
+  {
+   "s": "doc_29",
+   "t": "prajna_emptiness",
+   "l": "依据"
+  },
+  {
+   "s": "doc_29",
+   "t": "sanlun",
+   "l": "依据"
+  },
+  {
+   "s": "doc_29",
+   "t": "sizhong_erdi",
+   "l": "依据"
+  },
+  {
+   "s": "doc_29",
+   "t": "conventional",
+   "l": "依据"
+  },
+  {
+   "s": "doc_29",
+   "t": "ultimate",
+   "l": "依据"
+  },
+  {
+   "s": "doc_29",
+   "t": "eight_negations",
+   "l": "依据"
+  },
+  {
    "s": "doc_30",
    "t": "right_livelihood",
    "l": "依据"
@@ -10136,7 +10856,17 @@
   },
   {
    "s": "doc_30",
+   "t": "ten_paths",
+   "l": "依据"
+  },
+  {
+   "s": "doc_30",
    "t": "samsara",
+   "l": "依据"
+  },
+  {
+   "s": "doc_30",
+   "t": "six_realms",
    "l": "依据"
   },
   {
@@ -10147,6 +10877,56 @@
   {
    "s": "doc_30",
    "t": "nagarjuna",
+   "l": "依据"
+  },
+  {
+   "s": "doc_30",
+   "t": "mahayana_origins",
+   "l": "依据"
+  },
+  {
+   "s": "doc_30",
+   "t": "two_truths",
+   "l": "依据"
+  },
+  {
+   "s": "doc_30",
+   "t": "four_immeasurables",
+   "l": "依据"
+  },
+  {
+   "s": "doc_30",
+   "t": "four_attractions",
+   "l": "依据"
+  },
+  {
+   "s": "doc_30",
+   "t": "emptiness",
+   "l": "依据"
+  },
+  {
+   "s": "doc_30",
+   "t": "suffering_continues",
+   "l": "依据"
+  },
+  {
+   "s": "doc_30",
+   "t": "six_paramitas",
+   "l": "依据"
+  },
+  {
+   "s": "doc_30",
+   "t": "buddha_body_land",
+   "l": "依据"
+  },
+  {
+   "s": "doc_30",
+   "t": "four_reliances",
+   "l": "依据"
+  },
+  {
+   "s": "doc_30",
+   "t": "canon_expansion",
    "l": "依据"
   },
   {
@@ -10190,6 +10970,51 @@
    "l": "依据"
   },
   {
+   "s": "doc_31",
+   "t": "three_vehicles_one_vehicle",
+   "l": "依据"
+  },
+  {
+   "s": "doc_31",
+   "t": "samatha_vipassana",
+   "l": "依据"
+  },
+  {
+   "s": "doc_31",
+   "t": "three_natures",
+   "l": "依据"
+  },
+  {
+   "s": "doc_31",
+   "t": "eight_consciousnesses",
+   "l": "依据"
+  },
+  {
+   "s": "doc_31",
+   "t": "buddha_nature",
+   "l": "依据"
+  },
+  {
+   "s": "doc_31",
+   "t": "six_paramitas",
+   "l": "依据"
+  },
+  {
+   "s": "doc_31",
+   "t": "faxiang",
+   "l": "依据"
+  },
+  {
+   "s": "doc_31",
+   "t": "five_paths",
+   "l": "依据"
+  },
+  {
+   "s": "doc_31",
+   "t": "canon_expansion",
+   "l": "依据"
+  },
+  {
    "s": "doc_32",
    "t": "pudgala",
    "l": "依据"
@@ -10227,6 +11052,26 @@
   {
    "s": "doc_32",
    "t": "abhidharma",
+   "l": "依据"
+  },
+  {
+   "s": "doc_32",
+   "t": "sarvastivada",
+   "l": "依据"
+  },
+  {
+   "s": "doc_32",
+   "t": "three_unconditioned",
+   "l": "依据"
+  },
+  {
+   "s": "doc_32",
+   "t": "sautrantika",
+   "l": "依据"
+  },
+  {
+   "s": "doc_32",
+   "t": "six_causes_five_results",
    "l": "依据"
   },
   {
@@ -10270,6 +11115,11 @@
    "l": "依据"
   },
   {
+   "s": "doc_33",
+   "t": "wushi_bajiao",
+   "l": "依据"
+  },
+  {
    "s": "doc_34",
    "t": "all_suffering",
    "l": "依据"
@@ -10310,6 +11160,11 @@
    "l": "依据"
   },
   {
+   "s": "doc_34",
+   "t": "samatha_vipassana",
+   "l": "依据"
+  },
+  {
    "s": "doc_35",
    "t": "panjiao",
    "l": "依据"
@@ -10346,12 +11201,12 @@
   },
   {
    "s": "doc_36",
-   "t": "icchantika",
+   "t": "suchness",
    "l": "依据"
   },
   {
    "s": "doc_36",
-   "t": "suchness",
+   "t": "icchantika",
    "l": "依据"
   },
   {
@@ -10506,17 +11361,17 @@
   },
   {
    "s": "doc_42",
+   "t": "suchness",
+   "l": "依据"
+  },
+  {
+   "s": "doc_42",
    "t": "icchantika",
    "l": "依据"
   },
   {
    "s": "doc_42",
    "t": "tathagatagarbha",
-   "l": "依据"
-  },
-  {
-   "s": "doc_42",
-   "t": "suchness",
    "l": "依据"
   },
   {
@@ -10879,6 +11734,7 @@
     "twelve_links",
     "link_consciousness",
     "karma_criteria",
+    "ten_paths",
     "samsara",
     "continuity",
     "flame_analogy",
@@ -10917,7 +11773,6 @@
     "craving",
     "three_seals",
     "suffering_continues",
-    "ten_paths",
     "early_layer"
    ],
    "n": 50,
@@ -10933,6 +11788,7 @@
     "four_foundations",
     "all_suffering",
     "twelve_links",
+    "ten_paths",
     "samsara",
     "samadhi_training",
     "four_dhyanas",
@@ -10944,8 +11800,7 @@
     "right_samadhi",
     "link_namarupa",
     "link_feeling",
-    "councils",
-    "ten_paths"
+    "councils"
    ],
    "n": 17,
    "kind": "经",
@@ -11004,8 +11859,8 @@
    "name": "解深密经",
    "ids": [
     "link_consciousness",
-    "yogacara",
     "suchness",
+    "yogacara",
     "panjiao",
     "debate_tathagatagarbha",
     "three_vehicles_one_vehicle",
@@ -11047,12 +11902,12 @@
    "ids": [
     "four_foundations",
     "all_suffering",
+    "ten_paths",
     "twelve_ayatana",
     "thirty_seven_bodhipakkhiya",
     "right_mindfulness",
     "link_feeling",
-    "southern_tradition",
-    "ten_paths"
+    "southern_tradition"
    ],
    "n": 8,
    "kind": "经",
@@ -11344,12 +12199,12 @@
   {
    "name": "法华经",
    "ids": [
-    "three_vehicles_one_vehicle",
-    "six_realms"
+    "six_realms",
+    "three_vehicles_one_vehicle"
    ],
    "n": 2,
    "kind": "经",
-   "era": "4-7",
+   "era": "前6-5",
    "cat": "缘起 · 业果 · 法论"
   },
   {
@@ -11707,6 +12562,7 @@
     "five_precepts",
     "all_suffering",
     "link_consciousness",
+    "six_realms",
     "dharma_term",
     "pudgala",
     "samadhi_training",
@@ -11736,6 +12592,7 @@
     "unconditioned",
     "abhidharma",
     "sarvastivada",
+    "caitasika",
     "three_unconditioned",
     "debate_atom",
     "sautrantika",
@@ -11744,9 +12601,7 @@
     "karma_ownership",
     "precepts",
     "jushe",
-    "five_paths",
-    "caitasika",
-    "six_realms"
+    "five_paths"
    ],
    "n": 46,
    "kind": "论疏",
@@ -11765,13 +12620,14 @@
     "delusion_karma_suffering",
     "vipaka",
     "kusala_akusala",
+    "suchness",
     "debate_pudgala",
     "unconditioned",
+    "caitasika",
     "debate_atom",
     "sautrantika",
     "six_causes_five_results",
     "yogacara",
-    "suchness",
     "debate_two_truths",
     "yogacara_vs_madhyamaka",
     "three_natures",
@@ -11781,7 +12637,6 @@
     "vijnapti_matra",
     "five_paths",
     "buddha_body_land",
-    "caitasika",
     "six_unconditioned",
     "parikalpita",
     "paratantra",
@@ -11836,7 +12691,9 @@
     "three_doors",
     "nirvana",
     "karma_criteria",
+    "ten_paths",
     "samsara",
+    "six_realms",
     "three_seals",
     "nagarjuna",
     "mahayana_origins",
@@ -11848,8 +12705,6 @@
     "six_paramitas",
     "buddha_body_land",
     "four_reliances",
-    "ten_paths",
-    "six_realms",
     "canon_expansion"
    ],
    "n": 20,
@@ -11965,8 +12820,8 @@
   {
    "name": "大乘起信论",
    "ids": [
-    "icchantika",
     "suchness",
+    "icchantika",
     "buddha_nature",
     "pure_mind",
     "bodhisattva_path",
@@ -11974,7 +12829,7 @@
    ],
    "n": 6,
    "kind": "论疏",
-   "era": "3-5",
+   "era": "前3-1",
    "cat": "如来藏 · 佛性",
    "id": "doc_36"
   },
@@ -12057,14 +12912,14 @@
   {
    "name": "佛性论",
    "ids": [
+    "suchness",
     "icchantika",
     "tathagatagarbha",
-    "suchness",
     "pure_mind"
    ],
    "n": 4,
    "kind": "论疏",
-   "era": "3-5",
+   "era": "前3-1",
    "cat": "如来藏 · 佛性",
    "id": "doc_42"
   },

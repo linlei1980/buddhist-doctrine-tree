@@ -87,7 +87,7 @@ def main():
 
     # 数据条：四块面板
     stats = [('230', '概念 / concepts', INK),
-             ('619', '关系 / relations', INDIGO),
+             ('790', '关系 / relations', INDIGO),
              ('549', '出处引证 / citations', VIOLET),
              ('12', '层级 / layers', GREEN)]
     y0, box_w, gap = 348, 268, 22
