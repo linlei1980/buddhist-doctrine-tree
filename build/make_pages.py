@@ -18,11 +18,6 @@ def main():
         out = os.path.join(ROOT, name)
         open(out, 'w', encoding='utf-8').write(html)
         print('已生成 %-12s %8.1f KB' % (name, len(html.encode('utf-8')) / 1024))
-    # 中文版另存一份中文名副本，便于本地识别
-    import shutil
-    shutil.copyfile(os.path.join(ROOT, 'index.html'),
-                    os.path.join(ROOT, '佛教基础理论结构树-v2.html'))
-    print('已同步 佛教基础理论结构树-v2.html')
 
 if __name__ == '__main__':
     main()

@@ -51,8 +51,7 @@
 ```
 index.html                ← 中文版成品（486 KB，自包含），GitHub Pages 首页
 en.html                   ← 英文版成品（668 KB，自包含）
-佛教基础理论结构树-v2.html   ← 中文版的备份副本（中文名，便于本地识别）
-archive/v1-原版.html       ← 2026-09 初版存档，仅用于对照修订过程
+archive/v1-原版.html       ← 2026-09 初版存档，仅用于对照修订过程（见 archive/README.md）
 
 data/buddhism.json        ← 中文数据的 JSON 快照（供审阅、查错、二次开发）
 data/buddhism.data.js     ← 同一份数据的 JS 形式
@@ -78,7 +77,7 @@ build/i18n/               ← 英文译名与译文
 build/README.md           ← 生成与维护说明
 ```
 
-`index.html` 与 `en.html` 是唯一需要分发的东西（双击即可离线使用，也可直接放在任何静态服务器上）；`build/` 与 `data/` 供改内容时使用。
+`index.html` 与 `en.html` 是仅有的两个成品（双击即可离线使用，也可直接放在任何静态服务器上）；`build/` 与 `data/` 供改内容时使用，`archive/` 仅为存档。
 
 ## 修改与重新生成
 
