@@ -9,7 +9,7 @@
 
     <python with Pillow> build/make_og_image.py
 """
-import os, sys
+import os, sys, json
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 W, H = 1280, 640
@@ -86,10 +86,12 @@ def main():
     d.text((x, 276), line2, font=body, fill=INK2)
 
     # 数据条：四块面板
-    stats = [('230', '概念 / concepts', INK),
-             ('831', '关系 / relations', INDIGO),
-             ('549', '出处引证 / citations', VIOLET),
-             ('12', '层级 / layers', GREEN)]
+    # 数字从数据读取，避免硬编码后与页面脱节（此前即因硬编码而落后两版）
+    _d = json.load(open(os.path.join(ROOT, 'data', 'buddhism.json'), encoding='utf-8'))
+    stats = [(str(len(_d['nodes'])), '概念 / concepts', INK),
+             (str(len(_d['edges'])), '关系 / relations', INDIGO),
+             (str(sum(len(v['src']) for v in _d['nodes'].values())), '出处引证 / citations', VIOLET),
+             (str(len(_d['tree'])), '层级 / layers', GREEN)]
     y0, box_w, gap = 348, 268, 22
     for i, (num, label, color) in enumerate(stats):
         bx = x + i * (box_w + gap)

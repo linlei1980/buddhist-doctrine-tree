@@ -49,7 +49,7 @@ Search covers names, Indic terms, the body of the definitions, and the titles of
 |---|---|
 | Concepts | 231 (51 of them text entries, generated automatically) |
 | Typed relations | 831 in ten types, about 76 % of them crossing layers |
-| Cited passages | 549, given down to fascicle, chapter or sutta number, with the quotation |
+| Cited passages | 550, given down to fascicle, chapter or sutta number, with the quotation |
 | Outline depth | 12 layers |
 | Timeline | 9 periods, from about the 6th century BCE to the modern period |
 | Categories | Four Noble Truths · three seals · origination and karma · Nikāyas and Abhidharma · Buddhist logic · two truths and three natures · non-self · tathāgatagarbha · doctrinal classification and schools · practice · contested questions · scriptural texts · textual layers and transmission |
@@ -193,7 +193,7 @@ If you modify or cut the material, please note that you have done so. If you wou
 
 | 项 | 数量 |
 |---|---|
-| 概念 | 230（其中 51 个为自动生成的文献节点） |
+| 概念 | 231（其中 51 个为自动生成的文献节点） |
 | 概念关系 | 831，规范为 10 类，约 76% 为跨层关系 |
 | 出处引证 | 550 条，标至卷 / 品 / 经号并附原文 |
 | 目录层级 | 12 层 |
