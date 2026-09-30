@@ -3,7 +3,10 @@
 一份把佛教基础理论组织为**十二层结构**的单页参考：228 个节点，619 条概念关系，549 条文献出处引证，每个概念都标注释义、出处原文与分栏年代。
 
 **在线查看（无需下载）**：<https://linlei1980.github.io/foxue/>
-**离线使用**：下载 [`index.html`](index.html) 单个文件，双击用浏览器打开即可。它自包含全部样式、脚本与数据，不依赖网络与任何外部资源。
+**英文版**：<https://linlei1980.github.io/foxue/en.html>　·　页面右上角可切换语言
+**离线使用**：下载 [`index.html`](index.html)（中文）或 [`en.html`](en.html)（英文）单个文件，双击用浏览器打开即可。两者都自包含全部样式、脚本与数据，不依赖网络与任何外部资源。
+
+中英两版**可以互相检索**：中文页里输入 `dependent origination` 或 `Kośa` 能命中，英文页里输入「缘起」或「俱舍论」同样能命中。
 
 ---
 
@@ -46,32 +49,55 @@
 ## 仓库结构
 
 ```
-index.html               ← 成品：单文件页面（460 KB，自包含），直接由 GitHub Pages 托管
-佛教基础理论结构树-v2.html  ← 同一成品的备份副本（中文名，便于本地识别）
-archive/v1-原版.html      ← 2026-09 初版存档，仅用于对照修订过程
-data/buddhism.json       ← 全部数据的 JSON 快照（供审阅、查错、二次开发）
-data/buddhism.data.js    ← 同一份数据的 JS 形式
-build/content_a.py       ← 内容：印度论书层、大乘中观唯识、因明、论诤
-build/content_b.py       ← 内容：判教、汉传十宗、藏传南传、实践补全
-build/content_c.py       ← 内容：历史与传播
-build/content_d.py       ← 内容：宇宙论、戒律行仪、止观、四依
-build/build.py           ← 组装脚本：合并 → 规范化关系 → 建目录树 → 校验 → 渲染
-build/README.md          ← 生成与维护说明
+index.html                ← 中文版成品（486 KB，自包含），GitHub Pages 首页
+en.html                   ← 英文版成品（668 KB，自包含）
+佛教基础理论结构树-v2.html   ← 中文版的备份副本（中文名，便于本地识别）
+archive/v1-原版.html       ← 2026-09 初版存档，仅用于对照修订过程
+
+data/buddhism.json        ← 中文数据的 JSON 快照（供审阅、查错、二次开发）
+data/buddhism.data.js     ← 同一份数据的 JS 形式
+
+build/content_a.py        ← 中文内容：印度论书层、大乘中观唯识、因明、论诤
+build/content_b.py        ← 中文内容：判教、汉传十宗、藏传南传、实践补全
+build/content_c.py        ← 中文内容：历史与传播
+build/content_d.py        ← 中文内容：宇宙论、戒律行仪、止观、四依
+build/build.py            ← 主脚本：合并 → 规范化关系 → 建目录树 → 校验 → 产出两版页面
+
+build/render.py           ← 双语渲染：按语言替换数据与界面文字并组装页面
+build/render.js           ← 前端脚本（界面文字以 __UI__ 占位，生成时注入）
+build/seg.py              ← 样式与 HTML 骨架
+build/make_pages.py       ← 生成 index.html 与 en.html
+build/i18n_build.py       ← 英文译文构建入口（合并各批译文、统一书名与体例）
+build/i18n/               ← 英文译名与译文
+  ui.json                 ← 界面文字、分类、关系类型、层积（中英对照）
+  TRANSLATION-SPEC.md     ← 翻译规范：术语表、体例、验收标准
+  doc_names.json          ← 经典题名的规范英译（同一部书只用一个名字）
+  nodes.jsonl             ← 179 个人工节点的英文译文（合并产物）
+  sources.json            ← 321 种出处条目的中英对照（合并产物）
+  work/                   ← 分批翻译的输入与译文，保留以便复查
+build/README.md           ← 生成与维护说明
 ```
 
-`index.html` 是唯一需要分发的东西（双击即可离线使用，也可直接放在任何静态服务器上）；`build/` 与 `data/` 供改内容时使用。
+`index.html` 与 `en.html` 是唯一需要分发的东西（双击即可离线使用，也可直接放在任何静态服务器上）；`build/` 与 `data/` 供改内容时使用。
 
 ## 修改与重新生成
 
 内容与界面是分离的：释义、出处、年代以 Python 字面量存放于 `build/content_*.py`，组装脚本负责合并、校验并渲染出单文件 HTML。
 
 ```bash
-python3 build/build.py
+python3 build/build.py          # 中文数据 + 两版页面
+python3 build/i18n_build.py     # 只重建英文译文数据（改动译文后运行）
 ```
 
-脚本会先做五项校验，任一不通过即打印问题清单：释义为空、无出处、无年代、节点未进目录、关系端点或类型不存在。详见 [`build/README.md`](build/README.md)。
+主脚本会先做五项校验，任一不通过即打印问题清单：释义为空、无出处、无年代、节点未进目录、关系端点或类型不存在。英文译文另有一套校验：每个 id 必须齐备、交叉引用 id 必须与中文一致、不得残留中文字符。详见 [`build/README.md`](build/README.md)。
 
 新增概念时**不必手写交叉链接**——正文中首次出现的其他节点名会自动转为可点击链接。
+
+### 英文版
+
+英文版的释义、出处标题与古典引文均为全译，术语以梵文／巴利文为准（见 [`build/i18n/TRANSLATION-SPEC.md`](build/i18n/TRANSLATION-SPEC.md)）。**正文中的汉文引文不保留原文**——这是与中文版的一处有意区别：英文版面向不以汉文阅读的读者，保留原文徒增噪声；需要核对原文时请对照中文版同一节点。
+
+节点名、出处题名与界面文字都在 `build/i18n/` 下，可直接编辑后重新生成，无须改动渲染代码。
 
 ## 引用与立场说明
 

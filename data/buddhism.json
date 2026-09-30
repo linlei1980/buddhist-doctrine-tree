@@ -10864,5 +10864,1964 @@
   "form": "思想形成",
   "fix": "文献定型",
   "trans": "汉译流传"
- }
+ },
+ "docs": [
+  {
+   "name": "杂阿含经",
+   "ids": [
+    "right_livelihood",
+    "dependent_origination",
+    "karma",
+    "three_doors",
+    "five_precepts",
+    "four_truths",
+    "nirvana",
+    "twelve_links",
+    "link_consciousness",
+    "karma_criteria",
+    "samsara",
+    "continuity",
+    "flame_analogy",
+    "dharma_term",
+    "five_aggregates",
+    "anatta",
+    "pudgala",
+    "three_trainings",
+    "twelve_ayatana",
+    "eighteen_dhatu",
+    "thirty_seven_bodhipakkhiya",
+    "sravaka_fruits",
+    "dukkha",
+    "samudaya",
+    "nirodha",
+    "marga",
+    "eightfold",
+    "right_view",
+    "right_speech",
+    "right_effort",
+    "ignorance",
+    "medical_logic",
+    "impermanence",
+    "nonself_seal",
+    "link_formation",
+    "link_namarupa",
+    "link_sadayatana",
+    "link_contact",
+    "link_feeling",
+    "link_clinging",
+    "link_becoming",
+    "link_birth",
+    "forward_reverse",
+    "conditioned",
+    "rupa",
+    "craving",
+    "three_seals",
+    "suffering_continues",
+    "ten_paths",
+    "early_layer"
+   ],
+   "n": 50,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "缘起 · 业果 · 法论",
+   "id": "doc_1"
+  },
+  {
+   "name": "长部",
+   "ids": [
+    "dependent_origination",
+    "four_foundations",
+    "all_suffering",
+    "twelve_links",
+    "samsara",
+    "samadhi_training",
+    "four_dhyanas",
+    "twelve_ayatana",
+    "thirty_seven_bodhipakkhiya",
+    "three_realms",
+    "kalpa_cosmology",
+    "right_mindfulness",
+    "right_samadhi",
+    "link_namarupa",
+    "link_feeling",
+    "councils",
+    "ten_paths"
+   ],
+   "n": 17,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "缘起 · 业果 · 法论",
+   "id": "doc_2"
+  },
+  {
+   "name": "相应部",
+   "ids": [
+    "dependent_origination",
+    "four_truths",
+    "twelve_links",
+    "samsara",
+    "five_aggregates",
+    "anatta",
+    "twelve_ayatana",
+    "eighteen_dhatu",
+    "marga",
+    "eightfold",
+    "ignorance",
+    "link_sadayatana",
+    "forward_reverse",
+    "link_aging_death"
+   ],
+   "n": 14,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "缘起 · 业果 · 法论",
+   "id": "doc_3"
+  },
+  {
+   "name": "中部",
+   "ids": [
+    "right_livelihood",
+    "four_foundations",
+    "three_trainings",
+    "samadhi_training",
+    "prajna",
+    "eightfold",
+    "right_view",
+    "right_speech",
+    "right_action",
+    "right_effort",
+    "right_samadhi",
+    "sila",
+    "right_thought"
+   ],
+   "n": 13,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "四圣谛",
+   "id": "doc_4"
+  },
+  {
+   "name": "解深密经",
+   "ids": [
+    "link_consciousness",
+    "yogacara",
+    "suchness",
+    "panjiao",
+    "three_vehicles_one_vehicle",
+    "samatha_vipassana",
+    "three_natures",
+    "eight_consciousnesses",
+    "alaya",
+    "faxiang",
+    "parikalpita",
+    "debate_tathagatagarbha",
+    "vijnapti_matra"
+   ],
+   "n": 13,
+   "kind": "经/论疏",
+   "era": "前6-5",
+   "cat": "二谛 · 三性",
+   "id": "doc_5"
+  },
+  {
+   "name": "大四十经",
+   "ids": [
+    "right_livelihood",
+    "samadhi_training",
+    "eightfold",
+    "right_view",
+    "right_speech",
+    "right_action",
+    "right_effort",
+    "right_samadhi",
+    "right_thought"
+   ],
+   "n": 9,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "四圣谛",
+   "id": "doc_6"
+  },
+  {
+   "name": "大念处经",
+   "ids": [
+    "four_foundations",
+    "all_suffering",
+    "twelve_ayatana",
+    "thirty_seven_bodhipakkhiya",
+    "right_mindfulness",
+    "link_feeling",
+    "southern_tradition",
+    "ten_paths"
+   ],
+   "n": 8,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "修行实践",
+   "id": "doc_7"
+  },
+  {
+   "name": "大般涅槃经",
+   "ids": [
+    "councils",
+    "icchantika",
+    "tathagatagarbha",
+    "buddha_nature",
+    "chan",
+    "four_reliances",
+    "seeing_nature",
+    "debate_tathagatagarbha"
+   ],
+   "n": 8,
+   "kind": "经",
+   "era": "前4-3",
+   "cat": "如来藏 · 佛性",
+   "id": "doc_8"
+  },
+  {
+   "name": "金刚顶经",
+   "ids": [
+    "tantra",
+    "mandala",
+    "abhisheka",
+    "sokushin_jobutsu",
+    "four_tantra_classes",
+    "tangmi_tibetan"
+   ],
+   "n": 6,
+   "kind": "经/论疏",
+   "era": "4-7",
+   "cat": "判教 · 宗派",
+   "id": "doc_9"
+  },
+  {
+   "name": "六祖坛经",
+   "ids": [
+    "no_attainment",
+    "chan",
+    "seeing_nature",
+    "wunian",
+    "chan_methods"
+   ],
+   "n": 5,
+   "kind": "经",
+   "era": "4-7",
+   "cat": "判教 · 宗派",
+   "id": "doc_10"
+  },
+  {
+   "name": "华严经",
+   "ids": [
+    "bodhisattva_path",
+    "one_mind_3000",
+    "dharma_realm_origination",
+    "six_aspects",
+    "one_true_dharmadhatu"
+   ],
+   "n": 5,
+   "kind": "经",
+   "era": "4-7",
+   "cat": "判教 · 宗派",
+   "id": "doc_11"
+  },
+  {
+   "name": "大日经",
+   "ids": [
+    "mandala",
+    "three_mysteries",
+    "abhisheka",
+    "four_tantra_classes",
+    "tangmi_tibetan"
+   ],
+   "n": 5,
+   "kind": "经/论疏",
+   "era": "4-7",
+   "cat": "判教 · 宗派",
+   "id": "doc_12"
+  },
+  {
+   "name": "中阿含经",
+   "ids": [
+    "karma",
+    "four_foundations",
+    "right_mindfulness",
+    "four_immeasurables"
+   ],
+   "n": 4,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "修行实践",
+   "id": "doc_13"
+  },
+  {
+   "name": "沙门果经",
+   "ids": [
+    "samadhi_training",
+    "four_dhyanas",
+    "three_realms",
+    "right_samadhi"
+   ],
+   "n": 4,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "修行实践",
+   "id": "doc_14"
+  },
+  {
+   "name": "胜鬘经",
+   "ids": [
+    "tathagatagarbha",
+    "garbha_sutras",
+    "pure_mind",
+    "debate_tathagatagarbha"
+   ],
+   "n": 4,
+   "kind": "经/论疏",
+   "era": "4-7",
+   "cat": "如来藏 · 佛性",
+   "id": "doc_15"
+  },
+  {
+   "name": "阿弥陀经",
+   "ids": [
+    "pureland",
+    "buddha_name",
+    "pure_land",
+    "faith_vow"
+   ],
+   "n": 4,
+   "kind": "经",
+   "era": "4-7",
+   "cat": "判教 · 宗派",
+   "id": "doc_16"
+  },
+  {
+   "name": "增支部",
+   "ids": [
+    "right_livelihood",
+    "all_suffering",
+    "four_attractions"
+   ],
+   "n": 3,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "四圣谛",
+   "id": "doc_17"
+  },
+  {
+   "name": "大品般若经",
+   "ids": [
+    "bodhisattva_path",
+    "six_paramitas",
+    "no_attainment"
+   ],
+   "n": 3,
+   "kind": "经",
+   "era": "4-7",
+   "cat": "如来藏 · 佛性",
+   "id": "doc_18"
+  },
+  {
+   "name": "大因缘经",
+   "ids": [
+    "dependent_origination",
+    "twelve_links",
+    "link_namarupa"
+   ],
+   "n": 3,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "缘起 · 业果 · 法论",
+   "id": "doc_19"
+  },
+  {
+   "name": "大般若经",
+   "ids": [
+    "bodhisattva_path",
+    "six_paramitas",
+    "no_attainment"
+   ],
+   "n": 3,
+   "kind": "经",
+   "era": "4-7",
+   "cat": "如来藏 · 佛性",
+   "id": "doc_20"
+  },
+  {
+   "name": "妙法莲华经",
+   "ids": [
+    "four_seals",
+    "tiantai",
+    "kaifozhijian"
+   ],
+   "n": 3,
+   "kind": "经",
+   "era": "前3-1",
+   "cat": "判教 · 宗派",
+   "id": "doc_21"
+  },
+  {
+   "name": "有明小经",
+   "ids": [
+    "three_trainings",
+    "prajna",
+    "sila"
+   ],
+   "n": 3,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "修行实践",
+   "id": "doc_22"
+  },
+  {
+   "name": "那先比丘经",
+   "ids": [
+    "flame_analogy",
+    "not_one_not_diff",
+    "karma_ownership"
+   ],
+   "n": 3,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "无我",
+   "id": "doc_23"
+  },
+  {
+   "name": "入楞伽经",
+   "ids": [
+    "tathagatagarbha",
+    "alaya"
+   ],
+   "n": 2,
+   "kind": "经",
+   "era": "4-7",
+   "cat": "二谛 · 三性"
+  },
+  {
+   "name": "增壹阿含经",
+   "ids": [
+    "four_foundations",
+    "four_seals"
+   ],
+   "n": 2,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "三法印"
+  },
+  {
+   "name": "大方等如来藏经",
+   "ids": [
+    "tathagatagarbha",
+    "garbha_sutras"
+   ],
+   "n": 2,
+   "kind": "经",
+   "era": "4-7",
+   "cat": "如来藏 · 佛性"
+  },
+  {
+   "name": "无我相经",
+   "ids": [
+    "five_aggregates",
+    "anatta"
+   ],
+   "n": 2,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "缘起 · 业果 · 法论"
+  },
+  {
+   "name": "无量寿经",
+   "ids": [
+    "pureland",
+    "pure_land"
+   ],
+   "n": 2,
+   "kind": "经",
+   "era": "4-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "法华经",
+   "ids": [
+    "three_vehicles_one_vehicle",
+    "six_realms"
+   ],
+   "n": 2,
+   "kind": "经",
+   "era": "4-7",
+   "cat": "缘起 · 业果 · 法论"
+  },
+  {
+   "name": "观无量寿经",
+   "ids": [
+    "pureland",
+    "buddha_name"
+   ],
+   "n": 2,
+   "kind": "经",
+   "era": "4-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "金光明经",
+   "ids": [
+    "three_bodies",
+    "buddha_body_land"
+   ],
+   "n": 2,
+   "kind": "经/论疏",
+   "era": "4-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "不增不减经",
+   "ids": [
+    "garbha_sutras"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "4-7",
+   "cat": "如来藏 · 佛性"
+  },
+  {
+   "name": "八千颂",
+   "ids": [
+    "mahayana_origins"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "前4-3",
+   "cat": "历史层积 · 传播"
+  },
+  {
+   "name": "别译杂阿含经",
+   "ids": [
+    "four_foundations"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "修行实践"
+  },
+  {
+   "name": "十万颂",
+   "ids": [
+    "mahayana_origins"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "前4-3",
+   "cat": "历史层积 · 传播"
+  },
+  {
+   "name": "增一阿含经",
+   "ids": [
+    "five_precepts"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "修行实践"
+  },
+  {
+   "name": "大方广佛华严经",
+   "ids": [
+    "huayan"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "4-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "大楼炭经",
+   "ids": [
+    "kalpa_cosmology"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "缘起 · 业果 · 法论"
+  },
+  {
+   "name": "大毘卢遮那成佛神变加持经",
+   "ids": [
+    "tantra"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "4-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "大般涅槃经后分",
+   "ids": [
+    "councils"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "前4-3",
+   "cat": "部派 · 阿毗达磨"
+  },
+  {
+   "name": "小诵",
+   "ids": [
+    "three_refuges"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "修行实践"
+  },
+  {
+   "name": "念处经",
+   "ids": [
+    "four_foundations"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "修行实践"
+  },
+  {
+   "name": "法句经",
+   "ids": [
+    "all_suffering"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "四圣谛"
+  },
+  {
+   "name": "维摩经",
+   "ids": [
+    "four_reliances"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "4-7",
+   "cat": "历史层积 · 传播"
+  },
+  {
+   "name": "缘起经",
+   "ids": [
+    "dependent_origination"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "缘起 · 业果 · 法论"
+  },
+  {
+   "name": "般若波罗蜜多心经",
+   "ids": [
+    "emptiness"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "4-7",
+   "cat": "二谛 · 三性"
+  },
+  {
+   "name": "起世经",
+   "ids": [
+    "kalpa_cosmology"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "缘起 · 业果 · 法论"
+  },
+  {
+   "name": "转法轮经",
+   "ids": [
+    "four_truths"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "四圣谛"
+  },
+  {
+   "name": "转轮圣王师子吼经",
+   "ids": [
+    "kalpa_cosmology"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "前6-5",
+   "cat": "缘起 · 业果 · 法论"
+  },
+  {
+   "name": "金刚经",
+   "ids": [
+    "chan"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "4-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "金刚般若波罗蜜经",
+   "ids": [
+    "wunian"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "4-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "阿育王传",
+   "ids": [
+    "ashoka"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "前4-3",
+   "cat": "历史层积 · 传播"
+  },
+  {
+   "name": "阿育王经",
+   "ids": [
+    "ashoka"
+   ],
+   "n": 1,
+   "kind": "经",
+   "era": "前4-3",
+   "cat": "历史层积 · 传播"
+  },
+  {
+   "name": "四分律",
+   "ids": [
+    "three_refuges",
+    "vinaya_rites",
+    "sila",
+    "vinaya",
+    "precepts"
+   ],
+   "n": 5,
+   "kind": "律",
+   "era": "前6-5",
+   "cat": "修行实践",
+   "id": "doc_24"
+  },
+  {
+   "name": "梵网经",
+   "ids": [
+    "three_realms",
+    "sila",
+    "vinaya",
+    "precepts"
+   ],
+   "n": 4,
+   "kind": "律/经",
+   "era": "前6-5",
+   "cat": "判教 · 宗派",
+   "id": "doc_25"
+  },
+  {
+   "name": "萨婆多毗尼毗婆沙",
+   "ids": [
+    "five_precepts",
+    "vinaya_rites",
+    "right_action",
+    "jie_ti"
+   ],
+   "n": 4,
+   "kind": "律",
+   "era": "前6-5",
+   "cat": "修行实践",
+   "id": "doc_26"
+  },
+  {
+   "name": "四分律删繁补阙行事钞",
+   "ids": [
+    "vinaya",
+    "jie_ti"
+   ],
+   "n": 2,
+   "kind": "律",
+   "era": "4-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "业疏",
+   "ids": [
+    "jie_ti"
+   ],
+   "n": 1,
+   "kind": "律",
+   "era": "7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "四分律羯磨疏",
+   "ids": [
+    "jie_ti"
+   ],
+   "n": 1,
+   "kind": "律",
+   "era": "7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "根本说一切有部毗奈耶",
+   "ids": [
+    "vinaya_rites"
+   ],
+   "n": 1,
+   "kind": "律",
+   "era": "前6-5",
+   "cat": "修行实践"
+  },
+  {
+   "name": "毗尼母经",
+   "ids": [
+    "three_refuges"
+   ],
+   "n": 1,
+   "kind": "律",
+   "era": "前6-5",
+   "cat": "修行实践"
+  },
+  {
+   "name": "百丈清规",
+   "ids": [
+    "huiChang_persecution"
+   ],
+   "n": 1,
+   "kind": "律",
+   "era": "9-12",
+   "cat": "历史层积 · 传播"
+  },
+  {
+   "name": "俱舍论",
+   "ids": [
+    "right_livelihood",
+    "karma",
+    "three_doors",
+    "five_precepts",
+    "all_suffering",
+    "link_consciousness",
+    "dharma_term",
+    "pudgala",
+    "samadhi_training",
+    "prajna",
+    "four_dhyanas",
+    "eighteen_dhatu",
+    "thirty_seven_bodhipakkhiya",
+    "sravaka_fruits",
+    "three_realms",
+    "kalpa_cosmology",
+    "dukkha",
+    "samudaya",
+    "nirodha",
+    "impermanence",
+    "link_formation",
+    "link_clinging",
+    "link_becoming",
+    "link_birth",
+    "three_lives",
+    "delusion_karma_suffering",
+    "vipaka",
+    "karma_types",
+    "kusala_akusala",
+    "conditioned",
+    "rupa",
+    "debate_pudgala",
+    "unconditioned",
+    "abhidharma",
+    "sarvastivada",
+    "three_unconditioned",
+    "debate_atom",
+    "sautrantika",
+    "six_causes_five_results",
+    "four_immeasurables",
+    "karma_ownership",
+    "precepts",
+    "five_paths",
+    "caitasika",
+    "six_realms",
+    "jushe"
+   ],
+   "n": 46,
+   "kind": "论疏",
+   "era": "前6-5",
+   "cat": "缘起 · 业果 · 法论",
+   "id": "doc_27"
+  },
+  {
+   "name": "成唯识论",
+   "ids": [
+    "link_consciousness",
+    "karma_criteria",
+    "continuity",
+    "dharma_term",
+    "pudgala",
+    "delusion_karma_suffering",
+    "vipaka",
+    "kusala_akusala",
+    "debate_pudgala",
+    "unconditioned",
+    "debate_atom",
+    "sautrantika",
+    "six_causes_five_results",
+    "yogacara",
+    "suchness",
+    "three_natures",
+    "eight_consciousnesses",
+    "alaya",
+    "faxiang",
+    "five_paths",
+    "buddha_body_land",
+    "caitasika",
+    "six_unconditioned",
+    "parikalpita",
+    "paratantra",
+    "transformation",
+    "four_wisdoms",
+    "parinispanna",
+    "debate_two_truths",
+    "yogacara_vs_madhyamaka",
+    "vijnapti_matra"
+   ],
+   "n": 31,
+   "kind": "论疏",
+   "era": "前6-5",
+   "cat": "缘起 · 业果 · 法论",
+   "id": "doc_28"
+  },
+  {
+   "name": "中论",
+   "ids": [
+    "nirvana",
+    "continuity",
+    "flame_analogy",
+    "not_one_not_diff",
+    "debate_pudgala",
+    "unconditioned",
+    "nagarjuna",
+    "madhyamaka",
+    "debate_atom",
+    "two_truths",
+    "emptiness",
+    "karma_ownership",
+    "suffering_continues",
+    "no_attainment",
+    "three_truths_round",
+    "sanlun",
+    "sizhong_erdi",
+    "conventional",
+    "ultimate",
+    "eight_negations",
+    "debate_two_truths",
+    "yogacara_vs_madhyamaka",
+    "prajna_emptiness"
+   ],
+   "n": 23,
+   "kind": "论疏",
+   "era": "前6-5",
+   "cat": "判教 · 宗派",
+   "id": "doc_29"
+  },
+  {
+   "name": "大智度论",
+   "ids": [
+    "right_livelihood",
+    "karma",
+    "three_doors",
+    "nirvana",
+    "karma_criteria",
+    "samsara",
+    "mahayana_origins",
+    "three_seals",
+    "nagarjuna",
+    "two_truths",
+    "four_immeasurables",
+    "four_attractions",
+    "emptiness",
+    "suffering_continues",
+    "six_paramitas",
+    "buddha_body_land",
+    "four_reliances",
+    "ten_paths",
+    "six_realms",
+    "canon_expansion"
+   ],
+   "n": 20,
+   "kind": "论疏",
+   "era": "前6-5",
+   "cat": "缘起 · 业果 · 法论",
+   "id": "doc_30"
+  },
+  {
+   "name": "瑜伽师地论",
+   "ids": [
+    "right_livelihood",
+    "three_doors",
+    "three_trainings",
+    "karma_types",
+    "four_seals",
+    "icchantika",
+    "yogacara",
+    "four_attractions",
+    "three_vehicles_one_vehicle",
+    "samatha_vipassana",
+    "three_natures",
+    "eight_consciousnesses",
+    "buddha_nature",
+    "six_paramitas",
+    "faxiang",
+    "five_paths",
+    "canon_expansion"
+   ],
+   "n": 17,
+   "kind": "论疏",
+   "era": "前6-5",
+   "cat": "修行实践",
+   "id": "doc_31"
+  },
+  {
+   "name": "大毗婆沙论",
+   "ids": [
+    "pudgala",
+    "link_formation",
+    "link_clinging",
+    "three_lives",
+    "karma_types",
+    "councils",
+    "eighteen_schools",
+    "abhidharma",
+    "sarvastivada",
+    "three_unconditioned",
+    "sautrantika",
+    "six_causes_five_results"
+   ],
+   "n": 12,
+   "kind": "论疏",
+   "era": "前6-5",
+   "cat": "部派 · 阿毗达磨",
+   "id": "doc_32"
+  },
+  {
+   "name": "法华玄义",
+   "ids": [
+    "panjiao",
+    "three_vehicles_one_vehicle",
+    "tiantai",
+    "one_mind_3000",
+    "three_truths_round",
+    "debate_two_truths",
+    "yogacara_vs_madhyamaka",
+    "chengshi",
+    "wushi_bajiao"
+   ],
+   "n": 9,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "判教 · 宗派",
+   "id": "doc_33"
+  },
+  {
+   "name": "清净道论",
+   "ids": [
+    "all_suffering",
+    "prajna",
+    "four_dhyanas",
+    "sravaka_fruits",
+    "three_realms",
+    "southern_tradition",
+    "abhidharma",
+    "four_immeasurables",
+    "samatha_vipassana"
+   ],
+   "n": 9,
+   "kind": "论疏",
+   "era": "前6-5",
+   "cat": "修行实践",
+   "id": "doc_34"
+  },
+  {
+   "name": "华严一乘教义分齐章",
+   "ids": [
+    "panjiao",
+    "huayan",
+    "ten_gates",
+    "six_aspects",
+    "one_true_dharmadhatu",
+    "yogacara_vs_madhyamaka",
+    "wujiao_shizong"
+   ],
+   "n": 7,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "判教 · 宗派",
+   "id": "doc_35"
+  },
+  {
+   "name": "大乘起信论",
+   "ids": [
+    "icchantika",
+    "suchness",
+    "buddha_nature",
+    "pure_mind",
+    "bodhisattva_path",
+    "three_bodies"
+   ],
+   "n": 6,
+   "kind": "论疏",
+   "era": "3-5",
+   "cat": "如来藏 · 佛性",
+   "id": "doc_36"
+  },
+  {
+   "name": "大日经疏",
+   "ids": [
+    "tantra",
+    "mandala",
+    "three_mysteries",
+    "abhisheka",
+    "sokushin_jobutsu",
+    "tangmi_tibetan"
+   ],
+   "n": 6,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "判教 · 宗派",
+   "id": "doc_37"
+  },
+  {
+   "name": "摩诃止观",
+   "ids": [
+    "samatha_vipassana",
+    "tiantai",
+    "one_mind_3000",
+    "three_truths_round",
+    "six_identities",
+    "wushi_bajiao"
+   ],
+   "n": 6,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "判教 · 宗派",
+   "id": "doc_38"
+  },
+  {
+   "name": "三论玄义",
+   "ids": [
+    "panjiao",
+    "sanlun",
+    "yogacara_vs_madhyamaka",
+    "chengshi",
+    "prajna_emptiness"
+   ],
+   "n": 5,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "判教 · 宗派",
+   "id": "doc_39"
+  },
+  {
+   "name": "摄大乘论",
+   "ids": [
+    "yogacara",
+    "buddha_body_land",
+    "paratantra",
+    "transformation",
+    "vijnapti_matra"
+   ],
+   "n": 5,
+   "kind": "论疏",
+   "era": "3-5",
+   "cat": "二谛 · 三性",
+   "id": "doc_40"
+  },
+  {
+   "name": "二谛义",
+   "ids": [
+    "sanlun",
+    "sizhong_erdi",
+    "debate_two_truths",
+    "prajna_emptiness"
+   ],
+   "n": 4,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "判教 · 宗派",
+   "id": "doc_41"
+  },
+  {
+   "name": "佛性论",
+   "ids": [
+    "icchantika",
+    "tathagatagarbha",
+    "suchness",
+    "pure_mind"
+   ],
+   "n": 4,
+   "kind": "论疏",
+   "era": "3-5",
+   "cat": "如来藏 · 佛性",
+   "id": "doc_42"
+  },
+  {
+   "name": "华严经探玄记",
+   "ids": [
+    "huayan",
+    "dharma_realm_origination",
+    "ten_gates",
+    "wujiao_shizong"
+   ],
+   "n": 4,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "判教 · 宗派",
+   "id": "doc_43"
+  },
+  {
+   "name": "观经四帖疏",
+   "ids": [
+    "pureland",
+    "buddha_name",
+    "faith_vow",
+    "two_paths_two_powers"
+   ],
+   "n": 4,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "判教 · 宗派",
+   "id": "doc_44"
+  },
+  {
+   "name": "佛地经论",
+   "ids": [
+    "icchantika",
+    "three_bodies",
+    "four_wisdoms"
+   ],
+   "n": 3,
+   "kind": "论疏",
+   "era": "3-5",
+   "cat": "二谛 · 三性",
+   "id": "doc_45"
+  },
+  {
+   "name": "华严法界玄镜",
+   "ids": [
+    "huayan",
+    "four_dharmadhatu",
+    "wujiao_shizong"
+   ],
+   "n": 3,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "判教 · 宗派",
+   "id": "doc_46"
+  },
+  {
+   "name": "大乘玄论",
+   "ids": [
+    "sanlun",
+    "sizhong_erdi",
+    "yogacara_vs_madhyamaka"
+   ],
+   "n": 3,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "判教 · 宗派",
+   "id": "doc_47"
+  },
+  {
+   "name": "菩提道次第广论",
+   "ids": [
+    "buddhapalita_bhaviveka",
+    "tangmi_tibetan",
+    "tibetan_schools"
+   ],
+   "n": 3,
+   "kind": "论疏",
+   "era": "6-8",
+   "cat": "判教 · 宗派",
+   "id": "doc_48"
+  },
+  {
+   "name": "入中论",
+   "ids": [
+    "madhyamaka",
+    "buddhapalita_bhaviveka"
+   ],
+   "n": 2,
+   "kind": "论疏",
+   "era": "1-2",
+   "cat": "部派 · 阿毗达磨"
+  },
+  {
+   "name": "出三藏记集",
+   "ids": [
+    "translation_history",
+    "yichang"
+   ],
+   "n": 2,
+   "kind": "论疏",
+   "era": "2-8",
+   "cat": "历史层积 · 传播"
+  },
+  {
+   "name": "十住毗婆沙论",
+   "ids": [
+    "mahayana_origins",
+    "two_paths_two_powers"
+   ],
+   "n": 2,
+   "kind": "论疏",
+   "era": "前4-3",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "华严金师子章",
+   "ids": [
+    "six_aspects",
+    "one_true_dharmadhatu"
+   ],
+   "n": 2,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "大乘庄严经论",
+   "ids": [
+    "four_attractions",
+    "buddha_body_land"
+   ],
+   "n": 2,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "修行实践"
+  },
+  {
+   "name": "宝性论",
+   "ids": [
+    "garbha_sutras",
+    "debate_tathagatagarbha"
+   ],
+   "n": 2,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "如来藏 · 佛性"
+  },
+  {
+   "name": "密宗道次第广论",
+   "ids": [
+    "four_tantra_classes",
+    "tangmi_tibetan"
+   ],
+   "n": 2,
+   "kind": "论疏",
+   "era": "7-9",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "异部宗轮论",
+   "ids": [
+    "eighteen_schools",
+    "debate_pudgala"
+   ],
+   "n": 2,
+   "kind": "论疏",
+   "era": "前4-3",
+   "cat": "部派 · 阿毗达磨"
+  },
+  {
+   "name": "百论",
+   "ids": [
+    "nagarjuna",
+    "two_truths"
+   ],
+   "n": 2,
+   "kind": "论疏",
+   "era": "1-2",
+   "cat": "二谛 · 三性"
+  },
+  {
+   "name": "般若灯论",
+   "ids": [
+    "madhyamaka",
+    "buddhapalita_bhaviveka"
+   ],
+   "n": 2,
+   "kind": "论疏",
+   "era": "1-2",
+   "cat": "部派 · 阿毗达磨"
+  },
+  {
+   "name": "三转法轮经",
+   "ids": [
+    "four_truths"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "前6-5",
+   "cat": "四圣谛"
+  },
+  {
+   "name": "中观心论",
+   "ids": [
+    "buddhapalita_bhaviveka"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "6-8",
+   "cat": "部派 · 阿毗达磨"
+  },
+  {
+   "name": "五教章",
+   "ids": [
+    "three_vehicles_one_vehicle"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "人生佛教",
+   "ids": [
+    "modern_studies"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "15-20",
+   "cat": "历史层积 · 传播"
+  },
+  {
+   "name": "俱舍论疏",
+   "ids": [
+    "jushe"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "6-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "俱舍论记",
+   "ids": [
+    "jushe"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "6-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "分别论",
+   "ids": [
+    "abhidharma"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "前3-1",
+   "cat": "部派 · 阿毗达磨"
+  },
+  {
+   "name": "十二门论",
+   "ids": [
+    "nagarjuna"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "1-2",
+   "cat": "部派 · 阿毗达磨"
+  },
+  {
+   "name": "十地经论",
+   "ids": [
+    "six_aspects"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "因明入正理论疏",
+   "ids": [
+    "hetuvidya"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "因明 · 量论"
+  },
+  {
+   "name": "因明正理门论",
+   "ids": [
+    "hetuvidya"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "因明 · 量论"
+  },
+  {
+   "name": "妙云集",
+   "ids": [
+    "modern_studies"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "15-20",
+   "cat": "历史层积 · 传播"
+  },
+  {
+   "name": "妙法莲华经玄义",
+   "ids": [
+    "six_identities"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "安乐集",
+   "ids": [
+    "two_paths_two_powers"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "5-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "往生论注",
+   "ids": [
+    "two_paths_two_powers"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "5-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "成实论",
+   "ids": [
+    "chengshi"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "5-6",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "明句论",
+   "ids": [
+    "buddhapalita_bhaviveka"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "6-8",
+   "cat": "部派 · 阿毗达磨"
+  },
+  {
+   "name": "景德传灯录",
+   "ids": [
+    "five_houses_seven_schools"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "8-12",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "法华文句",
+   "ids": [
+    "wushi_bajiao"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "6-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "法集论",
+   "ids": [
+    "abhidharma"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "前3-1",
+   "cat": "部派 · 阿毗达磨"
+  },
+  {
+   "name": "百法明门论",
+   "ids": [
+    "six_unconditioned"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "缘起 · 业果 · 法论"
+  },
+  {
+   "name": "翻译名义大集",
+   "ids": [
+    "tibetan_translation"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "7-9",
+   "cat": "历史层积 · 传播"
+  },
+  {
+   "name": "翻译名义集",
+   "ids": [
+    "yichang"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "2-8",
+   "cat": "历史层积 · 传播"
+  },
+  {
+   "name": "胜宗十句义论",
+   "ids": [
+    "debate_atom"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "3-5",
+   "cat": "论诤"
+  },
+  {
+   "name": "观无量寿佛经疏",
+   "ids": [
+    "pure_land"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "释量论",
+   "ids": [
+    "hetuvidya"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "因明 · 量论"
+  },
+  {
+   "name": "阿毗达磨俱舍释论",
+   "ids": [
+    "jushe"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "6-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "阿毗达磨顺正理论",
+   "ids": [
+    "abhidharma"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "前3-1",
+   "cat": "部派 · 阿毗达磨"
+  },
+  {
+   "name": "阿毘达磨法蕴足论",
+   "ids": [
+    "three_seals"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "前3-1",
+   "cat": "三法印"
+  },
+  {
+   "name": "集量论",
+   "ids": [
+    "hetuvidya"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "4-7",
+   "cat": "因明 · 量论"
+  },
+  {
+   "name": "顺正理论",
+   "ids": [
+    "sarvastivada"
+   ],
+   "n": 1,
+   "kind": "论疏",
+   "era": "前3-1",
+   "cat": "部派 · 阿毗达磨"
+  },
+  {
+   "name": "大史",
+   "ids": [
+    "southern_tradition",
+    "councils",
+    "eighteen_schools",
+    "ashoka"
+   ],
+   "n": 4,
+   "kind": "史料/论疏",
+   "era": "前4-3",
+   "cat": "部派 · 阿毗达磨",
+   "id": "doc_49"
+  },
+  {
+   "name": "岛史",
+   "ids": [
+    "southern_tradition",
+    "councils",
+    "eighteen_schools",
+    "ashoka"
+   ],
+   "n": 4,
+   "kind": "史料/论疏",
+   "era": "前4-3",
+   "cat": "部派 · 阿毗达磨",
+   "id": "doc_50"
+  },
+  {
+   "name": "高僧传",
+   "ids": [
+    "icchantika",
+    "translation_history",
+    "yichang"
+   ],
+   "n": 3,
+   "kind": "史料/论疏",
+   "era": "3-5",
+   "cat": "历史层积 · 传播",
+   "id": "doc_51"
+  },
+  {
+   "name": "土观宗派源流",
+   "ids": [
+    "tangmi_tibetan",
+    "tibetan_schools"
+   ],
+   "n": 2,
+   "kind": "史料/文献",
+   "era": "7-9",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "开元释教录",
+   "ids": [
+    "translation_history",
+    "yichang"
+   ],
+   "n": 2,
+   "kind": "史料",
+   "era": "2-8",
+   "cat": "历史层积 · 传播"
+  },
+  {
+   "name": "青史",
+   "ids": [
+    "tangmi_tibetan",
+    "tibetan_schools"
+   ],
+   "n": 2,
+   "kind": "史料",
+   "era": "7-9",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "丹噶目录",
+   "ids": [
+    "tibetan_translation"
+   ],
+   "n": 1,
+   "kind": "史料",
+   "era": "7-9",
+   "cat": "历史层积 · 传播"
+  },
+  {
+   "name": "大慧书",
+   "ids": [
+    "chan_methods"
+   ],
+   "n": 1,
+   "kind": "史料",
+   "era": "8-12",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "宋高僧传",
+   "ids": [
+    "translation_history"
+   ],
+   "n": 1,
+   "kind": "史料",
+   "era": "2-8",
+   "cat": "历史层积 · 传播"
+  },
+  {
+   "name": "旁塘目录",
+   "ids": [
+    "tibetan_translation"
+   ],
+   "n": 1,
+   "kind": "史料",
+   "era": "7-9",
+   "cat": "历史层积 · 传播"
+  },
+  {
+   "name": "无门关",
+   "ids": [
+    "chan_methods"
+   ],
+   "n": 1,
+   "kind": "史料",
+   "era": "8-12",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "碧岩录",
+   "ids": [
+    "chan_methods"
+   ],
+   "n": 1,
+   "kind": "史料",
+   "era": "8-12",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "续高僧传",
+   "ids": [
+    "translation_history"
+   ],
+   "n": 1,
+   "kind": "史料",
+   "era": "2-8",
+   "cat": "历史层积 · 传播"
+  },
+  {
+   "name": "语录",
+   "ids": [
+    "chan_methods"
+   ],
+   "n": 1,
+   "kind": "史料",
+   "era": "8-12",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "贤者喜宴",
+   "ids": [
+    "tibetan_schools"
+   ],
+   "n": 1,
+   "kind": "史料",
+   "era": "11-15",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "华严一乘十玄门",
+   "ids": [
+    "dharma_realm_origination",
+    "ten_gates"
+   ],
+   "n": 2,
+   "kind": "文献",
+   "era": "4-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "五灯会元",
+   "ids": [
+    "five_houses_seven_schools"
+   ],
+   "n": 1,
+   "kind": "文献",
+   "era": "8-12",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "佛祖历代通载",
+   "ids": [
+    "huiChang_persecution"
+   ],
+   "n": 1,
+   "kind": "文献",
+   "era": "9-12",
+   "cat": "历史层积 · 传播"
+  },
+  {
+   "name": "佛祖统纪",
+   "ids": [
+    "huiChang_persecution"
+   ],
+   "n": 1,
+   "kind": "文献",
+   "era": "9-12",
+   "cat": "历史层积 · 传播"
+  },
+  {
+   "name": "修大方广佛华严法界观门",
+   "ids": [
+    "four_dharmadhatu"
+   ],
+   "n": 1,
+   "kind": "文献",
+   "era": "4-7",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "四料简",
+   "ids": [
+    "five_houses_seven_schools"
+   ],
+   "n": 1,
+   "kind": "文献",
+   "era": "8-12",
+   "cat": "判教 · 宗派"
+  },
+  {
+   "name": "旧唐书",
+   "ids": [
+    "huiChang_persecution"
+   ],
+   "n": 1,
+   "kind": "文献",
+   "era": "9-12",
+   "cat": "历史层积 · 传播"
+  },
+  {
+   "name": "根本说一切有部毘奈耶",
+   "ids": [
+    "three_seals"
+   ],
+   "n": 1,
+   "kind": "文献",
+   "era": "前3-1",
+   "cat": "三法印"
+  },
+  {
+   "name": "默照铭",
+   "ids": [
+    "chan_methods"
+   ],
+   "n": 1,
+   "kind": "文献",
+   "era": "8-12",
+   "cat": "判教 · 宗派"
+  }
+ ]
 }

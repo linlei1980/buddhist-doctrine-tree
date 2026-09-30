@@ -811,7 +811,7 @@ JS_ERAS = [dict(id=e[0], label=e[1], hint=e[2]) for e in ERAS]
 # 数据文件（便于后续拆分与审阅）
 os.makedirs(os.path.dirname(DATA_JSON), exist_ok=True)
 json.dump(dict(nodes=JS_NODES, tree=JS_TREE, edges=E, rels=JS_RELS, cats=JS_CATS,
-               epochs=JS_EPS, eras=JS_ERAS, ttk=TTK),
+               epochs=JS_EPS, eras=JS_ERAS, ttk=TTK, docs=DOCS),
           open(DATA_JSON, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 with open(DATA_JS, 'w', encoding='utf-8') as f:
     f.write('/* 佛教基础理论数据（由 build/build.py 生成，可直接编辑本文件后重建页面） */\n')
@@ -1826,5 +1826,7 @@ page = (PAGE.replace('__CSS__', CSS)
 
 # 总览页的 meta-note 使用完整版说明
 
-open(OUT_HTML, 'w', encoding='utf-8').write(page)
-print('已生成', os.path.relpath(OUT_HTML, ROOT), '%.1f KB' % (len(page.encode('utf-8')) / 1024))
+# 双语页面由 render.py 生成（中文 index.html、英文 en.html）
+sys.path.insert(0, os.path.join(ROOT, 'build'))
+import make_pages
+make_pages.main()

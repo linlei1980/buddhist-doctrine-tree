@@ -14,7 +14,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: 重新生成页面（内含五项数据校验）
+      - name: 重建英文译文数据
+        run: python3 build/i18n_build.py
+      - name: 重新生成两版页面（内含五项数据校验）
         run: python3 build/build.py
       - name: 确认生成结果与仓库内容一致
         run: |

@@ -1,0 +1,215 @@
+{
+  "_comment": "界面文字与静态说明。zh 为原文，en 为译文。",
+  "lang": {
+    "zh": {
+      "htmlLang": "zh-CN",
+      "title": "佛教基础理论 · 结构树（结构 · 释义 · 出处 · 年表）",
+      "pageTitle": "佛教基础理论 · 结构树",
+      "pageSub": "十二层主线 + 部派阿毗达磨 + 印度大乘 + 汉传十宗 + 藏传南传　·　每个概念附释义、出处引文与年代考订",
+      "switchLabel": "English",
+      "switchHref": "en.html",
+      "searchPlaceholder": "搜索：缘起 / 阿赖耶识 / 如来藏 / 俱舍论",
+      "tabTree": "目录",
+      "tabTimeline": "年表",
+      "tabPath": "学习路径",
+      "tabWelcome": "总览",
+      "tabDocs": "经律论总览",
+      "tabNode": "节点详情",
+      "toolsExpand": "展开全部",
+      "toolsCollapse": "收起全部",
+      "relHint": "点关系色标＝只看该类（再点一次还原）",
+      "tlKeyOnly": "只看重点节点",
+      "tlAll": "显示全部",
+      "tlHint": "年表按时段分组，粗体为重点",
+      "pathHint": "四条读法：基础 → 深入 → 脉络 → 实践",
+      "back": "返回目录",
+      "guideSummary": "总览 · 体系主线与读法",
+      "matchFmt": "匹配 <em>{n}</em> 项，回车跳到第一个",
+      "noMatch": "无匹配（可放宽关系筛选）",
+      "secMeaning": "释义",
+      "secTime": "时间 · 层积",
+      "secSource": "出处",
+      "secRelated": "关联节点",
+      "seeAlso": "另见",
+      "eraPos": "年表位置",
+      "badgeSrc": "出处 {n} 条",
+      "badgeRel": "关联 {n}",
+      "docNoDating": "文献节点不单列「思想形成／文献定型」——同一部经的思想源头与文本定型常相差数百年，须在讨论它的节点里分开交代（见「04 论书层」「12 历史 · 传播」，以及在「经律论总览」里检索该文献名）。",
+      "ttkForm": "思想形成",
+      "ttkFix": "文献定型",
+      "ttkTrans": "汉译流传",
+      "epLabel": "所属层积",
+      "themeMeaningLayers": "要义、展开与争议三层组织。",
+      "matchPrefix": "匹配 <em>",
+      "seeAlsoPrefix": "另见：",
+      "eraPosPrefix": "年表位置：",
+      "ttkAbout": "关于年代",
+      "unitLayers": " 层",
+      "unitPeriods": " 时段"
+    },
+    "en": {
+      "htmlLang": "en",
+      "title": "Buddhist Doctrines · A Structured Reference (Structure · Definitions · Sources · Chronology)",
+      "pageTitle": "Buddhist Doctrines · A Structured Reference",
+      "pageSub": "Twelve layers, from the Four Noble Truths to the Chinese schools · Abhidharma, Madhyamaka and Yogācāra · each concept with definition, cited source and dated layers",
+      "switchLabel": "中文",
+      "switchHref": "index.html",
+      "searchPlaceholder": "Search: dependent origination / ālaya / tathāgatagarbha / Kośa",
+      "tabTree": "Outline",
+      "tabTimeline": "Timeline",
+      "tabPath": "Study paths",
+      "tabWelcome": "Overview",
+      "tabDocs": "Canon index",
+      "tabNode": "Node",
+      "toolsExpand": "Expand all",
+      "toolsCollapse": "Collapse all",
+      "relHint": "Click a relation type to show only that type (click again to reset)",
+      "tlKeyOnly": "Key nodes only",
+      "tlAll": "Show all",
+      "tlHint": "Grouped by period; bold entries are key nodes",
+      "pathHint": "Four reading routes: foundations → depth → history → practice",
+      "back": "Back to outline",
+      "guideSummary": "Overview · The main line and how to read it",
+      "matchFmt": "<em>{n}</em> match(es) — press Enter for the first",
+      "noMatch": "No match (try relaxing the relation filter)",
+      "secMeaning": "Definition",
+      "secTime": "Dating · textual layers",
+      "secSource": "Sources",
+      "secRelated": "Related nodes",
+      "seeAlso": "See also",
+      "eraPos": "Timeline",
+      "badgeSrc": "{n} sources",
+      "badgeRel": "{n} relations",
+      "docNoDating": "Text nodes do not carry a separate “formation / textual fixation” dating: for a single scripture the origin of its teaching and the fixing of its text are often centuries apart, and that distinction belongs to the nodes that discuss the text (layer 04, layer 12), or to a search of the canon index.",
+      "ttkForm": "Formation of the idea",
+      "ttkFix": "Fixation of the text",
+      "ttkTrans": "Chinese translation",
+      "epLabel": "Textual layer",
+      "themeMeaningLayers": "Organised in three tiers: gist, exposition, disputed points.",
+      "matchPrefix": "<em>{n}</em> match(es) — press Enter for the first",
+      "seeAlsoPrefix": "See also: ",
+      "eraPosPrefix": "Timeline: ",
+      "ttkAbout": "On dating",
+      "unitLayers": " layers",
+      "unitPeriods": " periods"
+    }
+  },
+  "categories": {
+    "core": {
+      "zh": "四圣谛",
+      "en": "Four Noble Truths"
+    },
+    "seal": {
+      "zh": "三法印",
+      "en": "Three Seals"
+    },
+    "origin": {
+      "zh": "缘起 · 业果 · 法论",
+      "en": "Dependent Origination · Karma · Dharmas"
+    },
+    "indian": {
+      "zh": "部派 · 阿毗达磨",
+      "en": "Nikāyas · Abhidharma"
+    },
+    "logic": {
+      "zh": "因明 · 量论",
+      "en": "Buddhist Logic · Pramāṇa"
+    },
+    "truth": {
+      "zh": "二谛 · 三性",
+      "en": "Two Truths · Three Natures"
+    },
+    "nonself": {
+      "zh": "无我",
+      "en": "Non-self"
+    },
+    "garbha": {
+      "zh": "如来藏 · 佛性",
+      "en": "Tathāgatagarbha · Buddha-nature"
+    },
+    "school": {
+      "zh": "判教 · 宗派",
+      "en": "Doctrinal Classification · Schools"
+    },
+    "prac": {
+      "zh": "修行实践",
+      "en": "Practice"
+    },
+    "debate": {
+      "zh": "论诤",
+      "en": "Contested Questions"
+    },
+    "canon": {
+      "zh": "经律论文献",
+      "en": "Scriptural Texts"
+    },
+    "hist": {
+      "zh": "历史层积 · 传播",
+      "en": "Textual Layers · Transmission"
+    }
+  },
+  "relations": {
+    "支分": {
+      "en": "Part",
+      "hint": "whole and part: contains, opens into, divides"
+    },
+    "次第": {
+      "en": "Sequence",
+      "hint": "successive: entry, preliminary, stage"
+    },
+    "因果": {
+      "en": "Cause",
+      "hint": "cause and result: root, produces, ripens"
+    },
+    "体同": {
+      "en": "Identity",
+      "hint": "same referent under another name"
+    },
+    "判摄": {
+      "en": "Assessment",
+      "hint": "a school's placement of a concept"
+    },
+    "对辨": {
+      "en": "Contrast",
+      "hint": "two positions set against each other"
+    },
+    "修证": {
+      "en": "Practice",
+      "hint": "doctrine and its practice: method, object of contemplation"
+    },
+    "层积": {
+      "en": "Layer",
+      "hint": "attribution to a textual stratum"
+    },
+    "依据": {
+      "en": "Basis",
+      "hint": "the scripture or reasoning relied on"
+    },
+    "说明": {
+      "en": "Note",
+      "hint": "explanation, example, supplement"
+    }
+  },
+  "epochs": {
+    "early": {
+      "en": "Early layer",
+      "hint": "core teachings shared before the schisms; present in both the Pali Nikāyas and the Chinese Āgamas"
+    },
+    "develop": {
+      "en": "Developmental layer",
+      "hint": "formed in the centuries after the Buddha: śāstras, Mahāyāna, doctrinal classification, schools"
+    },
+    "folk": {
+      "en": "Folk layer",
+      "hint": "material serving popular religious needs; different in kind from the doctrinal layers"
+    },
+    "modern": {
+      "en": "Modern layer",
+      "hint": "modern methods of study and modern forms of practice; not doctrine"
+    },
+    "meta": {
+      "en": "Meta layer",
+      "hint": "methodology and conclusions about how the texts themselves came to be"
+    }
+  }
+}
