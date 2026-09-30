@@ -18,6 +18,10 @@ jobs:
         run: python3 build/i18n_build.py
       - name: 重新生成两版页面（内含五项数据校验）
         run: python3 build/build.py
+      - name: 检查页面产物（样式段完整性、元数据、内联数据）
+        run: python3 build/verify_page.py
+      - name: 浏览器实测（计算样式与交互；无 Chrome 时自动跳过）
+        run: node build/verify_page.mjs
       - name: 确认生成结果与仓库内容一致
         run: |
           if ! git diff --quiet; then

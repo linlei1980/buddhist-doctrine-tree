@@ -90,7 +90,16 @@ python3 build/build.py          # Chinese data + both editions
 python3 build/i18n_build.py     # rebuild the English translation data only
 ```
 
-The main script runs five checks first, and prints a problem list if any fails: empty definition, no source, no dating, node absent from the outline, relation endpoint or type that does not exist. The English data has checks of its own: every id present, cross-reference ids identical to the Chinese, no Chinese characters left behind. See [`build/README.md`](build/README.md).
+The main script runs five checks first, and prints a problem list if any fails: empty definition, no source, no dating, node absent from the outline, relation endpoint or type that does not exist. The English data has checks of its own: every id present, cross-reference ids identical to the Chinese, no Chinese characters left behind.
+
+Two further checks run over the generated pages — a dependency-free one for structural integrity of the styles and metadata, and a headless-browser one asserting the computed styles and the interactions (that the outline is 398 px wide, that a node opens, that the canon index renders):
+
+```bash
+python3 build/verify_page.py     # static assertions, run by CI
+node build/verify_page.mjs       # rendered check (skips itself if no Chrome)
+```
+
+See [`build/README.md`](build/README.md).
 
 When adding a concept you **do not need to write cross-links by hand** — the first occurrence of another concept's name inside a definition becomes a clickable link automatically.
 
