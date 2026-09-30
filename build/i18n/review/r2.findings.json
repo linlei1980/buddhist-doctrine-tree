@@ -1,0 +1,227 @@
+[
+  {
+    "id": "dependent_origination",
+    "field": "en_q",
+    "severity": "high",
+    "problem": "sources[0]引文「忧悲恼苦」四项只译出三项，漏译「恼」（distress），同句后半「乃至……苦灭」亦同样漏译。",
+    "zh_source": "乃至生老病死忧悲恼苦集",
+    "current": "and so on up to the arising of birth, aging, sickness, death, sorrow, lamentation, and suffering.",
+    "suggested": "and so on up to the arising of birth, aging, sickness, death, sorrow, lamentation, distress, and suffering."
+  },
+  {
+    "id": "samsara",
+    "field": "en_q",
+    "severity": "high",
+    "problem": "sources[0]引文「忧悲恼苦」四项只译出三项，漏译「恼」（distress）。",
+    "zh_source": "乃至生老病死忧悲恼苦集",
+    "current": "and so on up to the arising of birth, aging, sickness, death, sorrow, lamentation, and suffering.",
+    "suggested": "and so on up to the arising of birth, aging, sickness, death, sorrow, lamentation, distress, and suffering."
+  },
+  {
+    "id": "link_feeling",
+    "field": "en",
+    "severity": "medium",
+    "problem": "「四念处」在本批次其余各处（four_foundations、thirty_seven_bodhipakkhiya、twelve_ayatana）均作 the four establishments of mindfulness，此处作 four foundations of mindfulness，术语不一致。",
+    "zh_source": "四念处中的「受念处」即在此处下手",
+    "current": "[[four_foundations|four foundations of mindfulness]]",
+    "suggested": "[[four_foundations|four establishments of mindfulness]]"
+  },
+  {
+    "id": "three_realms",
+    "field": "en",
+    "severity": "medium",
+    "problem": "「四禅八定」在本批次其余各处（four_dhyanas、samadhi_training）均作 the four dhyānas and eight concentrations，此处作 eight attainments，术语不一致。",
+    "zh_source": "它解释了「四禅八定」的果报处所",
+    "current": "the “four dhyānas and eight attainments”",
+    "suggested": "the “four dhyānas and eight concentrations”"
+  },
+  {
+    "id": "link_sadayatana",
+    "field": "en",
+    "severity": "medium",
+    "problem": "「六入（六处）」在本批次其余各处均作 the six sense bases，此处作 the six bases（本节点下文「only when the six bases exist」同），术语不一致。",
+    "zh_source": "严格说，「六入」（六处）是六根对六境的入口",
+    "current": "Strictly speaking, the “six bases” (six āyatanas) are the entrances",
+    "suggested": "Strictly speaking, the “six sense bases” (six āyatanas) are the entrances"
+  },
+  {
+    "id": "three_realms",
+    "field": "en_title",
+    "severity": "medium",
+    "problem": "sources[0]中文作「《长部》1《梵网经》、卷2《沙门果经》」，英译漏掉「卷2」这一数字（Sāmaññaphala Sutta 即《长部》第2经）。",
+    "zh_source": "《长部》1《梵网经》、卷2《沙门果经》",
+    "current": "*Dīgha Nikāya* 1, *Brahmajāla-sutta* (Fanwang Jing), and *Sāmaññaphala Sutta* (Shamen Guo Jing)",
+    "suggested": "*Dīgha Nikāya* 1, *Brahmajāla-sutta* (Fanwang Jing); *Dīgha Nikāya* 2, *Sāmaññaphala Sutta* (Shamen Guo Jing)"
+  },
+  {
+    "id": "four_foundations",
+    "field": "en",
+    "severity": "low",
+    "problem": "中文作「观苦、乐、不苦不乐三受」，英译把「乐」置于「苦」前，三受的次第与原文不符。",
+    "zh_source": "受念处：观苦、乐、不苦不乐三受，及其有染无染",
+    "current": "the three feelings of pleasant, painful, and neither-painful-nor-pleasant",
+    "suggested": "the three feelings of painful, pleasant, and neither-painful-nor-pleasant"
+  },
+  {
+    "id": "five_paths",
+    "field": "en",
+    "severity": "low",
+    "problem": "「卷」在本批次其余各处（含本节点 sources）均作 fascicle，此处作 juan，体例不一致。",
+    "zh_source": "《成唯识论》卷9",
+    "current": "([[doc_28|Cheng Weishi Lun]], juan 9)",
+    "suggested": "([[doc_28|Cheng Weishi Lun]], fascicle 9)"
+  },
+  {
+    "id": "four_foundations",
+    "field": "en",
+    "severity": "low",
+    "problem": "同节点内「卷」作 juan，而 sources 中同一典籍均作 fascicle，体例不一致。",
+    "zh_source": "《大智度论》卷48 的提倡与智顗《四念处》四卷的发挥",
+    "current": "the *Mahāprajñāpāramitā-śāstra*, juan 48, and the elaboration in four juan of Zhiyi's *Si Nianchu*",
+    "suggested": "the *Mahāprajñāpāramitā-śāstra*, fascicle 48, and the elaboration in four fascicles of Zhiyi's *Si Nianchu*"
+  },
+  {
+    "id": "three_refuges",
+    "field": "en",
+    "severity": "low",
+    "problem": "同节点 sources 中《毗尼母经》卷一作 fascicle 1，正文作 juan 1，体例不一致。",
+    "zh_source": "《毗尼母经》卷一云",
+    "current": "The *Vinaya-mātṛkā*, juan 1, says",
+    "suggested": "The *Vinaya-mātṛkā*, fascicle 1, says"
+  },
+  {
+    "id": "four_immeasurables",
+    "field": "en_title",
+    "severity": "low",
+    "problem": "sources[3]中文「第九〈说梵住品〉」的「第九」指品次（chapter），《清净道论》分品不分卷，英译作 fascicle 9 改变了书目形式。",
+    "zh_source": "《清净道论》第九〈说梵住品〉",
+    "current": "*Visuddhimagga* (Qingjing Dao Lun), fascicle 9, “The Divine Abidings“",
+    "suggested": "*Visuddhimagga* (Qingjing Dao Lun), chapter 9, “The Divine Abidings”"
+  },
+  {
+    "id": "sravaka_fruits",
+    "field": "en",
+    "severity": "low",
+    "problem": "「欲界」在 link_becoming、three_realms 中作 the realm of desire，此处两处均作 the sense realm，术语不一致。",
+    "zh_source": "再返欲界一次……不再还生欲界",
+    "current": "returns once more to the [[three_realms|sense realm]];\n- **Anāgāmin** (non-returner) — cuts off the five lower fetters, is no longer reborn in the sense realm,",
+    "suggested": "returns once more to the [[three_realms|realm of desire]];\n- **Anāgāmin** (non-returner) — cuts off the five lower fetters, is no longer reborn in the realm of desire,"
+  },
+  {
+    "id": "sravaka_fruits",
+    "field": "en",
+    "severity": "low",
+    "problem": "「戒禁取」在 link_clinging 中作 clinging to rules and vows，此处作 attachment to rites and rituals，同一术语两种译法。",
+    "zh_source": "断三结（身见、戒禁取、疑）",
+    "current": "(personality view, attachment to rites and rituals, doubt)",
+    "suggested": "(personality view, clinging to rules and vows, doubt)"
+  },
+  {
+    "id": "four_attractions",
+    "field": "en",
+    "severity": "low",
+    "problem": "「四无量心」的链接文字作 the four immeasurable attitudes，紧接的正文却作 the four immeasurables，同段内不一致。",
+    "zh_source": "与四无量心的分别",
+    "current": "the four immeasurables are",
+    "suggested": "the four immeasurable attitudes are"
+  },
+  {
+    "id": "four_immeasurables",
+    "field": "en",
+    "severity": "low",
+    "problem": "本节点 sources 均作 the four immeasurable attitudes，正文作 the four immeasurables，批次内不一致。",
+    "zh_source": "四无量可修至「第三禅」（喜）与「第四禅」（舍）的层次",
+    "current": "the four immeasurables can be developed",
+    "suggested": "the four immeasurable attitudes can be developed"
+  },
+  {
+    "id": "link_namarupa",
+    "field": "en_q",
+    "severity": "low",
+    "problem": "sources[0]引文「如二束芦互相依持而得立」英译表达不通（stand supported by leaning against each other）。",
+    "zh_source": "如二束芦互相依持而得立",
+    "current": "as two bundles of reeds stand supported by leaning against each other.",
+    "suggested": "as two bundles of reeds stand by leaning against and supporting each other."
+  },
+  {
+    "id": "five_aggregates",
+    "field": "en_q",
+    "severity": "low",
+    "problem": "sources[0]引文「彼一切非我、非我所如实观察」英译句序混乱，两个 as 结构难以辨读。",
+    "zh_source": "彼一切非我、非我所如实观察",
+    "current": "All that is to be observed as it really is as neither self nor belonging to a self.",
+    "suggested": "All that is to be observed, as it really is, as neither self nor belonging to a self."
+  },
+  {
+    "id": "buddha_body_land",
+    "field": "en_title",
+    "severity": "low",
+    "problem": "sources[0]梵文经题脱漏 ṇ 的下加点，应作 Suvarṇaprabhāsottama（本批次其余梵文经题音标完整）。",
+    "zh_source": "《金光明经》",
+    "current": "*Suvarnaprabhāsottama Sūtra*",
+    "suggested": "*Suvarṇaprabhāsottama Sūtra*"
+  },
+  {
+    "id": "four_foundations",
+    "field": "en_title",
+    "severity": "low",
+    "problem": "sources[1]标题结束引号误用左双引号“，应为右双引号”。",
+    "zh_source": "《中阿含经》卷24 第98经〈念处经〉",
+    "current": "“Satipaṭṭhāna Sūtra“",
+    "suggested": "“Satipaṭṭhāna Sūtra”"
+  },
+  {
+    "id": "four_foundations",
+    "field": "en_title",
+    "severity": "low",
+    "problem": "sources[2]标题结束引号误用左双引号“，应为右双引号”。",
+    "zh_source": "《增壹阿含经》壹入道品第1经",
+    "current": "“Entering the Way“",
+    "suggested": "“Entering the Way”"
+  },
+  {
+    "id": "four_immeasurables",
+    "field": "en_title",
+    "severity": "low",
+    "problem": "sources[0]标题结束引号误用左双引号“，应为右双引号”，且逗号应在引号外。",
+    "zh_source": "《中阿含经》〈说处经〉等",
+    "current": "“Shuochu Jing,“",
+    "suggested": "“Shuochu Jing”"
+  },
+  {
+    "id": "samatha_vipassana",
+    "field": "en_title",
+    "severity": "low",
+    "problem": "sources[3]标题结束引号误用左双引号“，应为右双引号”。",
+    "zh_source": "《解深密经·分别瑜伽品》",
+    "current": "“Analysis of Yoga“",
+    "suggested": "“Analysis of Yoga”"
+  },
+  {
+    "id": "sravaka_fruits",
+    "field": "en_title",
+    "severity": "low",
+    "problem": "sources[1]标题结束引号误用左双引号“，应为右双引号”。",
+    "zh_source": "《俱舍论》卷23—25〈分别贤圣品〉",
+    "current": "“The Noble Ones“",
+    "suggested": "“The Noble Ones”"
+  },
+  {
+    "id": "thirty_seven_bodhipakkhiya",
+    "field": "en_title",
+    "severity": "low",
+    "problem": "sources[2]标题结束引号误用左双引号“，应为右双引号”。",
+    "zh_source": "《俱舍论》卷25〈分别贤圣品〉",
+    "current": "“The Noble Ones“",
+    "suggested": "“The Noble Ones”"
+  },
+  {
+    "id": "three_refuges",
+    "field": "en_title",
+    "severity": "low",
+    "problem": "sources[0]标题结束引号误用左双引号“，应为右双引号”。",
+    "zh_source": "巴利《小诵》〈三归文〉",
+    "current": "“Formula of the Three Refuges“",
+    "suggested": "“Formula of the Three Refuges”"
+  }
+]

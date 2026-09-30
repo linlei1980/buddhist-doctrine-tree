@@ -67,6 +67,17 @@ for i, o in nodes_out.items():
             s2['t'] = new
 print(f'按规范名表替换出处标题 {n_canon} 处')
 
+# 硬性防线：英文正文（desc/src/tt/rel）不得出现任何中文字符
+CJK_HARD = re.compile(r'[\u3400-\u9fff\u3000-\u303f\uff00-\uffef]')
+for i, o in nodes_out.items():
+    for path, val in [('desc', o.get('desc') or '')] + \
+                     [(f'src[{n}].{f}', (s or {}).get(f, '')) for n, s in enumerate(o.get('src') or [])
+                      for f in ('t', 'q')] + \
+                     [(f'tt.{k}', v) for k, v in (o.get('tt') or {}).items()] + \
+                     [(f'rel.{k}', v) for k, v in (o.get('rel') or {}).items()]:
+        if CJK_HARD.search(val):
+            problems.append(f'{i} 的 {path} 含中文字符：{CJK_HARD.search(val).group(0)}')
+
 with open(os.path.join(OUT, 'nodes.jsonl'), 'w', encoding='utf-8') as f:
     for i, o in nodes_out.items():
         f.write(json.dumps(o, ensure_ascii=False) + '\n')

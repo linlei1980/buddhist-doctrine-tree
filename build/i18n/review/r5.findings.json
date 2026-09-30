@@ -1,0 +1,155 @@
+[
+  {
+    "id": "chan_methods",
+    "field": "en_q",
+    "severity": "medium",
+    "problem": "同一句《坛经》引文（无念为宗，无相为体，无住为本）在本批次其他三处均译作 no-thought as the cardinal principle ... non-abiding as the root，本处作 doctrine / no-abiding ... foundation，古典引文译文应统一。",
+    "zh_source": "「无念为宗，无相为体，无住为本」——两系共同的思想前提。",
+    "current": "'No-thought as the doctrine, no-mark as the substance, no-abiding as the foundation' - the shared intellectual premise of the two lines.",
+    "suggested": "'No-thought as the cardinal principle, no-mark as the substance, non-abiding as the root' - the shared intellectual premise of the two lines."
+  },
+  {
+    "id": "chan",
+    "field": "en",
+    "severity": "medium",
+    "problem": "「沩仰」的罗马字与同批次不一致：本处作 Weiyang，five_houses_seven_schools 作 Guiyang。",
+    "zh_source": "惠能之后分南岳怀让、青原行思两系，派出五家七宗（临济、沩仰、曹洞、云门、法眼，加黄龙、杨岐）。",
+    "current": "which gave rise to the five houses and seven schools (Linji, Weiyang, Caodong, Yunmen, and Fayan, plus Huanglong and Yangqi).",
+    "suggested": "which gave rise to the five houses and seven schools (Linji, Guiyang, Caodong, Yunmen, and Fayan, plus Huanglong and Yangqi)."
+  },
+  {
+    "id": "three_vehicles_one_vehicle",
+    "field": "en",
+    "severity": "medium",
+    "problem": "天台「即」字译作 the word 'itself'，与原义（当体即是／相即）不符，也与同批次「即」的其他译法（at once、identity）不一致。",
+    "zh_source": "但同时又以「即」字保存三乘的当下价值；",
+    "current": "while at the same time preserving the present value of the three vehicles through the word 'itself' (ji);",
+    "suggested": "while at the same time preserving the present value of the three vehicles through the word 'ji' (即, 'is none other than');"
+  },
+  {
+    "id": "jie_ti",
+    "field": "en",
+    "severity": "medium",
+    "problem": "戒法、戒体、戒行、戒相四科的英译与 vinaya 节点不一致（vinaya 作 the dharma of the precepts / the marks of the precepts），同一术语两种译名。（本节点的 SRC[0] en_q 亦有 [[jie_ti|the precepts as norm]] 与 the characteristics of the precepts，应一并改）",
+    "zh_source": "一切戒律可从四科说明——戒法（戒的轨范）、戒体……、戒行……、戒相（戒条差别相）。",
+    "current": "all the precepts can be explained under four categories - **the precepts as norm** (the standard of the rules), **the essence of the precepts** (what is obtained at ordination, the capacity to prevent wrong and stop evil), **the practice of the precepts** (the practice of upholding them on the basis of that essence), and **the characteristics of the precepts** (the differentiated features of the rules).",
+    "suggested": "all the precepts can be explained under four categories - **the dharma of the precepts** (the standard of the rules), **the essence of the precepts** (what is obtained at ordination, the capacity to prevent wrong and stop evil), **the practice of the precepts** (the practice of upholding them on the basis of that essence), and **the marks of the precepts** (the differentiated features of the rules)."
+  },
+  {
+    "id": "ten_gates",
+    "field": "en",
+    "severity": "medium",
+    "problem": "第九门「十世隔法异成门」译名语义不通（as distinct dharmas differently accomplished），读者难以理解所指。",
+    "zh_source": "十世隔法异成门",
+    "current": "9. The gate of the ten times as distinct dharmas differently accomplished —",
+    "suggested": "9. The gate of the ten times whose distinct dharmas are differently accomplished —"
+  },
+  {
+    "id": "wushi_bajiao",
+    "field": "en",
+    "severity": "medium",
+    "problem": "「纯圆独妙」译作 uniquely wonderful，与 panjiao、tiantai 两处的 uniquely sublime 不一致；同批次同一术语应统一。",
+    "zh_source": "判《法华》为「纯圆独妙」",
+    "current": "The judgement that the *Lotus Sutra* is 'purely perfect and uniquely wonderful'",
+    "suggested": "The judgement that the *Lotus Sutra* is 'purely perfect and uniquely sublime'"
+  },
+  {
+    "id": "panjiao",
+    "field": "en",
+    "severity": "low",
+    "problem": "化仪四教／化法四教的译名与 wushi_bajiao（four teachings in respect of method / doctrine）不一致，wujiao_shizong 又作 pedagogical method。",
+    "zh_source": "八教分「化仪四教」（顿、渐、秘密、不定）与「化法四教」（藏、通、别、圆）",
+    "current": "the eight teachings being divided into the “four methods of conversion” (sudden, gradual, secret, indeterminate) and the “four teachings of doctrine” (Tripiṭaka, common, distinct, perfect), taking the *Lotus Sūtra* as purely perfect and uniquely sublime;",
+    "suggested": "the eight teachings being divided into the “four teachings in respect of method” (sudden, gradual, secret, indeterminate) and the “four teachings in respect of doctrine” (Tripiṭaka, common, distinct, perfect), taking the *Lotus Sūtra* as purely perfect and uniquely sublime;"
+  },
+  {
+    "id": "panjiao",
+    "field": "en",
+    "severity": "low",
+    "problem": "「慈恩」罗马字缺撇号：本处作 Cien，同批次另有 Ci'en（translation_history 的 Ci'en Temple）。",
+    "zh_source": "唯识（慈恩）「三时」——有教、空教、中道了义教，以《解深密经》为第三时；",
+    "current": "Yogācāra (Cien) “three periods” — the teaching of existence, the teaching of emptiness, and the teaching of the middle way of definitive meaning, taking the *Saṃdhinirmocana-sūtra* as the third period;",
+    "suggested": "Yogācāra (Ci'en) “three periods” — the teaching of existence, the teaching of emptiness, and the teaching of the middle way of definitive meaning, taking the *Saṃdhinirmocana-sūtra* as the third period;"
+  },
+  {
+    "id": "wushi_bajiao",
+    "field": "en_q",
+    "severity": "low",
+    "problem": "同「纯圆独妙」：此处亦作 uniquely wonderful，与全批次其他处（uniquely sublime）不一致。",
+    "zh_source": "五时八教与「纯圆独妙」的判释。",
+    "current": "and of the *Lotus* as 'purely perfect and uniquely wonderful'.",
+    "suggested": "and of the *Lotus* as 'purely perfect and uniquely sublime'."
+  },
+  {
+    "id": "sanlun",
+    "field": "en_title",
+    "severity": "low",
+    "problem": "《二谛义》《大乘玄论》的英文题名与 sizhong_erdi 节点不一致（后者作 The Meaning of the Two Truths / Profound Treatise on the Great Vehicle）。",
+    "zh_source": "吉藏《二谛义》《大乘玄论》《三论玄义》",
+    "current": "Jizang, *Erdi Yi* (Meaning of the Two Truths), *Dasheng Xuanlun* (Profound Discourse on the Mahāyāna), and *Sanlun Xuanyi* (Profound Meaning of the Three Treatises)",
+    "suggested": "Jizang, *The Meaning of the Two Truths* (Erdi yi), *Profound Treatise on the Great Vehicle* (Dasheng xuanlun), and *Sanlun Xuanyi* (Profound Meaning of the Three Treatises)"
+  },
+  {
+    "id": "ten_gates",
+    "field": "en",
+    "severity": "low",
+    "problem": "「一多相容不同门」的 without identity 易被读作「无自性／无身份」；原义是「一多相容而彼此不同、各不失其相」。",
+    "zh_source": "一多相容不同门——一多相入而不失一多之相",
+    "current": "3. The gate of the mutual containment of one and many without identity —",
+    "suggested": "3. The gate of the mutual containment of one and many without their becoming the same —"
+  },
+  {
+    "id": "translation_history",
+    "field": "en",
+    "severity": "low",
+    "problem": "「唐密」译作 Tang esoterism，与同批次 Tang esoteric Buddhism（tantra、four_tantra_classes、tangmi_tibetan）不一致。",
+    "zh_source": "善无畏（724译《大日经》）、金刚智、不空译出密续，唐密成立。",
+    "current": "and Amoghavajra translated the tantras, and Tang esoterism was established.",
+    "suggested": "and Amoghavajra translated the tantras, and Tang esoteric Buddhism was established."
+  },
+  {
+    "id": "tiantai",
+    "field": "en",
+    "severity": "low",
+    "problem": "「圆证实相」的「实相」译作 the true nature，与同批次实相的其他译法（true reality、ultimate reality）不一致；true nature 通常对应真如／本性。",
+    "zh_source": "究极在开佛知见，圆证实相，成究竟即佛。",
+    "current": "Its ultimate aim is to open the Buddha's insight, perfectly realise the true nature, and become the Buddha of the ultimate identity.",
+    "suggested": "Its ultimate aim is to open the Buddha's insight, perfectly realise true reality, and become the Buddha of the ultimate identity."
+  },
+  {
+    "id": "sanlun",
+    "field": "en",
+    "severity": "low",
+    "problem": "「证中道实相」的「实相」译作 the true nature，同上；宜作 true reality。",
+    "zh_source": "究极在证中道实相，入无住涅槃。",
+    "current": "Its ultimate aim is to realise the true nature of the middle way and enter the non-abiding nirvāṇa.",
+    "suggested": "Its ultimate aim is to realise the true reality of the middle way and enter the non-abiding nirvāṇa."
+  },
+  {
+    "id": "yichang",
+    "field": "en",
+    "severity": "low",
+    "problem": "「五不翻」之「生善故」译作 because it produces merit（merit＝功德／福德），原义为「令生善（善心、敬信）」。",
+    "zh_source": "生善故（如「般若」不译「智慧」以存尊重）",
+    "current": "because it follows the ancient (continuing an earlier translation); and because it produces merit (as with bo-re for prajñā, left untranslated rather than rendered \"wisdom\", so as to preserve respect).",
+    "suggested": "because it follows the ancient (continuing an earlier translation); and because it gives rise to the wholesome (as with bo-re for prajñā, left untranslated rather than rendered \"wisdom\", so as to preserve respect)."
+  },
+  {
+    "id": "five_houses_seven_schools",
+    "field": "en",
+    "severity": "low",
+    "problem": "禅门「三玄三要」译作 the three mysteries，与同批次固定指密教「三密」的 three mysteries（three_mysteries、tantra、sokushin_jobutsu）撞名，易混。",
+    "zh_source": "临济的机锋峻烈（喝、棒、三玄三要）",
+    "current": "Linji's sharp and fierce encounter (shouting, blows, the three mysteries and three essentials)",
+    "suggested": "Linji's sharp and fierce encounter (shouting, blows, the three profundities and three essentials)"
+  },
+  {
+    "id": "ashoka",
+    "field": "en_title",
+    "severity": "low",
+    "problem": "撇号用了左单引号 U+2018（Aśoka‘s）而非 ’。此类错误在本批次的源题名中共约 20 处（如 jushe#0 的 ‘The Elements‘、three_vehicles_one_vehicle#0 的 ‘Expedient Means‘），均应替换为 ’。",
+    "zh_source": "阿育王摩崖法敕、石柱法敕（约前3世纪）",
+    "current": "Aśoka‘s rock edicts and pillar edicts (ca. 3rd century BCE)",
+    "suggested": "Aśoka’s rock edicts and pillar edicts (ca. 3rd century BCE)"
+  }
+]
