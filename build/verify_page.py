@@ -67,6 +67,23 @@ def check_page(name, spec, errs):
         if tag not in s:
             fail(f'{name}: 缺少 {tag}', errs)
 
+    # 3b. 社交分享预览图
+    og = re.search(r'<meta property="og:image" content="([^"]+)"', s)
+    if not og:
+        fail(f'{name}: 缺少 og:image', errs)
+    else:
+        if 'twitter:image' not in s or 'twitter:card' not in s:
+            fail(f'{name}: 有 og:image 但缺 twitter:image/card', errs)
+        local = os.path.join(ROOT, og.group(1).rsplit('/', 1)[-1])
+        if not os.path.exists(local):
+            fail(f'{name}: og:image 指向的 {os.path.basename(local)} 在仓库中不存在', errs)
+        else:
+            head = open(local, 'rb').read(33)
+            if head[:8] == b'\x89PNG\r\n\x1a\n':
+                import struct
+                w, h = struct.unpack('>II', head[16:24])
+                if (w, h) != (1280, 640):
+                    fail(f'{name}: og-image.png 尺寸为 {w}×{h}，社交平台推荐 1280×640', errs)
     # 4. JSON-LD 可解析
     m = re.search(r'<script type="application/ld\+json">(.*?)</script>', s, re.S)
     if m:
@@ -144,6 +161,9 @@ def check_seo_files(errs):
         elif PAGES['index.html']['canonical'].rstrip('/') + '/sitemap.xml' not in r:
             fail('robots.txt: Sitemap 地址与仓库路径不一致', errs)
     print(f'  sitemap.xml: {len(urls)} 个 URL，hreflang 齐全 | robots.txt: 已声明 Sitemap')
+    og = os.path.join(ROOT, 'og-image.png')
+    if os.path.exists(og):
+        print(f'  og-image.png: {os.path.getsize(og)/1024:.0f} KB，1280×640')
 
 
 def main():

@@ -412,7 +412,12 @@ def head_html(lang):
             '<meta property="og:url" content="%s">\n'
             '<meta property="og:locale" content="%s">\n'
             '<meta property="og:locale:alternate" content="%s">\n'
-            '<meta name="twitter:card" content="summary">\n'
+            '<meta property="og:image" content="%s">\n'
+            '<meta property="og:image:width" content="1280">\n'
+            '<meta property="og:image:height" content="640">\n'
+            '<meta property="og:image:alt" content="%s">\n'
+            '<meta name="twitter:card" content="summary_large_image">\n'
+            '<meta name="twitter:image" content="%s">\n'
             '<meta name="twitter:title" content="%s">\n'
             '<meta name="twitter:description" content="%s">\n'
             '<script type="application/ld+json">%s</script>\n'
@@ -420,8 +425,16 @@ def head_html(lang):
             % (esc(title), esc(desc), esc(kw), esc(canon),
                i18n.ui_str('zh', 'canonical'), i18n.ui_str('en', 'canonical'),
                i18n.ui_str('zh', 'canonical'), esc(u('siteName')), esc(title), esc(desc),
-               esc(canon), u('ogLocale'), u('ogLocaleAlt'), esc(title), esc(desc),
+               esc(canon), u('ogLocale'), u('ogLocaleAlt'),
+               esc(og_image()), esc(title),
+               esc(og_image()), esc(title), esc(desc),
                json.dumps(ldjson(lang), ensure_ascii=False)))
+
+def og_image():
+    """预览图地址：与 canonical 同域，取自仓库内提交的 og-image.png"""
+    zh = i18n.ui_str('zh', 'canonical')
+    return zh.rsplit('/', 1)[0] + '/og-image.png'
+
 
 def ldjson(lang):
     """结构化数据：说明这是什么、面向谁、以何语言呈现。"""
@@ -442,6 +455,7 @@ def ldjson(lang):
                     'non-self', 'Madhyamaka', 'Yogācāra', 'tathāgatagarbha',
                     'doctrinal classification', 'Chinese Buddhism', 'Tibetan Buddhism',
                     'Theravāda'])],
+        'image': og_image(),
         'isAccessibleForFree': True,
         'license': 'https://creativecommons.org/licenses/by/4.0/',
         'author': {'@type': 'Person', 'name': 'Lin Lei'},

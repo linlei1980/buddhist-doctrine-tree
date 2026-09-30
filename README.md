@@ -54,6 +54,7 @@ Coverage includes the foundational teachings; the schools and Abhidharma; Madhya
 index.html                ← Chinese edition (491 KB, self-contained) — the GitHub Pages home page
 en.html                   ← English edition (674 KB, self-contained)
 sitemap.xml               ← both URLs with hreflang annotations (generated)
+og-image.png              ← 1280×640 social preview card (used by og:image)
 robots.txt                ← crawl rules, pointing at the sitemap (generated)
 archive/v1-原版.html       ← the 2026-09 first edition, kept only for comparison (see archive/README.md)
 

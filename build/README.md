@@ -135,3 +135,16 @@ URL 取自 `build/i18n/ui.json` 的 `canonical`，因此站点地图不会与页
 
 改仓库名或换域名时，只需改 `ui.json` 的 `canonical`，两份文件会随之更新；
 `verify_page.py` 会断言站点地图的 URL 集合与页面的 canonical 一致。
+
+## 社交分享预览图
+
+`build/make_og_image.py` 生成 `og-image.png`（1280×640），供 `og:image` 与 `twitter:image`
+使用。设计与页面同色系：纸白底、朱砂强调色、深墨正文。
+
+- **依赖 Pillow**，而 CI 不安装 Pillow，故本脚本在缺少 Pillow 时**跳过并保留已有图片**，
+  不视为失败；图片本身提交进仓库，日常构建无需重新生成
+- 需要重新生成时（例如改了数字或文案）：
+  `<带 Pillow 的 python> build/make_og_image.py`
+- 页面里的 `og:image` 地址与 `canonical` 同域，取自 `ui.json`，换域名时一并更新
+- `verify_page.py` 会断言：`og:image` 存在、指向的文件在仓库内、为 1280×640、
+  且 `twitter:image` 与 `twitter:card` 齐备
