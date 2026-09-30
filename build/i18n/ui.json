@@ -49,7 +49,7 @@
       "siteName": "佛教基础理论 · 结构树",
       "metaDesc": "佛教基础理论的单页参考：十二层结构、230 个概念、619 条关系、549 条文献出处引证。每个概念附释义、分栏年代（思想形成／文献定型／汉译流传）、出处原文与关联节点，覆盖四圣谛、缘起、部派阿毗达磨、中观唯识、如来藏、因明、汉传十宗、藏传与南传、修行次第与传播史。中英双语，可离线使用。",
       "metaKeywords": "佛教,佛学,佛学入门,佛教知识体系,四圣谛,缘起,十二因缘,五蕴,无我,三法印,阿毗达磨,俱舍论,中观,唯识,阿赖耶识,如来藏,佛性,因明,判教,天台,华严,三论,法相,禅宗,净土,律宗,密宗,藏传佛教,南传佛教,巴利三藏,大藏经,佛经目录,Buddhism,Buddhist studies,Dharma,Mahayana,Madhyamaka,Yogacara,Abhidharma",
-      "canonical": "https://linlei1980.github.io/foxue/",
+      "canonical": "https://linlei1980.github.io/buddhist-doctrine-tree/",
       "ogLocale": "zh_CN",
       "ogLocaleAlt": "en_US"
     },
@@ -101,7 +101,7 @@
       "siteName": "Buddhist Doctrines · A Structured Reference",
       "metaDesc": "A single-page reference to Buddhist doctrine: twelve layers, 230 concepts, 619 typed relations, 549 cited passages. Each concept carries a definition, dated textual layers (formation of the idea / fixation of the text / Chinese translation), quoted sources and related nodes — covering the Four Noble Truths, dependent origination, the Nikāyas and Abhidharma, Madhyamaka and Yogācāra, tathāgatagarbha, Buddhist logic, the Chinese schools, Tibetan and Theravāda transmissions, the stages of practice and the history of the texts. Bilingual, self-contained, works offline.",
       "metaKeywords": "Buddhism,Buddhist studies,Dharma,Buddhist doctrine,Four Noble Truths,dependent origination,twelve links,non-self,three seals,Abhidharma,Kośa,Sarvāstivāda,Madhyamaka,Nāgārjuna,Yogācāra,ālaya-consciousness,tathāgatagarbha,Buddha-nature,Buddhist logic,pramāṇa,doctrinal classification,Tiantai,Huayan,Sanlun,Faxiang,Chan,Pure Land,Vinaya,Tantra,Tibetan Buddhism,Theravāda,Pali canon,Tripiṭaka,canon index,reference,knowledge graph,佛教,佛学,中观,唯识,如来藏",
-      "canonical": "https://linlei1980.github.io/foxue/en.html",
+      "canonical": "https://linlei1980.github.io/buddhist-doctrine-tree/en.html",
       "ogLocale": "en_US",
       "ogLocaleAlt": "zh_CN"
     }

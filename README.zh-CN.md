@@ -4,8 +4,8 @@
 
 一份把佛教基础理论组织为**十二层结构**的单页参考：230 个概念，619 条带类型的概念关系，549 条文献出处引证，每个概念都标注释义、出处原文与分栏年代。
 
-**在线查看（无需下载）**：<https://linlei1980.github.io/foxue/>
-**英文版**：<https://linlei1980.github.io/foxue/en.html>　·　两页右上角均可切换语言
+**在线查看（无需下载）**：<https://linlei1980.github.io/buddhist-doctrine-tree/>
+**英文版**：<https://linlei1980.github.io/buddhist-doctrine-tree/en.html>　·　两页右上角均可切换语言
 **离线使用**：下载 [`index.html`](index.html)（中文）或 [`en.html`](en.html)（英文）单个文件，双击用浏览器打开即可。两者都自包含全部样式、脚本与数据，不依赖网络与任何外部资源。
 
 中英两版**可以互相检索**：中文页里输入 `dependent origination` 或 `Kośa` 能命中，英文页里输入「缘起」或「俱舍论」同样能命中。

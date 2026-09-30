@@ -4,8 +4,8 @@
 
 A single-page reference that organises the foundational doctrines of Buddhism into **twelve layers**: 230 concepts, 619 typed relations between them, and 549 cited passages, each concept carrying a definition, the source it rests on, and dated textual layers.
 
-**Read online (no download)**: <https://linlei1980.github.io/foxue/en.html>
-**Chinese edition**: <https://linlei1980.github.io/foxue/>　·　a language switch sits at the top right of both pages
+**Read online (no download)**: <https://linlei1980.github.io/buddhist-doctrine-tree/en.html>
+**Chinese edition**: <https://linlei1980.github.io/buddhist-doctrine-tree/>　·　a language switch sits at the top right of both pages
 **Offline**: download [`en.html`](en.html) (English) or [`index.html`](index.html) (Chinese) — one file each, double-click to open in any browser. Both are self-contained: all styles, scripts and data are inline, with no network access and no external assets.
 
 The two editions **search across each other**: on the English page you can type 缘起 or 俱舍论, and on the Chinese page you can type `dependent origination` or `Kośa`.
