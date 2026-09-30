@@ -471,11 +471,14 @@ def render_page(lang, meta_zh=''):
                 'border:1px solid var(--line);border-radius:12px;padding:2px 11px;font-size:11.5px">%s</a>'
                 % (i18n.ui_str(lang, 'switchHref'), i18n.ui_str(lang, 'switchLabel')))
     page = seg.PAGE
-    # 用生成好的 head 段替换模板里的 head
+    # 取出模板里的 <style> 段（生成 head 时会替换掉 head，故须先保留样式）
+    si = page.index('<style>')
+    sj = page.index('</style>') + len('</style>')
+    style_block = page[si:sj].replace('__CSS__', seg.CSS)
+    # 用生成好的 head（含 SEO 元数据）替换模板 head，再接回样式段
     i = page.index('<head'); j = page.index('</head>') + len('</head>')
-    page = page[:i] + head_html(lang).rstrip('\n') + page[j:]
+    page = page[:i] + head_html(lang).rstrip('\n') + '\n' + style_block + page[j:]
     page = page.replace('<html lang="zh-CN">', '<html lang="%s">' % i18n.ui_str(lang, 'htmlLang'), 1)
-    page = page.replace('__CSS__', seg.CSS)
     page = page.replace('<span>十二层主线 + 部派阿毗达磨 + 印度大乘 + 汉传十宗 + 藏传南传　·　每个概念附释义、出处引文与年代考订</span>',
                         '<span>%s</span>' % i18n.ui_str(lang, 'pageSub'))
     # 标题行加语言切换
