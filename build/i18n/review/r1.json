@@ -1,0 +1,684 @@
+[
+ {
+  "id": "all_suffering",
+  "category": "core",
+  "sa": "dukkha · sabbasaṅkhārā dukkhā",
+  "zh_title": "诸行是苦",
+  "zh": "凡依因缘而作者，皆不安稳、不可保任，故是苦。此处「行」（saṅkhāra）与「[[impermanence|诸行无常]]」的「行」同指，即一切[[conditioned|有为法]]，而非仅指感受。\n\n**三苦**是其标准的展开方式：\n\n- **苦苦**——苦受本身即苦（病、痛、忧恼）；\n- **坏苦**——乐受终将变坏，坏时即是苦（故乐受非苦之反面，而是苦之缓相）；\n- **行苦**——一切有为法念念迁流、为业惑所使而不自主，这是苦最根本的形态。\n\n因此「诸行是苦」不是情绪上的悲观判断，而是对「有为」这一存在方式的界定：**无常故苦**——正因刹那生灭、不能自主，才说一切行皆苦。此支与「诸行无常」「诸法[[anatta|无我]]」合为南传的**三相**（tilakkhaṇa），是上座部观智的所缘；汉传的[[four_seals|四法印]]则取此支入印，与无常、无我、涅槃寂静并列。\n\n义理上的次第为：无常故苦，苦故无我——三者不是三个并列的结论，而是同一观察的三个面向。",
+  "en": "Whatever is made by causes and conditions is unstable and cannot be relied upon, and is therefore suffering. Here “formation” (saṅkhāra) means the same as the “formation” in “[[impermanence|all formations are impermanent]],” namely all [[conditioned|conditioned dharmas]], and not feelings alone.\n\n**The three kinds of suffering** are its standard unfolding:\n\n- **The suffering of pain** — painful feeling is itself suffering (sickness, pain, grief and distress);\n- **The suffering of change** — pleasant feeling will in the end turn, and in turning it is suffering (so pleasant feeling is not the opposite of suffering but a mitigated form of it);\n- **The suffering inherent in conditioned formation** — all conditioned dharmas flow on moment by moment, driven by karma and affliction, and are not subject to one's own control; this is the most fundamental form of suffering.\n\n“All formations are suffering” is therefore not an emotional judgement of pessimism but a definition of the mode of existence that is “conditioned formation”: **because impermanent, therefore suffering** — precisely because they arise and perish in every moment and cannot be mastered, all formations are said to be suffering. Together with “all formations are impermanent” and “all dharmas are [[anatta|non-self]],” this item makes up the **three characteristics** (tilakkhaṇa) of the southern transmission, the object of the insight knowledges of the Theravāda; the Chinese transmission's [[four_seals|four seals of the Dharma]] instead take this item into the seal, placing it alongside impermanence, non-self and the peace of nirvāṇa.\n\nThe doctrinal sequence is: because impermanent, therefore suffering; because suffering, therefore non-self — the three are not three coordinate conclusions but three faces of one and the same observation.",
+  "sources": [
+   {
+    "zh": "《增支部》3.136、《法句经》第278颂（三相的定型句式）",
+    "en": "*Aṅguttara Nikāya* 3.136; *Dhammapada* verse 278 (the fixed phrasing of the three characteristics)",
+    "zh_q": "「[[impermanence|诸行无常]]，诸行是苦，诸法无我。」——南传三相的标准表述。",
+    "en_q": "“[[impermanence|All formations are impermanent]], all formations are suffering, all dharmas are non-self.” — the standard formulation of the three characteristics in the southern transmission."
+   },
+   {
+    "zh": "《长部》22《大念处经》",
+    "en": "*Dīgha Nikāya* 22, *Mahāsatipaṭṭhāna Sutta*",
+    "zh_q": "受念处[[madhyamaka|中观]]三受皆苦，及「观生灭」一段。",
+    "en_q": "In the contemplation of feeling, [[madhyamaka|contemplating]] the three feelings as all suffering, and the passage on “contemplating arising and perishing.”"
+   },
+   {
+    "zh": "《俱舍论》卷22",
+    "en": "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicle 22",
+    "zh_q": "以苦苦、坏苦、行苦统摄诸苦。",
+    "en_q": "Subsumes all suffering under the suffering of pain, the suffering of change and the suffering inherent in conditioned formation."
+   },
+   {
+    "zh": "《清净道论》〈说慧品〉",
+    "en": "*Visuddhimagga*, “The Description of Wisdom”",
+    "zh_q": "以三相为观智所缘，十六观智依次展开。",
+    "en_q": "Takes the three characteristics as the object of the insight knowledges, with the sixteen insight knowledges unfolding in sequence."
+   }
+  ]
+ },
+ {
+  "id": "anatta",
+  "category": "nonself",
+  "sa": "anātman / anattā",
+  "zh_title": "无我",
+  "zh": "一切法没有独立、不变、自在的自性。无我并非「我不存在」，而是「没有实体性的我」。\n\n「我」（ātman）在印度语境中有确定含义：常（常恒不变）、一（独立不依他）、主（自在）、宰（支配）四义。佛教的无我即否认有任何法具备这四义。\n\n无我的论证路径有两条：\n- 分析式：以[[five_aggregates|五蕴]]、[[twelve_ayatana|十二处]]、十八界分析经验，其中找不到符合「我」的任一法（五蕴非我）；\n- 推论式：凡无常者即苦，凡苦者即非我、非我所——「无常故苦，苦故无我」。\n\n在原始佛教中，无我有实践与理论两面：实践上是为了去除我执、不让自我意识扩张，是道德实践的标准；理论上则从缘起、无常推出。因此也有学者强调佛陀说无我的首要意图是实践性的，而非形而上学的断言。\n\n无我与轮回的张力，是佛教哲学最核心的难题——见本层「业的归属」「苦在相续」二节。",
+  "en": "No dharma has an independent, unchanging, self-existent nature. Non-self is not “I do not exist” but “there is no substantially real self.”\n\n“Self” (ātman) has a determinate meaning in the Indian context: the four senses of permanent (ever unchanging), one (independent, not depending on another), master (self-existent) and sovereign (controlling). The Buddhist non-self denies that any dharma possesses these four senses.\n\nThere are two paths of argument for non-self:\n- The analytical: experience is analysed by way of the [[five_aggregates|five aggregates]], the [[twelve_ayatana|twelve sense-fields]] and the eighteen elements, and no dharma answering to “self” is found among them (the five aggregates are not self);\n- The inferential: whatever is impermanent is suffering, and whatever is suffering is not self and does not belong to a self — “because impermanent, therefore suffering; because suffering, therefore non-self.”\n\nIn early Buddhism, non-self has both a practical and a theoretical side: practically, it serves to remove self-grasping and to prevent the expansion of self-consciousness, and is a criterion of ethical practice; theoretically, it is derived from dependent origination and impermanence. Some scholars therefore stress that the Buddha's primary intention in teaching non-self was practical, and not a metaphysical assertion.\n\nThe tension between non-self and rebirth is the most central problem in Buddhist philosophy — see the two sections “The Ownership of Karma” and “Suffering in the Continuum” under this heading.",
+  "sources": [
+   {
+    "zh": "《杂阿含经》卷1 第34经",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 1, sūtra 34",
+    "zh_q": "「色非有我……彼一切非我、非我所如实观察。」五比丘闻此不起诸漏、心得解脱。",
+    "en_q": "“Form is not self … all of it is to be observed as it really is as not self and not belonging to a self.” On hearing this, the five monks did not give rise to any taints, and their minds were liberated."
+   },
+   {
+    "zh": "《杂阿含经》卷1 第9经",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 1, sūtra 9",
+    "zh_q": "「色无常，无常即苦，苦即非我，非我者亦非我所。」",
+    "en_q": "“Form is impermanent; what is impermanent is suffering; what is suffering is not self; what is not self also does not belong to a self.”"
+   },
+   {
+    "zh": "《相应部》22.59《无我相经》",
+    "en": "*Saṃyutta Nikāya* 22.59, *Anattalakkhaṇa Sutta* (Wuwoxiang Jing)",
+    "zh_q": "巴利对应本，同为对五比丘所说。",
+    "en_q": "The Pali counterpart, likewise spoken to the five monks."
+   }
+  ]
+ },
+ {
+  "id": "craving",
+  "category": "core",
+  "sa": "tṛṣṇā / taṇhā",
+  "zh_title": "渴爱",
+  "zh": "欲爱、有爱、无有爱三种，是[[samudaya|集谛]]的核心动力，也是[[twelve_links|十二因缘]]的第八支「爱」。三种爱的区分覆盖了生命追求的全部方向：追求感官欲乐、追求持续存在、追求彻底断灭。\n\n渴爱的特征不是「喜欢」，而是「不足感驱动的重复追求」——即使所爱已得，仍会立即转向下一个目标。因此它在十二因缘中被放在「受」之后：苦、乐、舍三受生起时，渴爱随之而起。",
+  "en": "The three kinds — craving for sense-desires, craving for existence and craving for non-existence — are the core dynamic of the [[samudaya|truth of origin]] and the eighth link, “craving,” of [[twelve_links|twelvefold dependent origination]]. The division into three covers the whole range of life's pursuits: the pursuit of sensory pleasure, the pursuit of continued existence, and the pursuit of total annihilation.\n\nThe mark of craving is not “liking” but “repetitive pursuit driven by a sense of insufficiency” — even when the desired object has been obtained, it immediately turns to the next one. Hence it is placed after “feeling” in the twelvefold chain: when the three feelings of pain, pleasure and neutrality arise, craving arises along with them.",
+  "sources": [
+   {
+    "zh": "《杂阿含经》卷15 第379经",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 15, sūtra 379",
+    "zh_q": "「谓：欲爱、有爱、无有爱。」",
+    "en_q": "“Namely: craving for sense-desires, craving for existence, craving for non-existence.”"
+   }
+  ]
+ },
+ {
+  "id": "dukkha",
+  "category": "core",
+  "sa": "duḥkha-satya",
+  "zh_title": "苦谛",
+  "zh": "存在的不圆满与逼迫性。「苦」（duḥkha）本义与车轮轴心不正、转动不稳相关，引申为不堪忍受、不圆满、不自在。\n\n经中以八苦说明：生、老、病、死、爱别离、怨憎会、求不得、五取蕴苦；论书更常归纳为三苦——苦苦（苦受本身即苦）、坏苦（乐受变坏时是苦）、行苦（一切[[conditioned|有为法]]念念迁流、不自主，是苦的根本形态）。\n\n这些列举不是断言人生只有痛苦，而是指出：凡因缘所生的存在，都无法免于变迁与不自在。因此苦谛是「如实观察」（yathābhūta），与情绪化的悲观主义是两回事。",
+  "en": "The unsatisfactoriness and oppressiveness of existence. The literal sense of *duḥkha* is connected with a wheel whose axle is off-centre and which therefore turns unsteadily; by extension it means what cannot be borne, the incomplete, the not-at-ease.\n\nThe scriptures set it out as the eight kinds of suffering: birth, ageing, sickness, death, separation from what is loved, association with what is hated, not obtaining what is sought, and the suffering of the five aggregates of clinging. The treatises more often summarise them as the three kinds of suffering — the suffering of pain (painful feeling is itself suffering), the suffering of change (pleasant feeling is suffering when it turns), and the suffering inherent in conditioned formation (all [[conditioned|conditioned dharmas]] flow on moment by moment and are not subject to one's control, which is the most fundamental form of suffering).\n\nThese enumerations do not assert that life is nothing but pain; they point out that whatever arises from causes and conditions cannot escape change and lack of mastery. The truth of suffering is therefore “observation as it really is” (yathābhūta), and is quite different from emotional pessimism.",
+  "sources": [
+   {
+    "zh": "《杂阿含经》卷15 第379经",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 15, sūtra 379",
+    "zh_q": "「苦圣谛者，即是此，谓：生苦、老苦、病苦、死苦、愁悲忧恼苦、遇怨憎者苦、与所爱者别离苦、所求不得苦，略说为五取蕴苦。」",
+    "en_q": "“The noble truth of suffering is this: the suffering of birth, the suffering of ageing, the suffering of sickness, the suffering of death, the suffering of grief, sorrow and distress, the suffering of encountering the hateful, the suffering of separation from the loved, the suffering of not obtaining what is sought — in brief, the suffering of the five aggregates of clinging.”"
+   },
+   {
+    "zh": "《俱舍论》卷22",
+    "en": "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicle 22",
+    "zh_q": "以苦苦、坏苦、行苦三苦统摄诸苦。",
+    "en_q": "Subsumes all suffering under the three kinds of suffering: the suffering of pain, the suffering of change and the suffering inherent in conditioned formation."
+   }
+  ]
+ },
+ {
+  "id": "eightfold",
+  "category": "core",
+  "sa": "āryāṣṭāṅgika-mārga",
+  "zh_title": "八正道",
+  "zh": "[[right_view|正见]]、[[right_thought|正思惟]]、正语、正业、正命、正精进、正念、正定。八支并非八个先后阶段，而是同一修行在认识、语言、行为、生计、心力、觉知、禅定等层面的同时展开，论书称其「一时相应」。\n\n前二支属慧学，中三支属戒学，后三支属定学。其中正见居首，因为「知见不正」则后续诸支皆成邪道；但正见本身也非纯理论的接受，而是「如实知见四谛与缘起」，在实际观照中被反复验证。\n\n八正道是三十七道品的中枢，后世各宗无论讲顿讲渐，都需对其位置作交代——禅宗讲「直指人心」即是不从正见一路次第入手的一例。",
+  "en": "[[right_view|Right view]], [[right_thought|right thought]], right speech, right action, right livelihood, right effort, right mindfulness and right concentration. The eight factors are not eight successive stages but the simultaneous unfolding of one and the same practice at the levels of cognition, speech, conduct, livelihood, mental effort, awareness and meditative concentration; the treatises call this “concurrence at a single moment.”\n\nThe first two factors belong to the training in wisdom, the middle three to the training in ethics, and the last three to the training in concentration. Right view stands first because if one's knowledge and views are incorrect, all the subsequent factors become wrong paths; but right view itself is not a purely theoretical acceptance — it is “knowing and seeing the four truths and dependent origination as they really are,” repeatedly verified in actual contemplation.\n\nThe eightfold path is the hub of the thirty-seven factors of enlightenment, and every later school, whether it teaches sudden or gradual awakening, has to account for its place — the Chan teaching of “pointing directly at the human mind” is one instance of not proceeding by the successive stages beginning with right view.",
+  "sources": [
+   {
+    "zh": "《杂阿含经》卷15 第379经",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 15, sūtra 379",
+    "zh_q": "「谓：[[right_view|正见]]、正思惟、正语、正业、正命、正精进、正念、正定。」",
+    "en_q": "“Namely: [[right_view|right view]], right thought, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.”"
+   },
+   {
+    "zh": "《相应部》56.11、《中部》117《大四十经》",
+    "en": "*Saṃyutta Nikāya* 56.11; *Majjhima Nikāya* 117, *Mahācattārīsaka Sutta*",
+    "zh_q": "后者对[[eightfold|八正道]]各支逐条广释，说明正定的助伴与次第。",
+    "en_q": "The latter gives an extended, factor-by-factor exposition of the [[eightfold|noble eightfold path]], explaining the accompanying factors of right concentration and their sequence."
+   }
+  ]
+ },
+ {
+  "id": "four_seals",
+  "category": "seal",
+  "sa": "—",
+  "zh_title": "四法印",
+  "zh": "[[three_seals|三法印]]加「[[all_suffering|诸受皆苦]]」（或「一切行苦」），成为四法印。其出处为《增壹阿含经》——该经将「一切诸行皆悉无常，一切诸行苦，一切诸行无我，涅槃为永寂」称为「四法本末」。《瑜伽师地论》称之为「四种法嗢拖南」（法之总纲）。\n\n《大智度论》另记载一种四法印，以无常、无我、无相与涅槃寂灭为四。此外大乘另立「一实相印」：《妙法莲华经·方便品》称「实相印」，天台智顗《法华玄义》以诸法实相为一实相印，作为大乘的判准。\n\n四法印中的「诸受皆苦」与四谛的苦谛直接对应——「诸受皆苦」即苦谛中「略说为五取蕴苦」的展开。因此四法印实为三法印与四谛的接合点。",
+  "en": "The [[three_seals|three seals of the Dharma]] plus “[[all_suffering|all feelings are suffering]]” (or “all formations are suffering”) make the four seals of the Dharma. Their source is the *Ekottarika-āgama* (Zeng Yi Ahan Jing) — that sūtra calls “all formations are entirely impermanent, all formations are suffering, all formations are non-self, nirvāṇa is eternal peace” the “four bases of the Dharma.” The *Yogācārabhūmi* (Yujia Shi Di Lun) calls them the “four dharma-udānas” (the summary headings of the Dharma).\n\nThe *Mahāprajñāpāramitā-śāstra* (Da Zhidu Lun) records another set of four dharma seals, taking impermanence, non-self, signlessness and the peace of nirvāṇa as the four. The Mahāyāna further establishes a single “seal of the true nature”: the *Saddharma-puṇḍarīka-sūtra*, “Skillful Means” chapter, speaks of the “seal of the true nature,” and Zhiyi of Tiantai, in the *Fahua Xuanyi* (Profound Meaning of the Lotus Sūtra), takes the true nature of all dharmas as the single seal of the true nature, as the Mahāyāna criterion.\n\n“All feelings are suffering” among the four seals corresponds directly to the truth of suffering in the four truths — “all feelings are suffering” is the unfolding of “in brief, the suffering of the five aggregates of clinging” in the truth of suffering. The four seals are thus in fact the point of junction between the three seals and the four truths.",
+  "sources": [
+   {
+    "zh": "《增壹阿含经》",
+    "en": "*Ekottarika-āgama* (Zeng Yi Ahan Jing)",
+    "zh_q": "「一切诸行皆悉无常，一切诸行苦，一切诸行[[anatta|无我]]，涅槃为永寂」——称「四法本末」。",
+    "en_q": "“All formations are entirely impermanent, all formations are suffering, all formations are [[anatta|non-self]], nirvāṇa is eternal peace” — called the “four bases of the Dharma.”"
+   },
+   {
+    "zh": "《瑜伽师地论》",
+    "en": "*Yogācārabhūmi-śāstra* (Yujia Shidi Lun)",
+    "zh_q": "称此四者为「四种法嗢拖南」，谓佛菩萨依[[three_doors|三解脱门]]为令有情清净而说。",
+    "en_q": "Calls these four the “four dharma-udānas,” and says that Buddhas and bodhisattvas teach them in reliance on the [[three_doors|three doors of liberation]] in order to purify sentient beings."
+   },
+   {
+    "zh": "《妙法莲华经·方便品》",
+    "en": "*Lotus Sūtra*, “Expedient Means” chapter",
+    "zh_q": "「实相印」；智顗《[[doc_33|法华玄义]]》以诸法实相为一实相印。",
+    "en_q": "The “seal of the true nature”; Zhiyi's *[[doc_33|Fahua Xuanyi]]* takes the true nature of all dharmas as the single seal of the true nature."
+   }
+  ]
+ },
+ {
+  "id": "four_truths",
+  "category": "core",
+  "sa": "catvāri āryasatyāni",
+  "zh_title": "四圣谛",
+  "zh": "佛教的总体问题框架，也是佛陀初转法轮所说的内容。四谛不是四条并列的真理，而是一条从诊断到治愈的完整链条：[[dukkha|苦谛]]指出存在的不圆满与逼迫性；[[samudaya|集谛]]追究这种不圆满的生起条件；灭谛确认条件可以被彻底止息；道谛给出止息的具体方法。其形式接近医学的诊疗结构——知病、知病因、知可治、知治法。\n\n四谛彼此以因果相连：苦是果、集是因，灭是果、道是因；前二谛说明流转如何形成，后二谛说明还灭如何可能，因此四谛同时是一套轮回论与一套解脱论。\n\n「圣」（ārya）在此不是「神圣不可疑」，而是「圣者所通达」，即见道位所证的内容。四谛也是佛教各派共同承认、争议最少的教义基础——后来的判教体系无论怎样分层，都把四谛放在最初位。",
+  "en": "The overarching framework of the Buddhist problematic, and the content of the Buddha's first turning of the wheel of the Dharma. The four truths are not four truths standing side by side but a single chain running from diagnosis to cure: [[dukkha|the truth of suffering]] points out the unsatisfactoriness and oppressiveness of existence; [[samudaya|the truth of origin]] traces the conditions from which that unsatisfactoriness arises; the truth of cessation confirms that those conditions can be brought to a complete end; and the truth of the path gives the concrete method for that ending. Its form approximates the structure of medical diagnosis and treatment — knowing the disease, knowing its cause, knowing it can be cured, knowing the remedy.\n\nThe four truths are linked to one another by cause and effect: suffering is the result and origin the cause, cessation is the result and the path the cause. The first two truths explain how the round of rebirth comes about, the latter two how its cessation is possible; the four truths are therefore at once a theory of saṃsāra and a theory of liberation.\n\n“Noble” (ārya) here does not mean “sacred and beyond doubt” but “comprehended by the noble ones,” that is, what is realised at the stage of seeing the path. The four truths are also the doctrinal basis that all Buddhist schools accept in common and dispute least — however later systems of doctrinal classification drew their divisions, they all placed the four truths first.",
+  "sources": [
+   {
+    "zh": "《杂阿含经》卷15 第379经〈转法轮经〉",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 15, sūtra 379, “Sūtra on Turning the Wheel of the Dharma”",
+    "zh_q": "「有[[four_truths|四圣谛]]。何等为四？谓苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」",
+    "en_q": "“There are the [[four_truths|four noble truths]]. What are the four? They are the noble truth of suffering, the noble truth of the origin of suffering, the noble truth of the cessation of suffering, and the noble truth of the path leading to the cessation of suffering.”"
+   },
+   {
+    "zh": "《相应部》56.11《转法轮经》（巴利）",
+    "en": "*Saṃyutta Nikāya* 56.11, “Dhammacakkappavattana-sutta” (Pali)",
+    "zh_q": "佛陀于波罗奈鹿野苑为五比丘初说，汉巴两传内容互相对应。",
+    "en_q": "First delivered by the Buddha to the five monks at the Deer Park in Vārāṇasī; the Chinese and Pali transmissions correspond in content."
+   },
+   {
+    "zh": "唐 义净译《三转法轮经》（大正藏第2册）",
+    "en": "Tang dynasty, trans. Yijing, *Sūtra of the Three Turnings of the Wheel of the Dharma* (San Zhuan Falun Jing) (Taishō Tripiṭaka, vol. 2)",
+    "zh_q": "单行异译本，叙述三转四谛之理。",
+    "en_q": "A separate variant translation setting out the doctrine of the three turnings of the four truths."
+   }
+  ]
+ },
+ {
+  "id": "ignorance",
+  "category": "core",
+  "sa": "avidyā",
+  "zh_title": "无明",
+  "zh": "对四谛、[[dependent_origination|缘起]]、[[anatta|无我]]的不了知。既是集谛的根本，也是十二因缘的第一支，因此成为整个轮回链条的起点。\n\n无明不是「缺少知识」，而是「认识方式本身失真」——把无常执为常、把无我执为我、把苦执为乐。所以无明只能被「明」（vijjā）所对治，即被亲证的智慧所替代，不能靠增加概念知识消除。这也是无明同时出现在修行起点（作为须断除的惑）与终点（作为须转成的智）的原因。",
+  "en": "The not-knowing of the four truths, [[dependent_origination|dependent origination]] and [[anatta|non-self]]. It is at once the root of the truth of origin and the first link of the twelvefold chain, and thus the starting point of the whole round of rebirth.\n\nIgnorance is not “a lack of knowledge” but “a distortion of the mode of cognition itself” — grasping the impermanent as permanent, the non-self as self, and suffering as pleasure. Ignorance can therefore only be countered by “knowledge” (vijjā), that is, replaced by directly realised wisdom; it cannot be removed by accumulating conceptual knowledge. This is also why ignorance appears both at the beginning of practice (as the affliction to be abandoned) and at its end (as the knowledge to be transformed into).",
+  "sources": [
+   {
+    "zh": "《杂阿含经》卷12（因缘相应诸经）",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 12 (sūtras of the nidāna-saṃyutta)",
+    "zh_q": "「彼无知、无见，于色不如实知，于受、想、行、识不如实知，是名[[ignorance|无明]]。」",
+    "en_q": "“That one is without knowledge, without insight; one does not know form as it really is, does not know feeling, perception, formations or consciousness as they really are — this is called [[ignorance|ignorance]].”"
+   },
+   {
+    "zh": "《相应部》12.1",
+    "en": "*Saṃyutta Nikāya* 12.1",
+    "zh_q": "[[dependent_origination|缘起]]支以无明为首。",
+    "en_q": "Ignorance stands first among the links of [[dependent_origination|dependent origination]]."
+   }
+  ]
+ },
+ {
+  "id": "impermanence",
+  "category": "seal",
+  "sa": "anitya",
+  "zh_title": "诸行无常",
+  "zh": "一切[[conditioned|有为法]]刹那生灭，无一常住。「行」（saṃskāra）在此指被造作的、有为的存在，包括物质、心、心所乃至时间、概念等「心不相应行法」。\n\n无常有两个层次：一期无常（事物在较长时间尺度上的生住异灭，如人的生死）与刹那无常（每一刹那都在生灭，无有暂住）。论书以刹那无常为更根本的层次——因为一期无常只是刹那无常累积出的表面相。",
+  "en": "All [[conditioned|conditioned dharmas]] arise and perish in every moment; not one of them abides permanently. “Formation” (saṃskāra) here means what is fabricated, conditioned existence, including matter, mind and mental factors, and even such “formations dissociated from mind” as time and concepts.\n\nImpermanence has two levels: impermanence over a period (the arising, abiding, changing and perishing of things on a longer timescale, such as a person's birth and death) and moment-by-moment impermanence (arising and perishing in every instant, with no momentary abiding). The treatises take moment-by-moment impermanence as the more fundamental level — because impermanence over a period is only the surface appearance accumulated out of moment-by-moment impermanence.",
+  "sources": [
+   {
+    "zh": "《杂阿含经》卷10 第262经",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 10, sūtra 262",
+    "zh_q": "「一切行无常。」",
+    "en_q": "“All formations are impermanent.”"
+   },
+   {
+    "zh": "《俱舍论》卷23、卷13",
+    "en": "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicles 23 and 13",
+    "zh_q": "以「生住异灭」四相说明[[conditioned|有为法]]的无常，并论刹那灭义。",
+    "en_q": "Explains the impermanence of [[conditioned|conditioned dharmas]] through the four characteristics of arising, abiding, changing and perishing, and discusses the meaning of perishing in every moment."
+   }
+  ]
+ },
+ {
+  "id": "karma_ownership",
+  "category": "nonself",
+  "sa": "—",
+  "zh_title": "业的归属",
+  "zh": "关系不是所有权，而是因果关联：现在的[[ignorance|无明]]、爱取与业力，正在构成下一世的苦。\n\n这是对「[[anatta|无我]]，谁受报」最标准的佛教回答方式——它把问题从「谁」转成「如何」。「业的归属」不是某个实体持有业，而是业与后续苦之间的因果关联本身。\n\n因此「下一世受苦的」既不是「你」，也不是「别人」，而是：苦在相续。这里「你」和「别人」都是实体化的说法，而佛教要说明的正是：相续关系不能被归结为任何一种实体归属。\n\n这一回答在哲学上仍有讨论空间（同一性问题），但它至少不含糊：它明确地把「归属」重定义为「因果关联」，从而使业果说与无我说在同一个框架内成立。",
+  "en": "The relation is not one of ownership but of causal connection: present [[ignorance|ignorance]], craving and grasping, and karmic force are constituting the suffering of the next life.\n\nThis is the most standard Buddhist way of answering “if there is [[anatta|non-self]], who receives the fruit?” — it shifts the question from “who” to “how.” “The ownership of karma” does not mean that some entity holds karma, but is the causal connection between karma and the suffering that follows.\n\nThus “the one who suffers in the next life” is neither “you” nor “someone else,” but: suffering in the continuum. Here “you” and “someone else” are both substantialising expressions, and what Buddhism sets out to show is precisely this: the relation of the continuum cannot be reduced to any kind of substantial attribution.\n\nThis answer still leaves room for philosophical discussion (the problem of identity), but it is at least not vague: it explicitly redefines “ownership” as “causal connection,” and thereby makes the doctrine of karmic fruit and the doctrine of non-self hold within one and the same framework.",
+  "sources": [
+   {
+    "zh": "《那先比丘经》",
+    "en": "*Milindapañha* (Naxian Biqiu Jing, the Chinese version of the Questions of Milinda)",
+    "zh_q": "以灯喻、乳酪喻答「[[anatta|无我]]谁受报」。",
+    "en_q": "Answers “if there is [[anatta|non-self]], who receives the fruit?” with the simile of the lamp and the simile of milk and curds."
+   },
+   {
+    "zh": "《俱舍论》卷29",
+    "en": "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicle 29",
+    "zh_q": "业果[[continuity|相续]]而不失的论释。",
+    "en_q": "The scholastic exposition of how karmic fruit continues in the [[continuity|continuum]] without being lost."
+   },
+   {
+    "zh": "《中论》",
+    "en": "*Mūlamadhyamakakārikā* (Zhong lun)",
+    "zh_q": "「作者与受者」一异不可得的论证。",
+    "en_q": "The argument that “agent and receiver” are not obtainable as either one or different."
+   }
+  ]
+ },
+ {
+  "id": "marga",
+  "category": "core",
+  "sa": "mārga-satya",
+  "zh_title": "道谛",
+  "zh": "止息苦的方法，经中直接以[[eightfold|八正道]]说明。道谛的首要特征是它被定义为「中道」：转法轮经开篇即说，出家人不应亲近两端——一是对欲乐的贪著（下劣、粗俗、凡夫所行、非圣、无益），二是自我折磨的苦行（苦、非圣、无益）。远离此二边而现等觉的，就是八正道。\n\n八正道可归摄为戒、定、慧三学：[[right_speech|正语]]、正业、正命属戒学；正精进、正念、正定属定学；正见、正思惟属慧学。这一归摄关系是后世论书整理三十七道品时的标准分类。\n\n道谛的「道」是待修（bhāvanā）的，与灭谛的「证」、集谛的「断」、苦谛的「知」相对，构成「知苦、断集、证灭、修道」的四项任务。",
+  "en": "The method for ending suffering, which the scriptures set out directly as the [[eightfold|noble eightfold path]]. The first characteristic of the truth of the path is that it is defined as the “middle way”: the Sūtra on Turning the Wheel of the Dharma (Zhuan Falun Jing) says at the outset that one who has gone forth should not approach either extreme — the one being attachment to sense-desires (base, vulgar, the practice of ordinary people, not noble, unprofitable), the other being self-mortifying asceticism (painful, not noble, unprofitable). What awakens to full enlightenment on avoiding these two extremes is the eightfold path.\n\nThe eightfold path can be subsumed under the three trainings in ethics, concentration and wisdom: [[right_speech|right speech]], right action and right livelihood belong to the training in ethics; right effort, right mindfulness and right concentration belong to the training in concentration; right view and right thought belong to the training in wisdom. This subsumption is the standard classification used by later treatises in arranging the thirty-seven factors of enlightenment.\n\nThe “path” of the truth of the path is what is to be cultivated (bhāvanā), as against the “realisation” of the truth of cessation, the “abandonment” of the truth of origin and the “understanding” of the truth of suffering, constituting the four tasks: understanding suffering, abandoning its origin, realising its cessation, cultivating the path.",
+  "sources": [
+   {
+    "zh": "《杂阿含经》卷15 第379经",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 15, sūtra 379",
+    "zh_q": "「诸比丘！有两个边，不应该被出家人实行……不走入这两个边后，作眼、作智的中道被如来现正觉，它转起寂静、证智、正觉、[[nirvana|涅槃]]……就是这八支圣道。」",
+    "en_q": "“Monks, there are two extremes that one who has gone forth should not practise … not entering these two extremes, the middle way that produces vision and knowledge has been fully awakened to by the Tathāgata; it leads to peace, to direct knowledge, to enlightenment, to [[nirvana|nirvāṇa]] … namely, this noble eightfold path.”"
+   },
+   {
+    "zh": "《相应部》56.11",
+    "en": "*Saṃyutta Nikāya* 56.11",
+    "zh_q": "同一段落，巴利本作「中道」（majjhimā paṭipadā）。",
+    "en_q": "The same passage; the Pali version has “the middle way” (majjhimā paṭipadā)."
+   }
+  ]
+ },
+ {
+  "id": "medical_logic",
+  "category": "core",
+  "sa": "—",
+  "zh_title": "诊疗结构",
+  "zh": "四谛的逻辑形式：诊断（苦）→ 病因（集）→ 治愈可能（灭）→ 治疗方案（道）。这一结构常被比作医师治病，是佛教理论中最具方法论色彩的部分。\n\n它的重要性在于：四谛给出的不是一套宇宙论，而是一套「问题—解决」程序。后世[[panjiao|判教]]之所以能把不同经典排入不同位置，正因为它们可以被看作对这一程序的局部展开。",
+  "en": "The logical form of the four truths: diagnosis (suffering) → aetiology (origin) → possibility of cure (cessation) → treatment plan (path). This structure is often compared to a physician treating an illness, and it is the most methodological part of Buddhist theory.\n\nIts importance lies in this: what the four truths give is not a cosmology but a “problem–solution” procedure. The reason later [[panjiao|doctrinal classification]] could assign different scriptures to different positions is precisely that they can be seen as partial unfoldings of this procedure.",
+  "sources": [
+   {
+    "zh": "《杂阿含经》卷15 第379经",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 15, sūtra 379",
+    "zh_q": "经中「苦应知、集应断、灭应证、道应修」的四项任务，即此结构的经典表述。",
+    "en_q": "The four tasks stated in the sūtra — “suffering is to be understood, its origin is to be abandoned, its cessation is to be realised, the path is to be cultivated” — are the classic formulation of this structure."
+   },
+   {
+    "zh": "《杂阿含经》第389经等",
+    "en": "*Saṃyukta-āgama*, sūtra 389 and others",
+    "zh_q": "以良医与四谛作比。",
+    "en_q": "Compares a skilled physician with the four truths."
+   }
+  ]
+ },
+ {
+  "id": "nirodha",
+  "category": "core",
+  "sa": "nirodha-satya",
+  "zh_title": "灭谛",
+  "zh": "苦可以止息，此止息即[[nirvana|涅槃]]。经文的标准表述是：「于此[[craving|渴爱]]无余、离灭、弃舍、定弃、解脱而无执著」——止息的不是某个实体，而是渴爱的全部条件被彻底解除。\n\n因此灭谛是一个关于条件的否定命题：当生起苦的条件不再存在，苦便无从生起。它不是「把苦消灭掉」，而是「苦不再被制造出来」。\n\n同一件事在不同系统中有不同名称：于三法印作「涅槃寂静」，于无为法作「择灭无为」，于四谛作灭谛。名异而所指为一。",
+  "en": "Suffering can cease, and that cessation is [[nirvana|nirvāṇa]]. The standard scriptural formulation is: “the complete fading away and cessation of this [[craving|craving]], its abandonment, relinquishment, release, with no lingering attachment” — what ceases is not some entity but the entire set of conditions for craving, utterly undone.\n\nThe truth of cessation is thus a negative proposition about conditions: when the conditions that produce suffering no longer exist, suffering cannot arise. It is not “destroying suffering” but “suffering no longer being produced.”\n\nThe same thing bears different names in different systems: in the three seals it is “the peace of nirvāṇa,” among the unconditioned dharmas it is cessation through discernment, the unconditioned, and in the four truths it is the truth of cessation. Different names, one referent.",
+  "sources": [
+   {
+    "zh": "《杂阿含经》卷15 第379经",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 15, sūtra 379",
+    "zh_q": "「苦灭圣谛者，即是此，谓：于此[[craving|渴爱]]无余、离灭、弃舍、定弃、解脱而无执著。」",
+    "en_q": "“The noble truth of the cessation of suffering is this: the complete fading away and cessation of this [[craving|craving]], its abandonment, relinquishment, release, with no lingering attachment.”"
+   },
+   {
+    "zh": "《俱舍论》卷1",
+    "en": "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicle 1",
+    "zh_q": "择灭无为——「择」谓简择四谛，由慧简择而证得的灭。",
+    "en_q": "Cessation through discernment, the unconditioned — “discernment” means the discriminating examination of the four truths; the cessation realised through the discernment of wisdom."
+   }
+  ]
+ },
+ {
+  "id": "nirvana",
+  "category": "seal",
+  "sa": "nirvāṇa",
+  "zh_title": "涅槃寂静",
+  "zh": "苦的止息、[[continuity|相续]]的寂灭。在三法印中作「涅槃寂静」，在四谛中即灭谛，在无为法中即择灭无为。\n\n涅槃不是「一个地方」或「一种状态」，而是贪嗔痴的止息本身。论书分涅槃为二：有余依涅槃（烦恼已断，五蕴身仍存）与无余依涅槃（五蕴相续亦尽）。大乘另立「无住涅槃」——不住生死、亦不住涅槃，因悲愿而不舍众生。",
+  "en": "The cessation of suffering, the stilling of the [[continuity|continuum]]. In the three seals it appears as “the peace of nirvāṇa,” in the four truths it is the truth of cessation, and among the unconditioned dharmas it is cessation through discernment, the unconditioned.\n\nNirvāṇa is not “a place” or “a state” but the cessation of greed, hatred and delusion itself. The treatises divide nirvāṇa into two: nirvāṇa with a remainder of substratum (the afflictions are already cut off, but the body of the five aggregates remains) and nirvāṇa without a remainder of substratum (the continuum of the five aggregates also comes to an end). The Mahāyāna establishes in addition “non-abiding nirvāṇa” — not abiding in saṃsāra, yet not abiding in nirvāṇa either, not forsaking sentient beings because of the vow of compassion.",
+  "sources": [
+   {
+    "zh": "《杂阿含经》卷10 第262经",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 10, sūtra 262",
+    "zh_q": "「[[nirvana|涅槃]]寂灭。」",
+    "en_q": "“[[nirvana|Nirvāṇa]] is peace.”"
+   },
+   {
+    "zh": "《大智度论》卷20",
+    "en": "*Mahāprajñāpāramitā-śāstra* (Da Zhidu Lun), fascicle 20",
+    "zh_q": "「诸法实相是[[nirvana|涅槃]]城，城有三门：空、无相、无作。」",
+    "en_q": "“The true nature of all dharmas is the city of [[nirvana|nirvāṇa]], and the city has three gates: emptiness, signlessness and wishlessness.”"
+   },
+   {
+    "zh": "《中论》卷4〈观四谛品〉",
+    "en": "*Mūlamadhyamakakārikā* (Zhong lun), fascicle 4, “Examination of the Four Noble Truths”",
+    "zh_q": "「若不依俗谛，不得第一义；不得第一义，则不得[[nirvana|涅槃]]。」",
+    "en_q": "“Without relying on the conventional truth, the ultimate meaning is not attained; without attaining the ultimate meaning, [[nirvana|nirvāṇa]] is not attained.”"
+   }
+  ]
+ },
+ {
+  "id": "nonself_seal",
+  "category": "seal",
+  "sa": "dharmā anātmānaḥ / anattā",
+  "zh_title": "诸法无我",
+  "zh": "一切法——不论有为无为、不论有情世界或物质世界——都没有独立、不变、自在的自性。「我」（ātman）在印度语境中有确定含义：常（不变）、一（独立）、主（自在）、宰（支配）四义俱全者才名为「我」。佛教的[[anatta|无我]]即否定此四义中的任何一项在诸法中存在。\n\n因此无我并非「我不存在」的虚无断言，而是「没有任何法具备常一主宰的实体性」。这一表述与「空」相通：空即无我，无我即空。",
+  "en": "All dharmas — whether conditioned or unconditioned, whether the world of sentient beings or the material world — lack an independent, unchanging, self-existent nature. “Self” (ātman) has a determinate meaning in the Indian context: only that which possesses all four senses — permanent (unchanging), one (independent), master (self-existent) and sovereign (controlling) — is called a “self.” The Buddhist [[anatta|non-self]] denies that any dharma possesses any one of these four senses.\n\nNon-self is therefore not the nihilistic assertion “I do not exist” but “no dharma possesses the substantially real character of being permanent, one and sovereign.” This formulation is continuous with “emptiness”: emptiness is non-self, non-self is emptiness.",
+  "sources": [
+   {
+    "zh": "《杂阿含经》卷10 第262经",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 10, sūtra 262",
+    "zh_q": "「一切[[nonself_seal|法无我]]。」",
+    "en_q": "“All [[nonself_seal|dharmas are non-self]].”"
+   },
+   {
+    "zh": "《杂阿含经》卷1 第34经",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 1, sūtra 34",
+    "zh_q": "「诸所有色，若过去、若未来、若现在……彼一切非我、非我所如实观察。」",
+    "en_q": "“Whatever form there is, whether past, whether future, whether present … all of it is to be observed as it really is as not self and not belonging to a self.”"
+   }
+  ]
+ },
+ {
+  "id": "not_one_not_diff",
+  "category": "nonself",
+  "sa": "—",
+  "zh_title": "不一不异",
+  "zh": "[[continuity|相续]]的前后不是同一，也不是毫无关系，而是「相似相续」。这是[[anatta|无我]]与轮回能够并存的解释核心。\n\n「不一」：若前后完全同一，则无变化、无修行、无解脱可言；「不异」：若前后完全无关，则业果无从归属、记忆与责任都失去依据。「相似相续」正落在此二边的中间。\n\n这一表述后来在《中论》中被扩展为「八不」中的一对（不一亦不异），并成为中观处理一切同一性问题的通式：凡涉及前后、自他、总别，皆以不一不异说明。",
+  "en": "The successive moments of a [[continuity|continuum]] are neither identical nor wholly unrelated; they are a “similar continuum.” This is the explanatory core that allows [[anatta|non-self]] and rebirth to coexist.\n\n“Not one”: if earlier and later were entirely identical, there could be no change, no practice and no liberation; “not different”: if earlier and later were wholly unrelated, karmic fruit could not be attributed, and memory and responsibility would lose their basis. The “similar continuum” falls precisely between these two extremes.\n\nThis formulation was later expanded in the *Madhyamaka-kārikā* into one pair of the “eight negations” (neither one nor different), and became the general formula by which Madhyamaka handles every question of identity: wherever earlier and later, self and other, or the universal and the particular are involved, they are explained by neither-one-nor-different.",
+  "sources": [
+   {
+    "zh": "《中论》卷1",
+    "en": "*Mūlamadhyamakakārikā* (Zhong lun), fascicle 1",
+    "zh_q": "「不一亦不异」为八不之一，以遮诠明中道。",
+    "en_q": "“Neither one nor different” is one of the eight negations, setting forth the middle way by way of negation."
+   },
+   {
+    "zh": "《那先比丘经》",
+    "en": "*Milindapañha* (Naxian Biqiu Jing, the Chinese version of the Questions of Milinda)",
+    "zh_q": "以灯喻、车喻说明前后非一非异。",
+    "en_q": "Uses the simile of the lamp and the simile of the chariot to explain that earlier and later are neither one nor different."
+   }
+  ]
+ },
+ {
+  "id": "pudgala",
+  "category": "nonself",
+  "sa": "prajñapti-sat",
+  "zh_title": "假名我",
+  "zh": "随顺世间施设的「我」，无实体而有用。佛教说[[anatta|无我]]，但不否定假名我；[[conventional|世俗谛]]中假名我成立，是伦理责任与业果归属、言说沟通的依托。\n\n这一点常被误解为佛教自相矛盾，其实是两个层次的分别：胜义上无实体我，世俗上「我」作为施设概念有效。若无假名我，则「谁作业、谁受报、谁修行」皆不可说，伦理与修行都失去立足处。\n\n部派中「犊子部」主张有「不可说的补特伽罗」（pudgala），试图在无我与业果归属之间给出实体性答案，被其他部派批评为「附佛法外道」。这一争论正说明假名我的定位有多敏感：说它是假名，业果归属如何说明；说它有实体，则违无我。",
+  "en": "The “self” posited in conformity with the conventions of the world: without substantial reality, yet functionally valid. Buddhism teaches [[anatta|non-self]] but does not deny the provisional self; within the [[conventional|conventional truth]] the provisional self holds, and it is the support of ethical responsibility, of the attribution of karmic fruit, and of speech and communication.\n\nThis is often misunderstood as a self-contradiction in Buddhism, but it is in fact a distinction of two levels: ultimately there is no substantially real self, while conventionally “self” is valid as a designated concept. Without the provisional self, “who acts, who receives the fruit, who practises” could not be stated at all, and both ethics and practice would lose their footing.\n\nAmong the schools, the Vātsīputrīyas held that there is an “inexpressible pudgala,” attempting to give a substantial answer between non-self and the attribution of karmic fruit, and were criticised by the other schools as “non-Buddhist teachers attached to the Buddha's Dharma.” This controversy shows precisely how delicate the status of the provisional self is: call it a mere designation, and the attribution of karmic fruit cannot be explained; call it substantially real, and non-self is contravened.",
+  "sources": [
+   {
+    "zh": "《杂阿含经》",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing)",
+    "zh_q": "经中反复以「我」「众生」等为随俗施设。",
+    "en_q": "Throughout the sūtra, “I,” “sentient being” and the like are repeatedly used as provisional designations conforming to worldly convention."
+   },
+   {
+    "zh": "《俱舍论》卷29、《大毗婆沙论》",
+    "en": "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicle 29; *Abhidharma-mahā-vibhāṣā* (Da Piposha Lun)",
+    "zh_q": "破犊子部补特伽罗实有说，立[[pudgala|假名我]]。",
+    "en_q": "Refutes the Vātsīputrīya claim that the pudgala is substantially real, and establishes the [[pudgala|provisional self]]."
+   },
+   {
+    "zh": "《成唯识论》卷1",
+    "en": "*Cheng Weishi Lun* (Discourse on the Perfection of Consciousness-only), fascicle 1",
+    "zh_q": "辨假我实我。",
+    "en_q": "Distinguishes the provisional self from the real self."
+   }
+  ]
+ },
+ {
+  "id": "right_action",
+  "category": "core",
+  "sa": "samyak-karmānta",
+  "zh_title": "正业",
+  "zh": "不杀生、不偷盗、不邪淫，守护身行，与[[five_precepts|五戒]]的前三条重合。论书以「属性戒」判定此三条——因其本身即是有情境上的实罪，与属「遮戒」的不饮酒不同。",
+  "en": "Abstention from killing living beings, from taking what is not given, and from sexual misconduct; guarding bodily action. These coincide with the first three of the [[five_precepts|five precepts]]. The treatises classify these three as “precepts by nature” — because they are in themselves real offences regardless of circumstance, unlike the precept against drinking alcohol, which is a “precept of prohibition.”",
+  "sources": [
+   {
+    "zh": "《中部》117《大四十经》",
+    "en": "*Majjhima Nikāya* 117, *Mahācattārīsaka Sutta* (Da Sishi Jing)",
+    "zh_q": "「离杀生、离不与取、离欲邪行。」",
+    "en_q": "“Abstaining from killing living beings, abstaining from taking what is not given, abstaining from sexual misconduct.”"
+   },
+   {
+    "zh": "《萨婆多毗尼毗婆沙》卷1",
+    "en": "*Sarvāstivāda-vinaya-vibhāṣā* (Sapoduo Pini Piposha), fascicle 1",
+    "zh_q": "「优婆塞[[five_precepts|五戒]]，几是实罪？几是遮罪？答曰：四是实罪，饮酒一戒是遮罪。」",
+    "en_q": "“Of the lay follower's [[five_precepts|five precepts]], how many are real offences and how many are offences of prohibition? Answer: four are real offences; the one precept against drinking alcohol is an offence of prohibition.”"
+   }
+  ]
+ },
+ {
+  "id": "right_effort",
+  "category": "core",
+  "sa": "samyag-vyāyāma",
+  "zh_title": "正精进",
+  "zh": "又称四正勤：已生恶令断除，未生恶令不生，未生善令生起，已生善令增长。四条中前二条是防护性的，后二条是生长性的。正精进在[[thirty_seven_bodhipakkhiya|三十七道品]]中被反复强调，因为任何观照都不能缺少持续策励这一环节。",
+  "en": "Also called the four right exertions: to abandon evil that has arisen; to prevent the arising of evil not yet arisen; to bring about the arising of good not yet arisen; and to increase good that has arisen. Of the four, the first two are protective and the latter two productive. Right effort is repeatedly stressed among the [[thirty_seven_bodhipakkhiya|thirty-seven factors of enlightenment]], because no contemplation can do without the element of sustained exertion.",
+  "sources": [
+   {
+    "zh": "《中部》117《大四十经》",
+    "en": "*Majjhima Nikāya* 117, *Mahācattārīsaka Sutta* (Da Sishi Jing)",
+    "zh_q": "「为未生之恶令不生而起欲、精进、发勤、策心、持心……」",
+    "en_q": "“For the non-arising of evil not yet arisen, one generates desire, exerts effort, rouses energy, applies the mind and sustains the mind …”"
+   },
+   {
+    "zh": "《杂阿含经》卷26（四正勤诸经）",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 26 (sūtras on the four right exertions)",
+    "zh_q": "四正勤的定型表述。",
+    "en_q": "The fixed formulation of the four right exertions."
+   }
+  ]
+ },
+ {
+  "id": "right_livelihood",
+  "category": "core",
+  "sa": "samyag-ājīva",
+  "zh_title": "正命",
+  "zh": "以不损害众生的方式谋生。正命在[[sila|戒学]]中的位置特殊：前七支[[right_speech|正语]]、正业所约束的是「已作之事」，正命所约束的是「何以维生」——即把行为的规范前推到维持生活的整个方式。\n\n**邪命**（mithyā-ājīva）一词，南北两传所举不同，须分开看：\n\n- **出家众的五种邪命**——依《大智度论》卷19、《瑜伽师地论》：诈现奇特、自说功德、占相吉凶、高声现威、说得供养。五者同指一事：以出家人的身份换取利养。\n- **在家众不应经营的行业**——依《增支部》5.177 等：贩卖武器、贩卖人口、贩卖肉类、贩卖酒类、贩卖毒药。经中称此为「不应经营的行业」，不名为「邪命」——在家众不以「说法受供」为生，故论书的五种邪命对其并不适用。\n\n两套说法的共同点在**判准**而非条目：正命所问的不是「何者被禁止」，而是「此一营生是否以损害众生为条件而成立」。因此贩毒、贩人、贩武器之类被列为在家众的禁区，是因为其收益直接建立在众生的损害之上，而非因为行业本身「不洁」。\n\n正命把修行从内心的调伏扩展到社会生存方式，是戒学中最具社会性的一支，也是在家众所受诸戒中唯一直接约束其经济生活的一条。",
+  "en": "To earn a living in a way that does not harm living beings. Right livelihood has a special place within the [[sila|training in ethics]]: in the first seven factors, what [[right_speech|right speech]] and right action govern is “what has already been done,” whereas what right livelihood governs is “by what means one lives” — that is, it extends the regulation of conduct forward to the whole manner of sustaining life.\n\n**Wrong livelihood** (mithyā-ājīva) is illustrated differently in the northern and southern transmissions, and the two must be kept apart:\n\n- **The five kinds of wrong livelihood for those who have gone forth** — according to the *Mahāprajñāpāramitā-śāstra* (Da Zhidu Lun), fascicle 19, and the *Yogācārabhūmi* (Yujia Shi Di Lun): feigning what is extraordinary, proclaiming one's own virtues, practising divination of good and ill fortune, raising one's voice to display authority, and speaking in order to obtain offerings. All five point to one thing: exchanging the status of a renunciant for material gain.\n- **Occupations the lay follower should not engage in** — according to the *Aṅguttara-nikāya* (Zengzhi Bu) 5.177 and others: trading in weapons, trading in human beings, trading in meat, trading in liquor, trading in poison. The scriptures call these “occupations that should not be engaged in” and do not name them “wrong livelihood” — lay followers do not live by “teaching the Dharma in exchange for offerings,” so the five kinds of wrong livelihood given in the treatises do not apply to them.\n\nWhat the two accounts share lies in the **criterion**, not in the items: what right livelihood asks is not “what is forbidden” but “whether this way of earning a living is constituted on the condition of harming living beings.” Thus trafficking in drugs, in human beings or in weapons is listed as a forbidden zone for lay followers because its profit is directly founded on harm to living beings, not because the trade itself is “impure.”\n\nRight livelihood extends practice from the taming of the mind to the manner of social subsistence; it is the most social branch of the training in ethics, and the only one of the precepts undertaken by lay followers that directly regulates their economic life.",
+  "sources": [
+   {
+    "zh": "《中部》117《大四十经》",
+    "en": "*Majjhima Nikāya* 117, *Mahācattārīsaka Sutta* (Da Sishi Jing)",
+    "zh_q": "「舍邪命，以[[right_livelihood|正命]]而活。」",
+    "en_q": "“Abandoning wrong livelihood, one lives by [[right_livelihood|right livelihood]].”"
+   },
+   {
+    "zh": "《大智度论》卷19、《瑜伽师地论》",
+    "en": "*Mahāprajñāpāramitā-śāstra* (Da Zhidu Lun), fascicle 19; *Yogācārabhūmi-śāstra*, fascicle 22",
+    "zh_q": "详列五种邪命。",
+    "en_q": "Sets out the five kinds of wrong livelihood in detail."
+   },
+   {
+    "zh": "《增支部》5.177〈五不卖〉（汉译见《杂阿含经》「营生之业」相应经）",
+    "en": "*Aṅguttara Nikāya* 5.177, “The Five Things Not to Be Sold” (the Chinese counterpart is the sūtra on “means of livelihood” in the *Saṃyukta-āgama*)",
+    "zh_q": "「具足五法之优婆塞不应经营五业：贩卖武器、贩卖人、贩卖肉、贩卖酒、贩卖毒。」",
+    "en_q": "“A lay follower possessed of five qualities should not engage in five trades: trading in weapons, trading in human beings, trading in meat, trading in liquor, trading in poison.”"
+   },
+   {
+    "zh": "《俱舍论》卷25、《瑜伽师地论》卷22 等",
+    "en": "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicle 25; *Yogācārabhūmi-śāstra*, fascicle 22, and others",
+    "zh_q": "以[[right_livelihood|正命]]为「身口意三业之清净」，与正语、正业共属戒学所摄。",
+    "en_q": "Takes [[right_livelihood|right livelihood]] to be “the purification of the three actions of body, speech and mind,” and, together with right speech and right action, as comprised within the training in ethics."
+   }
+  ]
+ },
+ {
+  "id": "right_mindfulness",
+  "category": "core",
+  "sa": "samyak-smṛti",
+  "zh_title": "正念",
+  "zh": "于身、受、心、法四境明记不忘，即[[four_foundations|四念处]]的实践。正念不是「记住事情」，而是对当下身心过程的持续觉知——论书以「不忘失所缘」释「念」。四念处以「观身不净、观受是苦、观心无常、观法无我」对治常、乐、我、净四颠倒。",
+  "en": "Clearly remembering and not forgetting in regard to the four objects — body, feelings, mind and dharmas — that is, the practice of the [[four_foundations|four foundations of mindfulness]]. Right mindfulness is not “remembering things” but continuous awareness of the bodily and mental processes of the present — the treatises explain “mindfulness” as “not losing the object of contemplation.” The four foundations of mindfulness counter the four inversions of permanence, pleasure, self and purity by contemplating the body as impure, feelings as suffering, the mind as impermanent and dharmas as non-self.",
+  "sources": [
+   {
+    "zh": "《长部》22《大念处经》",
+    "en": "*Dīgha Nikāya* 22, *Mahāsatipaṭṭhāna Sutta*",
+    "zh_q": "「此一行道，能清净有情，超越愁悲，灭除苦忧，得达如理，现证[[nirvana|涅槃]]，此即是四念处。」",
+    "en_q": "“This is the one way that purifies beings, transcends grief and lamentation, extinguishes pain and sorrow, reaches the method, and realises [[nirvana|nirvāṇa]]: namely, the four foundations of mindfulness.”"
+   },
+   {
+    "zh": "《中阿含经》卷24 第98经〈念处经〉",
+    "en": "*Madhyama-āgama* (Zhong Ahan Jing), fascicle 24, sūtra 98, “Satipaṭṭhāna Sūtra“ (Nianchu Jing)",
+    "zh_q": "汉译对应本，属[[sarvastivada|说一切有部]]诵本。",
+    "en_q": "The corresponding Chinese translation, belonging to the recitational tradition of the [[sarvastivada|Sarvāstivāda school]]."
+   }
+  ]
+ },
+ {
+  "id": "right_samadhi",
+  "category": "core",
+  "sa": "samyak-samādhi",
+  "zh_title": "正定",
+  "zh": "心一境性，即[[four_dhyanas|四禅八定]]等，是观慧所依的定力。经中强调正定须与其余七支俱起才名为「正」——若只有专注而无正见、正念，则属世间定，可生天而不脱生死。论书因此区分「世间定」与「出世间定」。",
+  "en": "One-pointedness of mind, namely the [[four_dhyanas|four dhyānas and eight meditative attainments]] and the like; it is the power of concentration on which contemplative wisdom depends. The scriptures stress that right concentration is only called “right” when it arises together with the other seven factors — if there is absorption alone without right view and right mindfulness, it is a mundane concentration that can lead to rebirth in the heavens but does not escape birth and death. The treatises therefore distinguish “mundane concentration” from “supramundane concentration.”",
+  "sources": [
+   {
+    "zh": "《中部》117《大四十经》",
+    "en": "*Majjhima Nikāya* 117, *Mahācattārīsaka Sutta* (Da Sishi Jing)",
+    "zh_q": "以四禅说明[[right_samadhi|正定]]，并列举其助伴诸支。",
+    "en_q": "Explains [[right_samadhi|right concentration]] by way of the four dhyānas and enumerates its accompanying factors."
+   },
+   {
+    "zh": "《长部》2《沙门果经》",
+    "en": "*Dīgha Nikāya* 2, *Sāmaññaphala Sutta* (Shamen Guo Jing)",
+    "zh_q": "四禅的经典描述定型处。",
+    "en_q": "The locus at which the classic description of the four dhyānas was fixed."
+   }
+  ]
+ },
+ {
+  "id": "right_speech",
+  "category": "core",
+  "sa": "samyag-vāc",
+  "zh_title": "正语",
+  "zh": "不妄语、不两舌、不恶口、不绮语，即十善中关于口业的四条。正语在[[eightfold|八正道]]中属戒学，其判准不只是「说了什么」，也包括「是否适时、是否真实、是否有益、是否慈和」。",
+  "en": "Abstention from false speech, from divisive speech, from harsh speech and from idle chatter — the four items of the ten wholesome courses of action that concern verbal action. Within the [[eightfold|noble eightfold path]], right speech belongs to the training in ethics, and its criterion is not only “what was said” but also “whether it is timely, whether it is true, whether it is beneficial, whether it is kindly.”",
+  "sources": [
+   {
+    "zh": "《中部》117《大四十经》",
+    "en": "*Majjhima Nikāya* 117, *Mahācattārīsaka Sutta* (Da Sishi Jing)",
+    "zh_q": "「离妄语、离两舌、离粗恶语、离绮语。」",
+    "en_q": "“Abstaining from false speech, abstaining from divisive speech, abstaining from harsh speech, abstaining from idle chatter.”"
+   },
+   {
+    "zh": "《杂阿含经》卷33（五戒相关）",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 33 (concerning the five precepts)",
+    "zh_q": "[[ten_paths|十善十恶]]中口业四条与此对应。",
+    "en_q": "The four items concerning verbal action in the [[ten_paths|ten wholesome and ten unwholesome courses of action]] correspond to these."
+   }
+  ]
+ },
+ {
+  "id": "right_thought",
+  "category": "core",
+  "sa": "samyak-saṃkalpa",
+  "zh_title": "正思惟",
+  "zh": "又译正志、正思。指三种意向：出离（离欲）、无嗔、无害。反之则是欲寻思、恚寻思、害寻思。正思惟的位置在[[right_view|正见]]之后——见既然立，心的方向随之转向，属意业的净化。",
+  "en": "Also rendered right resolve or right intention. It refers to three intentions: renunciation (freedom from desire), non-ill-will, and harmlessness. Their opposites are the thought of desire, the thought of ill-will and the thought of harm. Right thought stands after [[right_view|right view]] — once the view is established, the orientation of the mind turns accordingly; it belongs to the purification of mental action.",
+  "sources": [
+   {
+    "zh": "《中部》117《大四十经》",
+    "en": "*Majjhima Nikāya* 117, *Mahācattārīsaka Sutta* (Da Sishi Jing)",
+    "zh_q": "「出离之思惟、无恚之思惟、无害之思惟。」",
+    "en_q": "“The thought of renunciation, the thought of non-ill-will, the thought of harmlessness.”"
+   }
+  ]
+ },
+ {
+  "id": "right_view",
+  "category": "core",
+  "sa": "samyag-dṛṣṭi",
+  "zh_title": "正见",
+  "zh": "如实知见四谛、[[dependent_origination|缘起]]与因果，是全部修行的先导。经中将正见分为两类：世间正见（信有因果、有善恶、有业报）与出世间正见（知四谛、证无漏）。前者是后者的基础，缺前者则一切善行失去根据。",
+  "en": "Knowing and seeing the four truths, [[dependent_origination|dependent origination]] and causality as they really are; it is the forerunner of the whole of practice. The scriptures divide right view into two kinds: mundane right view (believing that there is cause and effect, good and evil, karmic retribution) and supramundane right view (knowing the four truths, realising the undefiled). The former is the basis of the latter; without the former all wholesome conduct loses its ground.",
+  "sources": [
+   {
+    "zh": "《中部》117《大四十经》",
+    "en": "*Majjhima Nikāya* 117, *Mahācattārīsaka Sutta* (Da Sishi Jing)",
+    "zh_q": "以「知苦、知苦集、知苦灭、知趣苦灭道」为[[right_view|正见]]的定义。",
+    "en_q": "Defines [[right_view|right view]] as “knowing suffering, knowing the origin of suffering, knowing the cessation of suffering, knowing the path leading to the cessation of suffering.”"
+   },
+   {
+    "zh": "《杂阿含经》卷28",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 28",
+    "zh_q": "以「知[[four_truths|四圣谛]]」为正见。",
+    "en_q": "Takes “knowing the [[four_truths|four noble truths]]” as right view."
+   }
+  ]
+ },
+ {
+  "id": "samudaya",
+  "category": "core",
+  "sa": "duḥkha-samudaya",
+  "zh_title": "集谛",
+  "zh": "苦的生起、根源与招感。「集」梵语 samudaya = sam（一起、和合）+ udaya（生起、出现），义为集起、生起、招感、根源，并非现代汉语「集合」之义。\n\n集谛的具体内容，经中明确定义为「[[craving|渴爱]]」：导致再生的、与喜贪俱行的、随处欢喜的渴爱，分为欲爱（对欲乐的渴求）、有爱（对存在的渴求）、无有爱（对断灭的渴求）。论书另以「[[ignorance|无明]]」及诸烦恼（结、使）作更根本的说明。\n\n因此集谛不是抽象的「原因」，而是一组可观察、可止息的心理动力：渴爱以无明为前提，以「受」为直接条件，由此引出「惑—业—苦」的循环结构。",
+  "en": "The arising, root and accumulation of suffering. The Sanskrit *samudaya* = sam (together, in combination) + udaya (arising, coming forth); it means arising together, origination, accumulation and root, and not “a collection” in the sense of the modern Chinese word.\n\nThe specific content of the truth of origin is explicitly defined in the scriptures as [[craving|craving]]: the craving that leads to further rebirth, that is accompanied by delight and greed, that takes delight here and there. It is divided into craving for sense-desires (the craving for sensual pleasure), craving for existence (the craving for continued being), and craving for non-existence (the craving for annihilation). The treatises give a more fundamental account by way of [[ignorance|ignorance]] and the afflictions (fetters and proclivities).\n\nThe truth of origin is therefore not an abstract “cause” but a set of observable, terminable psychological forces: craving presupposes ignorance, has “feeling” as its direct condition, and from it the cyclical structure of “affliction–karma–suffering” is drawn out.",
+  "sources": [
+   {
+    "zh": "《杂阿含经》卷15 第379经",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 15, sūtra 379",
+    "zh_q": "「苦集圣谛者，即是此，谓：后有起、喜贪俱行、随处欢喜之[[craving|渴爱]]，谓：欲爱、有爱、无有爱。」",
+    "en_q": "“The noble truth of the origin of suffering is this: the [[craving|craving]] that brings about further existence, that is accompanied by delight and greed, that takes delight here and there — namely, craving for sense-desires, craving for existence, craving for non-existence.”"
+   },
+   {
+    "zh": "《俱舍论》卷22",
+    "en": "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicle 22",
+    "zh_q": "以[[ignorance|无明]]为集谛根本，并以「烦恼、业」二种集说明苦的生起。",
+    "en_q": "Takes [[ignorance|ignorance]] as the root of the truth of origin, and explains the arising of suffering through the two kinds of origin, affliction and karma."
+   }
+  ]
+ },
+ {
+  "id": "suffering_continues",
+  "category": "nonself",
+  "sa": "—",
+  "zh_title": "苦在相续",
+  "zh": "「下一世受苦的」不是「你」，也不是「别人」——是苦在相续。同理，[[nirvana|涅槃]]不是「谁」证得，而是苦的止息、[[continuity|相续]]的寂灭。\n\n这一表述把无我论的两个端点连成一线：起点处没有「我」在轮回，终点处也没有「我」在涅槃。轮回与涅槃因此都是对「相续」这一过程的描述，而非对某个主体的描述。\n\n它同时给出一个实践推论：既然受苦的是相续而非实体，那么「灭苦」就不需要通过消灭或满足某个自我来实现，只需令相续的条件（无明、爱取）止息。",
+  "en": "“The one who suffers in the next life” is not “you,” nor “someone else” — it is suffering in the continuum. Likewise, [[nirvana|nirvāṇa]] is not realised by a “who,” but is the cessation of suffering and the stilling of the [[continuity|continuum]].\n\nThis formulation joins the two endpoints of the doctrine of non-self into a single line: at the starting point there is no “I” wandering in saṃsāra, and at the endpoint there is no “I” entering nirvāṇa. Saṃsāra and nirvāṇa are therefore both descriptions of the process that is the “continuum,” and not descriptions of some subject.\n\nIt also yields a practical corollary: since what suffers is the continuum and not a substance, “the cessation of suffering” need not be achieved by destroying or satisfying some self; it is enough to still the conditions of the continuum (ignorance, craving and grasping).",
+  "sources": [
+   {
+    "zh": "《杂阿含经》卷10 第262经",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 10, sūtra 262",
+    "zh_q": "「此无故彼无，此灭故彼灭」——苦灭即[[continuity|相续]]止息。",
+    "en_q": "“When this does not exist, that does not exist; with the cessation of this, that ceases.” — the cessation of suffering is the stilling of the [[continuity|continuum]]."
+   },
+   {
+    "zh": "《中论》卷4〈观四谛品〉",
+    "en": "*Mūlamadhyamakakārikā* (Zhong lun), fascicle 4, “Examination of the Four Noble Truths”",
+    "zh_q": "[[anatta|无我]]故无证者，涅槃即苦灭。",
+    "en_q": "Since there is [[anatta|non-self]] there is no realiser; nirvāṇa is the cessation of suffering."
+   },
+   {
+    "zh": "《大智度论》卷20",
+    "en": "*Mahāprajñāpāramitā-śāstra* (Da Zhidu Lun), fascicle 20",
+    "zh_q": "[[nirvana|涅槃]]空、无相、无作。",
+    "en_q": "[[nirvana|Nirvāṇa]] is emptiness, signlessness and wishlessness."
+   }
+  ]
+ },
+ {
+  "id": "three_seals",
+  "category": "seal",
+  "sa": "tri-dharma-mudrā",
+  "zh_title": "三法印",
+  "zh": "判定佛法与非佛法的标准：[[impermanence|诸行无常]]、[[nonself_seal|诸法无我]]、涅槃寂静。凡违背此三者，即不被承认为佛法。「印」（mudrā）是图章、印章之义——如普光《俱舍论记》所说：「若顺此印，即是佛经；若违此印，即非佛说。」\n\n这里有一个常被忽略的层次问题：三句的内容最早见于《杂阿含经》第262经，但该经只是记载阿难以此三句教导阐陀，并未称之为「法印」。把三句并列合称「三法印」，最早可追溯到《根本说一切有部毗奈耶》与《阿毘达磨法蕴足论·缘起品》；龙树《大智度论》卷15 亦以三者并列，并说「得佛法印故，通达无碍，如得王印则无所留难」。印顺法师认为三法印系由「三三昧」发展而来。\n\n南传上座部与此近似的概念称「三相」（tilakkhaṇa）：诸行无常、诸行是苦、诸法无我——《清净道论》虽具其实质内容，但未立「法印」之名。因此可说：三法印的定型名称，是说一切有部独自结聚传承，后成为部派佛教与北传大乘的定论。",
+  "en": "The criterion for determining what is and is not the Dharma: [[impermanence|all formations are impermanent]], [[nonself_seal|all dharmas are non-self]], and the peace of nirvāṇa. Whatever contradicts these three is not accepted as the Buddha's Dharma. “Seal” (mudrā) means a stamp or a seal — as Puguang's *Notes on the Abhidharmakośa* (Jushe lun ji) says: “If it accords with this seal, it is a Buddhist scripture; if it contradicts this seal, it is not the Buddha's word.”\n\nThere is a question of textual strata here that is often overlooked: the content of the three phrases first appears in *Saṃyukta-āgama* (Za Ahan Jing) sūtra no. 262, but that sūtra merely records that Ānanda taught these three phrases to Channa, and does not call them a “dharma seal.” The earliest juxtaposition of the three phrases under the name “three seals of the Dharma” can be traced to the *Mūlasarvāstivāda-vinaya* (Genben Shuo Yiqie Youbu Pinaye) and to the *Abhidharma-dharma-skandha-pāda-śāstra* (Apidamo Fayun Zu Lun), “Chapter on Dependent Origination”; Nāgārjuna's *Mahāprajñāpāramitā-śāstra* (Da Zhidu Lun), fascicle 15, likewise places the three side by side and says, “Because one has obtained the seal of the Buddha's Dharma, one penetrates without obstruction, as one who has obtained the king's seal meets no hindrance.” Master Yinshun held that the three seals of the Dharma developed out of the “three samādhis.”\n\nThe Theravāda of the southern transmission has a closely similar concept called the “three characteristics” (tilakkhaṇa): all formations are impermanent, all formations are suffering, all dharmas are non-self — although the *Visuddhimagga* (Qingjing Daolun) possesses their substantive content, it does not establish the name “dharma seal.” It may therefore be said that the fixed name “three seals of the Dharma” was gathered and transmitted by the Sarvāstivāda alone, and afterwards became the settled conclusion of the sectarian schools and of the northern Mahāyāna.",
+  "sources": [
+   {
+    "zh": "《杂阿含经》卷10 第262经",
+    "en": "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 10, sūtra 262",
+    "zh_q": "「诸比丘语阐陀言：『色无常，受、想、行、识无常，一切行无常，一切[[nonself_seal|法无我]]，涅槃寂灭。』」——三句并列的最早经文，但未名「法印」。",
+    "en_q": "“The monks said to Channa: ‘Form is impermanent; feeling, perception, formations and consciousness are impermanent; all formations are impermanent; all [[nonself_seal|dharmas are non-self]]; nirvāṇa is peace.’” — the earliest scripture in which the three phrases stand together, though it does not give them the name “dharma seal.”"
+   },
+   {
+    "zh": "《阿毘达磨法蕴足论》卷12〈缘起品〉",
+    "en": "*Abhidharma-dharma-skandha-pāda-śāstra* (Fayun Zu Lun), fascicle 12, “Chapter on Dependent Origination”",
+    "zh_q": "玄奘译：「于[[three_seals|三法印]]，而起犹豫：为一切行无常？为非一切行无常？为一切法无我？……为涅槃寂静？为非涅槃寂静？」——「三法印」定型名称的出处之一。",
+    "en_q": "Trans. Xuanzang: “Regarding the [[three_seals|three seals of the Dharma]] one gives rise to doubt: Are all formations impermanent, or are not all formations impermanent? Are all dharmas non-self? … Is nirvāṇa peace, or is nirvāṇa not peace?” — one of the sources for the fixed name “three seals of the Dharma.”"
+   },
+   {
+    "zh": "《根本说一切有部毘奈耶》",
+    "en": "*Mūlasarvāstivāda-vinaya*",
+    "zh_q": "「世尊即为说三句法，告言：贤首，诸行皆无常，诸法悉[[anatta|无我]]，寂静涅槃，即证得诸法实相。是名三法印。」",
+    "en_q": "“The Blessed One then taught the Dharma in three phrases, saying: Bhadra, all formations are impermanent, all dharmas are [[anatta|non-self]], and there is the peace of nirvāṇa; one thereby realises the true nature of all dharmas. This is called the three seals of the Dharma.”"
+   },
+   {
+    "zh": "《大智度论》卷15、卷22",
+    "en": "*Mahāprajñāpāramitā-śāstra* (Da Zhidu Lun), fascicles 15 and 22",
+    "zh_q": "以一切有为生法无常印、一切[[unconditioned|无为法]]无我印、涅槃实相法印合称三种法印。",
+    "en_q": "Brings together the seal of impermanence of all produced, conditioned dharmas, the seal of non-self of all [[unconditioned|unconditioned dharmas]], and the seal of the Dharma of the true nature of nirvāṇa, under the name of the three kinds of dharma seal."
+   }
+  ]
+ }
+]
