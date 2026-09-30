@@ -8,3 +8,5 @@ data/buddhism.data.js linguist-generated=true
 build/i18n/nodes.jsonl linguist-generated=true
 build/i18n/sources.json linguist-generated=true
 data/buddhism.json linguist-generated=true
+sitemap.xml linguist-generated=true
+robots.txt linguist-generated=true

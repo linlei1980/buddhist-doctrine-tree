@@ -1830,3 +1830,5 @@ page = (PAGE.replace('__CSS__', CSS)
 sys.path.insert(0, os.path.join(ROOT, 'build'))
 import make_pages
 make_pages.main()
+import make_seo_files
+make_seo_files.main()

@@ -121,3 +121,17 @@ node build/verify_page.mjs       # 浏览器实测，本地建议跑（无 Chrom
 - 无 JS 异常
 
 新增样式或界面元素时，把对应的断言加进这两个文件的清单即可。
+
+## 站点地图与抓取规则
+
+`build/make_seo_files.py` 生成 `sitemap.xml` 与 `robots.txt`，由 `build.py` 在主流程末尾调用。
+URL 取自 `build/i18n/ui.json` 的 `canonical`，因此站点地图不会与页面里的 canonical 脱节。
+
+- `lastmod` 取 `data/buddhism.json` **最后一次 git 提交的日期**，不用文件 mtime——
+  CI 每次检出都会把 mtime 更新为当天，用 mtime 会导致生成结果与仓库内容不一致
+- 两个 URL 各自带 `zh-Hans` / `en` / `x-default` 三条 `hreflang`，声明语言关系
+- `robots.txt` 里的 Sitemap 行指向仓库内的站点地图（**注意是 `…/buddhist-doctrine-tree/sitemap.xml`**，
+  曾经误写成站点根 `…/sitemap.xml`，现已由断言拦住）
+
+改仓库名或换域名时，只需改 `ui.json` 的 `canonical`，两份文件会随之更新；
+`verify_page.py` 会断言站点地图的 URL 集合与页面的 canonical 一致。

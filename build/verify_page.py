@@ -113,11 +113,45 @@ def check_page(name, spec, errs):
         fail(f'{name}: HTML 标签区残留未转换的交叉引用标记', errs)
 
 
+def check_seo_files(errs):
+    """sitemap.xml 与 robots.txt 必须存在，且地址与页面的 canonical 一致。"""
+    sm = os.path.join(ROOT, 'sitemap.xml')
+    rb = os.path.join(ROOT, 'robots.txt')
+    for f in (sm, rb):
+        if not os.path.exists(f):
+            fail(f'{os.path.basename(f)}: 不存在', errs)
+    if not os.path.exists(sm):
+        return
+    import xml.etree.ElementTree as ET
+    try:
+        root = ET.parse(sm).getroot()
+    except Exception as e:
+        return fail(f'sitemap.xml: 无法解析（{e}）', errs)
+    ns = {'s': 'http://www.sitemaps.org/schemas/sitemap/0.9',
+          'x': 'http://www.w3.org/1999/xhtml'}
+    urls = [u.find('s:loc', ns).text for u in root.findall('s:url', ns)]
+    want = {PAGES['index.html']['canonical'], PAGES['en.html']['canonical']}
+    if set(urls) != want:
+        fail(f'sitemap.xml: URL 集合为 {sorted(urls)}，与页面的 canonical 不一致', errs)
+    for u in root.findall('s:url', ns):
+        alts = {x.get('hreflang') for x in u.findall('x:link', ns)}
+        if alts != {'zh-Hans', 'en', 'x-default'}:
+            fail(f'sitemap.xml: {u.find("s:loc", ns).text} 的 hreflang 不完整（{sorted(alts)}）', errs)
+    if os.path.exists(rb):
+        r = open(rb, encoding='utf-8').read()
+        if 'Sitemap:' not in r:
+            fail('robots.txt: 缺少 Sitemap 行', errs)
+        elif PAGES['index.html']['canonical'].rstrip('/') + '/sitemap.xml' not in r:
+            fail('robots.txt: Sitemap 地址与仓库路径不一致', errs)
+    print(f'  sitemap.xml: {len(urls)} 个 URL，hreflang 齐全 | robots.txt: 已声明 Sitemap')
+
+
 def main():
     errs = []
     print('检查页面产物：')
     for name, spec in PAGES.items():
         check_page(name, spec, errs)
+    check_seo_files(errs)
     if errs:
         print(f'\n检查未通过，{len(errs)} 个问题：')
         for e in errs:

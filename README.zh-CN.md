@@ -51,8 +51,10 @@
 ## 仓库结构
 
 ```
-index.html                ← 中文版成品（486 KB，自包含），GitHub Pages 首页
-en.html                   ← 英文版成品（668 KB，自包含）
+index.html                ← 中文版成品（491 KB，自包含），GitHub Pages 首页
+en.html                   ← 英文版成品（674 KB，自包含）
+sitemap.xml               ← 两个地址与 hreflang 声明（生成产物）
+robots.txt                ← 抓取规则，其中指明站点地图位置（生成产物）
 archive/v1-原版.html       ← 2026-09 初版存档，仅用于对照修订过程（见 archive/README.md）
 
 data/buddhism.json        ← 中文数据的 JSON 快照（供审阅、查错、二次开发）

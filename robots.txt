@@ -1,0 +1,5 @@
+# 佛教基础理论结构树 / Buddhist Doctrines · A Structured Reference
+User-agent: *
+Allow: /
+
+Sitemap: https://linlei1980.github.io/buddhist-doctrine-tree/sitemap.xml
