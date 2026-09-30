@@ -38,7 +38,7 @@ This page therefore:
 | **Outline** | the twelve-layer tree; filterable by type of relation — selecting *Contrast* alone gives every disputed question |
 | **Timeline** | the whole corpus in nine periods, with 31 key nodes marked, for tracing lines of development |
 | **Study paths** | four routes: foundations (core claims and their reasons) → depth (scholastic literature, Madhyamaka and Yogācāra) → history (India to East Asia and Tibet) → practice (stages, methods, criteria) |
-| **Canon index** | a searchable table of 148 texts; open any row to see every node that cites it |
+| **Canon index** | a searchable table of 149 texts; open any row to see every node that cites it |
 | **Node view** | definition, dating, quoted sources, related nodes; terms inside a definition link straight through |
 
 Search covers names, Indic terms, the body of the definitions, and the titles of cited texts — enter *Kośa* or *Mūlamadhyamakakārikā* to list everything relevant. Names are matched in Chinese, pinyin, English and Sanskrit. The current node is written into the URL, so a refresh or a shared link keeps its place. There is a separate narrow-screen layout for phones, and a print stylesheet that exports cleanly to PDF.
@@ -47,8 +47,8 @@ Search covers names, Indic terms, the body of the definitions, and the titles of
 
 | | |
 |---|---|
-| Concepts | 230 (50 of them text entries, generated automatically) |
-| Typed relations | 619 in ten types, about 49 % of them crossing layers |
+| Concepts | 230 (51 of them text entries, generated automatically) |
+| Typed relations | 619 in ten types, about 70 % of them crossing layers |
 | Cited passages | 549, given down to fascicle, chapter or sutta number, with the quotation |
 | Outline depth | 12 layers |
 | Timeline | 9 periods, from about the 6th century BCE to the modern period |
@@ -176,7 +176,7 @@ If you reuse the content, please keep the attribution and a link back to this re
 | **目录** | 十二层结构树；可按关系类型筛选——只看「对辨」即得全部论诤 |
 | **年表** | 九个时段排列全部条目，标出 31 个重点节点，用来看发展线索 |
 | **学习路径** | 四条读法：基础（核心主张与理由）→ 深入（部派论书、中观唯识）→ 脉络（印度至东亚与西藏）→ 实践（次第、方法、判准） |
-| **经律论总览** | 148 种文献的检索表，点开可见全部引用它的节点 |
+| **经律论总览** | 149 种文献的检索表，点开可见全部引用它的节点 |
 | **节点详情** | 释义、时间 · 层积、出处引文、关联节点；释义中的其他概念名可直接点击跳转 |
 
 检索范围覆盖名称、梵巴原语、释义正文与所引经论名（例如输入《俱舍论》可列出全部相关节点）。名称支持中文、拼音、英文与梵文四种写法匹配。当前节点会写入 URL，刷新与分享不丢失位置。手机上有独立的窄屏布局；另有打印样式，可直接导出 PDF。
@@ -185,8 +185,8 @@ If you reuse the content, please keep the attribution and a link back to this re
 
 | 项 | 数量 |
 |---|---|
-| 概念 | 230（其中 50 个为自动生成的文献节点） |
-| 概念关系 | 619，规范为 10 类，约 49% 为跨层关系 |
+| 概念 | 230（其中 51 个为自动生成的文献节点） |
+| 概念关系 | 619，规范为 10 类，约 70% 为跨层关系 |
 | 出处引证 | 549 条，标至卷 / 品 / 经号并附原文 |
 | 目录层级 | 12 层 |
 | 年表时段 | 9 段（约前 6 世纪 — 近现代） |
