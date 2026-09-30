@@ -150,6 +150,17 @@ for mod in (content_a, content_b, content_c, content_d):
         node.setdefault('era', 'none')
         nodes[k] = node
 
+# ---------- 律宗「性戒／遮戒」的校订 ----------
+# 原释义把「前四戒为性戒、不饮酒为遮戒」并列为分类标准，易被读成「性戒仅限此四条」。
+# 性戒与遮戒的分判标准是「自体即恶」与「为防护而制」，性戒的范围大于五戒之前四条
+# （凡自体即恶者皆是）。此处保留五戒的对应关系，但把分判标准写明。
+nodes['vinaya']['d'] = nodes['vinaya']['d'].replace(
+    '戒的分类（依《萨婆多毗尼毗婆沙》）：前四戒（不杀、不盗、不邪淫、不妄语）为「性戒」——本身即是罪；'
+    '不饮酒为「遮戒」——为防止犯前四戒而制。',
+    '戒的分类（依《萨婆多毗尼毗婆沙》等）：**性戒**指自体即恶、不待佛制者（杀、盗、邪淫、妄语等）；'
+    '**遮戒**指自体非恶、为防护性戒而制者（如不饮酒）。五戒中前四戒属性戒，不饮酒属遮戒，'
+    '但性戒的范围大于此四条。')
+
 # ---------- 正命的校订 ----------
 # 原释义把论书的「五种邪命」（出家众）与经中的「不应经营的行业」（在家众）
 # 合成一个「五种」来讲，且后者无出处。此处分列两套，并补《增支部》5.177 一条引证。
@@ -784,6 +795,12 @@ for e in E:
     if e['s'] not in nodes: errs.append('关系起点不存在: ' + e['s'])
     if e['t'] not in nodes: errs.append('关系终点不存在: ' + e['t'])
     if e['l'] not in RELS: errs.append('未知关系类型: ' + e['l'])
+# 每个节点的 era 必须落在年表既有时段内，否则该节点不会出现在年表视图
+_era_ids = [x[0] if isinstance(x, (tuple, list)) else x['id'] for x in ERAS]
+for k, v in nodes.items():
+    e = v.get('era')
+    if e and e not in _era_ids:
+        errs.append('era 值不在年表时段内（该节点将不进年表）: %s → %s' % (k, e))
 if errs:
     print('校验发现问题：'); [print('  -', x) for x in errs[:40]]
 else:
