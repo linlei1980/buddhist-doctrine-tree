@@ -157,6 +157,7 @@ URL 取自 `build/i18n/ui.json` 的 `canonical`，因此站点地图不会与页
 规范在 `build/i18n/review/REVIEW-SPEC.md`。
 
 报告的索引、各批条数与修正提交见 [`REVIEW-LOG.md`](REVIEW-LOG.md)。
+此后又做过第二轮「判准充分性」校对（六批 65 条），见 [`review_def/README.md`](review_def/README.md)。
 
 **为什么值得留档**：机器能查的只是结构（覆盖率、出处条数、链接与粗体、中文残留），
 而这一轮查出的最严重问题**全在语义层**，机器查不出：
