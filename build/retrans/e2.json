@@ -1,0 +1,164 @@
+[
+ {
+  "id": "karma",
+  "name_zh": "业",
+  "name_en": "Karma",
+  "sa": "karma",
+  "zh_desc": "行为与意志活动。**三业的判准在「以何为门」**：由身体的动作而成者属身业，由言语而成者属口业，唯由思（意志）而成、未发于身语者属意业——故三业的分别不在行为的善恶，而在它经由哪一门发起。业是[[dependent_origination|缘起]]在伦理层面的具体展开，其内容包含四点界定——这些界定是理解佛教业果观的关键：\n\n（一）不是神罚：没有一位审判者，业果由条件自身决定；\n（二）不是机械的一对一：同一行为在不同心境、对象、时机下果报有轻重差别；\n（三）不是一切皆已注定：有定业亦有不定业，修行可转变果报的时间与轻重；\n（四）不是孤立的：有共业亦有别业，个体与所处世界的业相互交织。\n\n[[karma_types|业的分类]]：定业与不定业（就势力言）；现报、生报、后报（就受报时分言）；共业与别业（就主体范围言）。此外有「有漏善」（系缚生死）与「无漏善」（导向解脱）之别。论书以「思」为业的自体——「思即是业」，因此业的本质在意志，不在外在动作。",
+  "en_desc": "Action and volitional activity, divided into the three karmas of body, speech, and mind. Karma is the concrete unfolding of [[dependent_origination|dependent origination]] at the ethical level, and its content comprises four defining points — these are the key to understanding the Buddhist view of karmic fruition:\n\n(1) It is not divine punishment: there is no judge, and karmic fruition is determined by the conditions themselves;\n(2) It is not a mechanical one-to-one correspondence: the same action yields fruits of differing weight according to the state of mind, the object, and the occasion;\n(3) Not everything is predestined: there is both definite and indefinite karma, and practice can alter the time and the weight of the fruition;\n(4) It is not isolated: there is both shared karma and individual karma, and the karma of the individual and that of the world in which that individual lives interweave.\n\n[[karma_types|The classification of karma]]: definite and indefinite karma (with respect to its force); fruition in this life, in the next life, and in a later life (with respect to the time of fruition); shared and individual karma (with respect to the scope of the agents). There is in addition the distinction between “wholesome with outflows” (which binds one to birth-and-death) and “wholesome without outflows” (which leads to liberation). The treatises take “volition” as the substance of karma — “volition itself is karma” — so that the essence of karma lies in the will and not in the outward act.",
+  "sources_zh": [
+   "《杂阿含经》卷12",
+   "《中阿含经》〈思经〉等",
+   "《俱舍论》卷13、卷15",
+   "《大智度论》"
+  ],
+  "sources_en": [
+   "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 12",
+   "*Madhyama-āgama* (Zhong Ahan Jing), *Si Jing* (Sūtra on Volition), and others",
+   "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicles 13 and 15",
+   "*Mahāprajñāpāramitā-śāstra* (Da Zhidu Lun)"
+  ]
+ },
+ {
+  "id": "kusala_akusala",
+  "name_zh": "善 · 不善 · 无记",
+  "name_en": "Wholesome, unwholesome, and indeterminate",
+  "sa": "kuśala / akuśala / avyākṛta",
+  "zh_desc": "善法、不善法，以及非善非恶的「无记法」。[[three_natures|三性]]（此「三性」指善、不善、无记，与[[vijnapti_matra|唯识]]的遍计／依他／圆成三性同名而异义）是论书对一切法作价值判定的基本框架。\n\n「无记」的存在极重要：它意味着并非一切行为与心态都可归入善恶——呼吸、走路、无意识的注视皆属无记。若无记法被强行纳入善恶二分，伦理判断将失去分辨力。论书因此进一步区分「有覆无记」（被烦恼覆盖但本身非善非恶，如末那识的俱生我执）与「无覆无记」：前者自体非善非恶**而为烦恼所覆**（如末那识的俱生我执），后者自体非善非恶**且不为烦恼所覆**（如阿赖耶识、异熟生的前五识、工巧、威仪等）。《成唯识论》卷5 立此二分之判准在「是否与烦恼相应」。",
+  "en_desc": "Wholesome dharmas, unwholesome dharmas, and the “indeterminate dharmas” that are neither wholesome nor unwholesome. The [[three_natures|three natures]] (here the “three natures” mean wholesome, unwholesome, and indeterminate, which share a name with but differ in meaning from the three natures of the imagined / dependent / perfected in [[vijnapti_matra|Yogācāra]]) are the basic framework by which the treatises make value judgments about all dharmas.\n\nThe existence of the “indeterminate” is extremely important: it means that not all actions and mental states can be assigned to wholesome or unwholesome — breathing, walking, and unconscious gazing are all indeterminate. Were indeterminate dharmas forcibly drawn into the dichotomy of wholesome and unwholesome, ethical judgment would lose its discriminative power. The treatises therefore further distinguish the “obscured indeterminate” (covered by affliction yet in itself neither wholesome nor unwholesome, such as the innate self-grasping of the manas) from the “unobscured indeterminate.”",
+  "sources_zh": [
+   "《俱舍论》卷2、卷13",
+   "《成唯识论》卷5"
+  ],
+  "sources_en": [
+   "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicles 2 and 13",
+   "*Cheng Weishi Lun*, fascicle 5"
+  ]
+ },
+ {
+  "id": "six_realms",
+  "name_zh": "六道",
+  "name_en": "The six realms",
+  "sa": "ṣaḍ-gati",
+  "zh_desc": "天、人、阿修罗、畜生、饿鬼、地狱。描述业力所感的不同存在状态。\n\n需要注意部派差异：部派佛教多说「五趣」（nivāsa），即无「阿修罗」——阿修罗被归入鬼趣或天趣；大乘多说「六道」，把阿修罗独立成一道。**阿修罗**意为「非天」，指有天之福报而无天之德者——因嗔慢好斗，虽享福乐而不得天位，故另立一道。这一差异常被误当作教义分歧，实则主要是分类习惯不同。\n\n另一理解要点：六道并非地理上的六个地方，而主要是「业力所感的存在状态」。论书因此也说「一心具十法界」（天台）——六道与四圣合为十界，都在当下一念的相应中出现。这一读法把六道从宇宙论转为心性论。",
+  "en_desc": "Gods, humans, asuras, animals, hungry ghosts, and hell beings. These describe the different states of existence brought about by karma.\n\nOne must note a difference among the schools: the sectarian schools of early Buddhism mostly speak of “five destinies” (nivāsa), that is, without the asuras — asuras are assigned to the destiny of ghosts or to that of the gods; the Mahāyāna mostly speaks of “six realms,” making the asuras a separate destiny. This difference is often mistaken for a doctrinal disagreement, whereas in fact it is mainly a difference in classificatory habit.\n\nAnother point for understanding: the six realms are not six geographical places but primarily “states of existence brought about by karma.” The treatises accordingly also say that “a single mind comprises the ten dharma-realms” (Tiantai) — the six realms together with the four noble realms make ten realms, all of which appear in accordance with a single present moment of thought. This reading turns the six realms from cosmology into a theory of mind-nature.",
+  "sources_zh": [
+   "《大智度论》",
+   "《俱舍论》卷8",
+   "《法华经》"
+  ],
+  "sources_en": [
+   "*Mahāprajñāpāramitā-śāstra* (Da Zhidu Lun)",
+   "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicle 8",
+   "*Saddharmapuṇḍarīka-sūtra* (Lotus Sūtra; Fahua Jing)"
+  ]
+ },
+ {
+  "id": "rupa",
+  "name_zh": "色法",
+  "name_en": "Material dharmas",
+  "sa": "rūpa",
+  "zh_desc": "物质性存在，四大种（地、水、火、风）及所造色，属[[conditioned|有为法]]；即五蕴中的色蕴。\n\n「色」（rūpa）本义与「变坏、质碍」相关：会变坏、有质碍者名为色。现代读者常误以为「色」指颜色，实则是整个物质范畴。\n\n论书分色法为十一：五根（眼耳鼻舌身）、五境（色声香味触）、**无表色**（或法处所摄色）。\n\n**无表色**须单说——它看似与「质碍」相违，故《俱舍论》卷1 以「乱心无心地，随流净不净，大种所造性，由此说无表」释之：由身语业所引起、**大种所造**（故仍属色）、而**无见无对**（不为眼所见、不具质碍对待）、相续而存之色，如受戒所得的戒体。此义有部许为实有，经部与唯识则不许——读戒体诸说时须先分辨立场。",
+  "en_desc": "Material existence — the four great elements (earth, water, fire, and wind) and the matter derived from them — belonging to the [[conditioned|conditioned dharmas]]; that is, the form aggregate among the five aggregates.\n\nThe original sense of “form” (rūpa) is related to “deterioration and resistance”: what deteriorates and offers resistance is called form. The treatises divide material dharmas into eleven: the five faculties (eye, ear, nose, tongue, and body), the five objects (visible form, sound, smell, taste, and tangible objects), and unmanifest form (or form included in the dharma base). Modern readers often mistakenly take “form” to mean colour, whereas it is the whole category of the material.",
+  "sources_zh": [
+   "《俱舍论》卷1、卷2",
+   "《杂阿含经》卷1",
+   "《俱舍论》卷1〈分别界品〉"
+  ],
+  "sources_en": [
+   "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicles 1 and 2",
+   "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 1",
+   "*Abhidharmakośa-bhāṣya*, fascicle 1, “Exposition of the Elements”"
+  ]
+ },
+ {
+  "id": "six_unconditioned",
+  "name_zh": "六无为",
+  "name_en": "The six unconditioned dharmas",
+  "sa": "—",
+  "zh_desc": "[[vijnapti_matra|唯识]]学所立：虚空、择灭、非择灭、不动、想受灭、[[suchness|真如]]。以真如为圆成实性。\n\n三项与前有部共：**虚空无为**（无碍性，不为色法所障）、**择灭无为**（由慧简择之力灭除烦恼而证得）、**非择灭无为**（非由慧择，但因缘缺故法不生所显）。\n\n相比有部三无为，唯识增加三项：不动无为（第四禅以上灭苦乐受所得）、想受灭无为（灭尽定所得）、真如无为（一切法二空所显）。\n\n关键在于，唯识把「真如」列入无为，并以之为圆成实性，从而把无为法的重心从「灭」转向「真如」——即从「什么的止息」转向「什么在如实显现」。这一转向是唯识与有部在无为法问题上的分水岭。",
+  "en_desc": "Posited by the [[vijnapti_matra|Yogācāra]]: space, analytical cessation, non-analytical cessation, imperturbability, the cessation of perception and feeling, and [[suchness|suchness]]. Suchness is taken as the perfected nature.\n\nCompared with the three unconditioned dharmas of the Sarvāstivāda, the Yogācāra adds three: the unconditioned of imperturbability (attained by extinguishing the feelings of suffering and pleasure from the fourth dhyāna upward), the unconditioned of the cessation of perception and feeling (attained in the attainment of cessation), and the unconditioned of suchness (revealed by the twofold emptiness of all dharmas).\n\nThe crucial point is that the Yogācāra includes “suchness” among the unconditioned and takes it as the perfected nature, thereby shifting the centre of gravity of unconditioned dharmas from “cessation” to “suchness” — that is, from “the cessation of what” to “what is manifesting as it really is.” This shift is the watershed between the Yogācāra and the Sarvāstivāda on the question of unconditioned dharmas.",
+  "sources_zh": [
+   "《成唯识论》卷2",
+   "《百法明门论》"
+  ],
+  "sources_en": [
+   "*Cheng Weishi Lun*, fascicle 2",
+   "*Mahāyāna-śatadharmaprakāśamukha-śāstra* (Baifa mingmen lun)"
+  ]
+ },
+ {
+  "id": "three_realms",
+  "name_zh": "三界二十八天",
+  "name_en": "The three realms and the twenty-eight heavens",
+  "sa": "tridhātu",
+  "zh_desc": "佛教对众生所居处所的纵向分类，也是「[[samsara|轮回]]」这一概念的空间展开：\n\n- **欲界**——有男女之欲与段食，包括地狱、饿鬼、畜生、人、阿修罗与**六欲天**（**四天王天、忉利天、夜摩天、兜率天、化乐天、他化自在天**）；\n- **色界**——已离欲而仍有形色，即**四禅十七天**——初禅**梵众、梵辅、大梵**；二禅**少光、无量光、极光净**（极光净即光音天）；三禅**少净、无量净、遍净**；四禅**无云、福生、广果**，再加**无烦、无热、善现、善见、色究竟**五天（即**五净居天**，唯圣者所居）。据《俱舍论》卷8〈分别世品〉；\n- **无色界**——无形色，唯受想行识，即**四无色天**（空无边处、识无边处、无所有处、非想非非想处）。\n\n二十八天是色界十七天与无色界四天，加欲界六天，再加人间以下诸趣的另一种计法；各部派的数目不同（[[sarvastivada|有部]]与上座部的天名与数目都有差异），本页不取单一说法。\n\n**为什么需要这一层**　第一，它解释了「四禅八定」的果报处所：修定所生的果报就在色界、无色界，因此**禅定不是解脱**——生于非想非非想处天，寿命八万大劫，报尽仍堕。第二，它标出「无我而轮回」的坡度：从地狱到无色界天，是同一业力机制在不同条件下的展开，没有一处是「我」的安身之处。第三，汉传与南传对天的数目、名称与寿命的记载不同，读佛典时须注意所依论书。",
+  "en_desc": "The vertical classification of the dwelling places of sentient beings in Buddhism, and also the spatial unfolding of the concept of “[[samsara|saṃsāra]]”:\n\n- **The realm of desire** — possessing sexual desire and material food, including the hells, hungry ghosts, animals, humans, asuras, and the **six heavens of desire** (from the heaven of the Four Great Kings to the heaven that enjoys the emanations of others);\n- **The form realm** — having transcended desire yet still possessing shape and colour, namely the **seventeen heavens of the four dhyānas** (three heavens of the first dhyāna, three of the second, three of the third, and eight of the fourth, among which the five pure abodes are the dwelling of noble ones);\n- **The formless realm** — without shape or colour, only feeling, perception, formations, and consciousness, namely the **four formless heavens** (the sphere of infinite space, the sphere of infinite consciousness, the sphere of nothingness, and the sphere of neither-perception-nor-non-perception).\n\nThe twenty-eight heavens are the seventeen heavens of the form realm and the four heavens of the formless realm plus the six heavens of the realm of desire, a further reckoning that adds the destinies below the human realm; the number differs among the schools (the names and numbers of the heavens differ between the [[sarvastivada|Sarvāstivāda]] and the Theravāda), and this page adopts no single account.\n\n**Why this layer is needed** First, it explains the place of fruition of the “four dhyānas and eight concentrations”: the fruition produced by cultivating absorption lies precisely in the form realm and the formless realm, so that **meditative absorption is not liberation** — one may be born in the heaven of neither-perception-nor-non-perception with a lifespan of eighty thousand great kalpas, and when the fruition is exhausted one still falls. Second, it marks out the gradient of “rebirth without a self”: from the hells to the formless heavens, it is the unfolding of one and the same mechanism of karmic force under different conditions, and there is no place that is a resting place for a “self.” Third, the Chinese and Southern traditions record different numbers, names, and lifespans of the heavens, and one must note which treatise a Buddhist text follows.",
+  "sources_zh": [
+   "《长部》1《梵网经》、卷2《沙门果经》",
+   "《俱舍论》卷8〈分别世品〉",
+   "《清净道论》〈说梵住品〉等"
+  ],
+  "sources_en": [
+   "*Dīgha Nikāya* 1, *Brahmajāla-sutta* (Fanwang Jing); *Dīgha Nikāya* 2, *Sāmaññaphala Sutta* (Shamen Guo Jing)",
+   "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicle 8, “Exposition of the World”",
+   "*Visuddhimagga* (Qingjing Daolun), “The Exposition of the Brahmā Abidings,” and others"
+  ]
+ },
+ {
+  "id": "kalpa_cosmology",
+  "name_zh": "劫与成住坏空",
+  "name_en": "Kalpas and the phases of formation, duration, destruction, and emptiness",
+  "sa": "kalpa",
+  "zh_desc": "佛教的时间尺度与宇宙范围，是理解「[[samsara|轮回]]无始」这一主张的前提。\n\n**劫（kalpa）**　传统以[[simile_index|譬喻]]说明其长：如四十里石山，百年以细软衣拂一次，拂尽而一劫未尽。**小劫**以人寿增减为计：人寿自八万四千岁每百年减一岁，减至十岁；再从十岁每百年增一岁，增至八万四千岁——此一减一增为一小劫。二十小劫为一中劫，四中劫（成、住、坏、空）为一大劫。一大劫含**成、住、坏、空**四中劫——世界经历成立、安住、毁坏、空无四期，周而复始，无有始终。\n\n**三千大千世界**　以须弥山为中心，一日月所照为一世界（一小世界）；一千小世界为小千世界，一千小千为中千世界，一千中千为大千世界——合称「三千大千世界」，为一佛的化土。娑婆世界即释迦牟尼佛的化土，极乐世界则是阿弥陀佛的化土。\n\n**这一层要解决什么**　若无此时间与空间尺度，「轮回」与「众生无边」都只是一句话：众生的数量与轮回的长度都必须超出任何可想象的尺度，菩萨道的「度尽众生」才不是有限的工程。也正因为世界有成坏、佛有出世入灭，才有「佛种相续」的问题——这是如来藏说与菩萨道的时间背景。",
+  "en_desc": "The Buddhist scales of time and the extent of the cosmos, the precondition for understanding the claim that “[[samsara|saṃsāra]] is without beginning.”\n\n**Kalpa** Traditionally its length is explained by a simile: as with a stone mountain forty li across, brushed once every hundred years with a soft fine cloth — when it is worn away, one kalpa has still not come to an end. Kalpas are divided into small, intermediate, and great kalpas, and one great kalpa comprises the four intermediate kalpas of **formation, duration, destruction, and emptiness** — the world passes through the four periods of formation, duration, destruction, and emptiness, going round and round without beginning or end.\n\n**The three thousand great thousand world system** With Mount Sumeru at the centre, the region illuminated by one sun and moon is one world (one small world); a thousand small worlds make a small thousand world, a thousand small thousand worlds make an intermediate thousand world, and a thousand intermediate thousand worlds make a great thousand world — together called the “three thousand great thousand world system,” the field of conversion of one Buddha. The Sahā world is the field of conversion of Śākyamuni Buddha, while the [[pure_land|land of bliss]] is the field of conversion of Amitābha Buddha.\n\n**What this layer is meant to solve** Without these scales of time and space, “saṃsāra” and “sentient beings without bound” would be mere phrases: the number of sentient beings and the length of saṃsāra must exceed any imaginable scale for the bodhisattva path's “liberating all sentient beings” not to be a finite project. And it is precisely because worlds undergo formation and destruction and Buddhas appear and enter nirvāṇa that there is the question of the “continuity of the Buddha-seed” — this is the temporal background of the tathāgatagarbha teaching and the bodhisattva path.",
+  "sources_zh": [
+   "《长部》26《转轮圣王师子吼经》等",
+   "《俱舍论》卷11、卷12〈分别世品〉",
+   "《起世经》《大楼炭经》"
+  ],
+  "sources_en": [
+   "*Dīgha Nikāya* 26, *Cakkavattisīhanāda-sutta* (Zhuanlun Shengwang Shizihou Jing), and others",
+   "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicles 11 and 12, “Exposition of the World”",
+   "*Qishi jing* and *Da Lou Tan Jing*"
+  ]
+ },
+ {
+  "id": "five_paths",
+  "name_zh": "五位修道",
+  "name_en": "The Five Stages of the Path",
+  "sa": "pañca-mārgāḥ",
+  "zh_desc": "大乘修行的五个阶段，[[vijnapti_matra|唯识]]学说得最完整（《[[doc_29|成唯识论]]》卷9），但已成各宗通用的框架：\n\n1. **资粮位**——发菩提心，积集福智资粮（十信、十住、十行、十回向）；\n2. **加行位**——起四加行，依止观逼近见道：**暖**（先得明得定，如钻火先暖）、**顶**（明增定，寻思位之极）、**忍**（印顺定，于四谛决定忍可）、**世第一法**（无间定，有漏位之最后心，次念即入见道）；\n3. **通达位**（见道）——顿断分别起的烦恼、所知二障，亲证二空真如；\n4. **修习位**（修道）——渐断俱生起的二障，历十地，经三大阿僧祇劫；\n5. **究竟位**——二障断尽、二空圆满，成佛，转识成智得四智。\n\n**这一框架的关键区分是「分别起」与「俱生起」**：见道所断的是「分别起的惑」（由后天错误学习而生的见解），修道所断的是「俱生起的惑」（与生命同时俱来的本能性执著）。因此有一位修行人「见道但未成佛」的中间状态——悟了道理而习气未尽，这正是「顿悟渐修」之争的理论落点。\n\n与声闻四果的关系：见道即初果位（须陀洹），而大乘至极在究竟位（佛）。因此同一框架可以容纳三乘，只是终点与所断的障不同（大乘多断「所知障」）。",
+  "en_desc": "The five stages of Mahāyāna practice, set out most completely in the [[vijnapti_matra|Yogācāra (consciousness-only)]] teaching ([[doc_29|Cheng Weishi Lun]], fascicle 9), though it has become a framework common to all schools:\n\n1. **The stage of provisions** — generating the aspiration to awakening and accumulating the provisions of merit and wisdom (the ten faiths, ten abidings, ten practices, ten dedications);\n2. **The stage of preparation** — cultivating the four preparations (heat, summit, acceptance, supreme worldly dharma) and approaching the path of seeing through śamatha and vipaśyanā;\n3. **The stage of penetration** (the path of seeing) — cutting off at once the defilements and the obstructions to knowledge that arise from discrimination, and directly realising the suchness of the two emptinesses;\n4. **The stage of cultivation** (the path of cultivation) — gradually cutting off the two obstructions that arise concomitantly, traversing the ten bhūmis through three great immeasurable aeons;\n5. **The ultimate stage** — the two obstructions utterly cut off and the two emptinesses perfected, Buddhahood attained, and consciousness transformed into wisdom so that the four wisdoms are obtained.\n\n**The key distinction in this framework is that between \"arising from discrimination\" and \"arising concomitantly\"**: what the path of seeing cuts off is the \"defilements arising from discrimination\" (views produced by mistaken learning after birth), while what the path of cultivation cuts off is the \"defilements arising concomitantly\" (instinctual clinging that comes into being together with life). There is therefore an intermediate state of a practitioner who has \"seen the path but not yet become a Buddha\" — one who has understood the principle but whose habitual tendencies are not yet exhausted, and this is precisely the theoretical point at issue in the dispute over \"sudden awakening and gradual cultivation.\"\n\nTheir relation to the four fruits of the hearers: the path of seeing is the stage of the first fruit (stream-entry), while the utmost of the Mahāyāna is the ultimate stage (Buddhahood). The same framework can therefore accommodate the three vehicles, differing only in the end point and in the obstructions cut off (the Mahāyāna additionally cuts off the \"obstruction to knowledge\").",
+  "sources_zh": [
+   "《成唯识论》卷9",
+   "《瑜伽师地论》〈菩萨地〉",
+   "《俱舍论》卷23—25"
+  ],
+  "sources_en": [
+   "*Cheng Weishi Lun*, fascicle 9",
+   "*Yogācārabhūmi-śāstra* (Yujia Shidi Lun), Bodhisattva-bhūmi",
+   "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicle 23–25"
+  ]
+ },
+ {
+  "id": "four_attractions",
+  "name_zh": "四摄法",
+  "name_en": "The Four Means of Gathering",
+  "sa": "catvāri saṃgrahavastūni",
+  "zh_desc": "布施、爱语、利行、同事。是菩萨摄受众生的四种方法。\n\n- 布施：先以财法施济其困乏，使生亲信；\n- 爱语：以欢喜语、谛实语、如法语慰问劝勉，使之生信解；\n- 利行：**所行皆令他人得实益**——不限于说法，凡以身语意作饶益之事，使之因此生信而依教起修，皆属利行；\n- 同事：与所化众生同处同行、同其事业，使无有疑畏。\n\n四者的次第暗含教学原理：先解其困（布施），再通其意（爱语），然后导其行（利行），最后与之同行（同事）——从建立关系到共同实践。因此四摄法不是四项善行清单，而是一套「与人共处并引导」的方法论。\n\n与[[four_immeasurables|四无量心]]的分别：四无量心是「心的方向」（愿望层面），四摄法是「行的方式」（操作层面）。二者配合构成大乘利他行的完整结构。",
+  "en_desc": "Giving, kindly speech, beneficial conduct, and cooperation. These are the four methods by which the bodhisattva gathers sentient beings.\n\n- Giving: first relieving their want with material and Dharma gifts, so that they come to trust one;\n- Kindly speech: greeting and encouraging them with pleasant words, truthful words, and words in accordance with the Dharma, so that they give rise to faith and understanding;\n- Beneficial conduct: performing actions that benefit others, so that they take up practice in accordance with the teaching;\n- Cooperation: dwelling and acting together with the beings to be converted, sharing their undertakings, so that they have no doubt or fear.\n\nThe sequence of the four implies a pedagogy: first relieve their distress (giving), then communicate with their minds (kindly speech), then guide their conduct (beneficial conduct), and finally go along with them (cooperation) — from establishing a relationship to practising together. The four means of gathering are therefore not a list of four good deeds but a methodology of \"living with people and guiding them.\"\n\nTheir difference from [[four_immeasurables|the four immeasurable attitudes]]: the four immeasurable attitudes are \"the direction of the mind\" (the level of aspiration), while the four means of gathering are \"the manner of action\" (the operational level). In combination the two constitute the complete structure of Mahāyāna altruistic practice.",
+  "sources_zh": [
+   "《大智度论》",
+   "《瑜伽师地论》卷43",
+   "《大乘庄严经论》",
+   "《增支部》4.32"
+  ],
+  "sources_en": [
+   "*Mahāprajñāpāramitā-śāstra* (Da Zhidu Lun)",
+   "*Yogācārabhūmi-śāstra* (Yujia Shidi Lun), fascicle 43",
+   "*Mahāyānasūtrālaṃkāra* (Da Cheng Zhuangyan Jing Lun)",
+   "*Aṅguttara Nikāya* 4.32"
+  ]
+ }
+]

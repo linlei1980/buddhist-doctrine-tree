@@ -1,0 +1,222 @@
+[
+ {
+  "id": "six_causes_five_results",
+  "name_zh": "六因四缘五果",
+  "name_en": "The Six Causes, Four Conditions, and Five Results",
+  "sa": "ṣaḍ-hetavaḥ",
+  "zh_desc": "[[sarvastivada|有部]]建立的因果分析框架，是佛教最细密的因果理论。\n\n**六因**：能作因、俱有因、同类因、相应因、遍行因、[[vipaka|异熟]]因。**四缘**：因缘、等无间缘、所缘缘、增上缘。**五果**：异熟果、等流果、离系果、士用果、增上果。\n\n这套框架要解决一个具体问题：**「缘起」说的是「此有故彼有」，但「有」的方式远不止一种**。父与子的关系、火与烟的关系、同一心所与心王的关系、过去的善业与今生的乐受，性质各别。若不分辨，则「缘起」沦为一句万能的套语；分辨之后，因果才能在具体场合被检验。\n\n其中几个要点：\n\n- **异熟因与异熟果**——善恶业感无记的果报（因有善恶，果无善恶），故名「异熟」（vipāka）；\n- **等流因与等流果**——同类相续（前念善心引后念善心）；\n- **离系果**——不是被产生的果，而是「择灭无为」，即断烦恼所显，故又名「果」而不属因果相生；\n- **四缘中的等无间缘**——专为心法而设：前一念心灭，为后一念心生起让出位置，故心法相续而不能同时并起。\n\n其余各项的判准如下：\n\n**六因**（就「因」的性质分）：\n\n- **能作因**——不障碍其生起者，范围最宽，凡不碍此法生者皆是；\n- **俱有因**——与果同时存在、互为因果者（如四大种彼此、心与心所）；\n- **同类因**——同类法前后相引（前念善引后念善），与异熟因相对；\n- **相应因**——专指心与心所同时同所缘而相应，是俱有因中特就心法立者；\n- **遍行因**——特指能遍生一切烦恼的十一遍行（如无明、邪见），是同类因中特就染法立者；\n- **异熟因**——唯善恶业，能感无记之果。\n\n**四缘**（就「缘」的作用分）：因缘（直接生果的亲因，即六因中的相应、俱有等）、等无间缘（心法前后相续，见上）、所缘缘（心与心所的认识对象，无此则心不生）、增上缘（除前三者外一切有助于生起者，与能作因同其宽泛，故有「因宽缘窄」之说）。\n\n**五果**：异熟果（业所感之无记果）、等流果（同类相续之果）、离系果（择灭无为，非所生故立果名）、士用果（由人的作用所得之果，如农夫得谷）、增上果（由增上缘所得之果，较士用果更宽）。\n\n唯识学沿用四缘而调整六因，用以说明种子与现行的互熏。读中观与唯识的争论时，这套语汇是共同背景——双方都不否认因果有层次，分歧在于「因是否有自性」。",
+  "en_desc": "The framework of causal analysis established by the [[sarvastivada|Sarvāstivāda]], and the most detailed theory of causality in Buddhism.\n\n**The six causes**: efficient cause, coexistent cause, homogeneous cause, associated cause, universally pervasive cause, and [[vipaka|ripening]] cause. **The four conditions**: causal condition, immediately antecedent condition, object condition, and dominant condition. **The five results**: ripening result, outflow result, disjunction result, virile-activity result, and dominant result.\n\nThis framework addresses a concrete problem: **dependent origination says that “when this exists, that comes to be,” but there is far more than one way of “existing.”** The relation of father and son, of fire and smoke, of one mental factor to the mind itself, of past wholesome karma to present pleasure — these differ in kind. If they are not distinguished, dependent origination degenerates into a catch-all formula; once they are distinguished, causality can be tested in concrete cases.\n\nSeveral points among them:\n\n- **Ripening cause and ripening result** — wholesome and unwholesome karma brings forth a morally neutral fruition (the cause is wholesome or unwholesome, the result is neither), hence “ripening” (vipāka);\n- **Outflow cause and outflow result** — continuity within the same kind (a wholesome thought-moment giving rise to the next wholesome thought-moment);\n- **The disjunction result** — not a result that is produced but “analytical cessation, the uncompounded (pratisaṃkhyā-nirodha),” that is, what is made manifest by the eradication of afflictions; it is therefore also called a “result” yet does not belong to the mutual production of cause and result;\n- **The immediately antecedent condition among the four conditions** — laid down specifically for mental dharmas: when the preceding thought-moment ceases it vacates its place for the arising of the following thought-moment, and so mental dharmas continue in succession and cannot arise simultaneously.\n\nYogācāra adopts the four conditions while adjusting the six causes in order to explain the mutual perfuming of seeds and manifest activity. In reading the disputes between Madhyamaka and Yogācāra, this vocabulary is the shared background — neither side denies that causality has levels; the disagreement is whether a cause has own-nature.",
+  "sources_zh": [
+   "《俱舍论》卷6、卷7〈分别根品〉",
+   "《大毗婆沙论》",
+   "《成唯识论》卷7、卷8"
+  ],
+  "sources_en": [
+   "*Abhidharmakośa-bhāṣya*, fascicle 6 and fascicle 7, “The Chapter on the Faculties”",
+   "*Abhidharma-mahāvibhāṣā* (Da Piposha Lun)",
+   "*Cheng Weishi Lun*, fascicle 7 and fascicle 8"
+  ]
+ },
+ {
+  "id": "hetuvidya",
+  "name_zh": "因明",
+  "name_en": "Buddhist Logic (Hetuvidyā)",
+  "sa": "hetuvidyā",
+  "zh_desc": "佛教的论证与知识论之学，梵语「因明」意为「关于理由的学问」——探讨怎样的理由（因）能使论式成立。\n\n**从五支到三支**　早期受正理派影响用「五支作法」（宗、因、喻、合、结），陈那（Dignāga，约480—540）改为**三支**：宗（所立命题）、因（理由）、喻（例证）。例如：声是无常（宗）；所作性故（因）；若是所作，见彼无常，如瓶（喻）。\n\n**「因三相」**　因必须满足三个条件才能成立：遍是宗法性（理由确实属于所讨论的对象）、同品定有性（同类事例中存在）、异品遍无性（反面事例中不存在）。这是判断论证有效性的标准，也是佛教对「逻辑必然性」的核心处理。\n\n**现量与比量**　陈那《集量论》立「二量」：**现量**是离分别的直接感知，**比量**是由理由推出的认识。此处「分别」（kalpanā）**特指名言概念的构画，不是「判断」**——《因明正理门论》释为「远离一切种类、名言、假立、无异诸门分别」，即不把所感知者安立为「青」「声」等名言类属；故现量并非「不作判断」，而是尚未落入概念安立。这一点最易被读反。**佛教量论的特点是把知识论与解脱论连起来**——「如实知」即是[[right_view|正见]]，因此「什么是可靠的认识」不是纯粹的理论问题。\n\n**法称（Dharmakīrti，约7世纪）**《释量论》等七部量论，进一步论证「量」的可靠性，成为藏传佛教寺院教育的主课。汉传方面，因明由玄奘传入，主要作为**辩经的工具**而非独立学科，仅为法相宗义理的辅助——《因明入正理论》与窥基《因明大疏》是汉传因明的主要文本。\n\n一个值得注意的历史事实：**因明在汉传衰微而在藏传成为显学**。藏传把量论与[[madhyamaka|中观]]结合（「中观应成＋量论」），发展出极严密的辩论教育；汉传则始终以「依教起行」为重。这是两个佛教传统在方法偏好上最清楚的分野之一。",
+  "en_desc": "The Buddhist science of argument and of knowledge; the Sanskrit “hetuvidyā” means “the science of reasons” — the enquiry into what sort of reason (hetu) can make an argument hold.\n\n**From five members to three** Early Buddhist logic, influenced by the Nyāya school, used the “five-member formulation” (thesis, reason, example, application, conclusion). Dignāga (c. 480–540) reduced it to **three members**: the thesis (the proposition to be established), the reason (the ground), and the example (the illustration). For instance: sound is impermanent (thesis); because it is produced (reason); whatever is produced is seen to be impermanent, like a pot (example).\n\n**The triple mark of the reason** A reason must satisfy three conditions in order to hold: it must be a property of the subject (the reason genuinely belongs to the object under discussion); it must be present in similar instances (it occurs in cases of the same kind); and it must be absent from dissimilar instances (it does not occur in counter-cases). This is the criterion for judging the validity of an argument, and the core of the Buddhist treatment of “logical necessity.”\n\n**Direct perception and inference** Dignāga's *Pramāṇasamuccaya* establishes “two means of knowledge”: direct perception is awareness free of conceptual construction; inference is the cognition arrived at from a reason. **The distinctive feature of Buddhist pramāṇa theory is that it links epistemology to soteriology** — “knowing things as they are” is precisely [[right_view|right view]], and therefore “what counts as reliable cognition” is not a purely theoretical question.\n\n**Dharmakīrti (c. 7th century)**, in the *Pramāṇavārttika* and the other six of his seven treatises on pramāṇa, argued further for the reliability of the means of knowledge, and these became the main curriculum of monastic education in Tibetan Buddhism. In the Chinese transmission, by contrast, hetuvidyā was brought in by Xuanzang and served mainly as **a tool of debate** rather than an independent discipline, an auxiliary to the doctrine of the Faxiang school: the *Nyāyapraveśa* and Kuiji's *Yinming Dashu*, are the principal Chinese texts of hetuvidyā.\n\nOne historical fact worth noting: **hetuvidyā declined in the Chinese transmission but became a prominent discipline in the Tibetan**. The Tibetan tradition combined pramāṇa theory with [[madhyamaka|Madhyamaka]] (“Prāsaṅgika Madhyamaka plus pramāṇa”) and developed an extremely rigorous education in debate, whereas the Chinese tradition consistently gave priority to “engaging in practice in reliance on the teaching.” This is one of the clearest divisions of methodological preference between the two Buddhist traditions.",
+  "sources_zh": [
+   "陈那《因明正理门论》（玄奘译）",
+   "陈那《集量论》",
+   "法称《释量论》",
+   "窥基《因明入正理论疏》（因明大疏）"
+  ],
+  "sources_en": [
+   "Dignāga, *Nyāyamukha* (trans. Xuanzang)",
+   "Dignāga, *Pramāṇasamuccaya*",
+   "Dharmakīrti, *Pramāṇavārttika*",
+   "Kuiji, *Yinming Ruzheng Lilun Shu* (the *Yinming Dashu*)"
+  ]
+ },
+ {
+  "id": "wujiao_shizong",
+  "name_zh": "五教十宗",
+  "name_en": "The Five Teachings and Ten Schools",
+  "sa": "—",
+  "zh_desc": "[[huayan|华严宗]]法藏的[[panjiao|判教]]体系，与天台的「五时八教」并列而路数不同：天台依时间排经典，华严依**教理的深浅**排教义。\n\n**五教**\n\n1. **小乘教**——说四谛、十二因缘，明人空；\n2. **大乘始教**——即唯识与中观之初步，说一切皆空或识有境无；\n3. **大乘终教**——说真如缘起、一切众生悉有佛性；\n4. **大乘顿教**——离言绝虑，直指真性（近禅宗一路）；\n5. **一乘圆教**——即《华严》，说事事无碍、一即一切。\n\n**十宗**是依法义内容所分的十类，前六宗判摄小乘部派诸见，后四宗配大乘始、终、顿、圆：\n\n- **我法俱有宗**——犊子部等：许「我」与「法」皆实有；\n- **法有我无宗**——说一切有部等：诸法实有而「我」是假名；\n- **法无去来宗**——大众部等：现在法实有，过去未来法无体；\n- **现通假实宗**——说假部等：现在法中亦有假有实名之别；\n- **俗妄真实宗**——说出世部等：世俗法皆妄、出世法方真；\n- **诸法但名宗**——一说部等：一切法但有名言，无实体；\n- **一切皆空宗**——大乘始教（般若、中观之初门）：一切法无自性；\n- **真德不空宗**——大乘终教（如来藏系）：真如具足功德而不空；\n- **相想俱绝宗**——大乘顿教：能所俱泯、离言绝虑；\n- **圆明具德宗**——一乘圆教，即《华严》，为极。\n\n与天台的分判对照可以看出两个宗派的性格差异：\n\n- 天台「五时」是**时间与化仪**的判释，重在「佛为什么这样说」（教学法）；\n- 华严「五教」是**教理层次**的判释，重在「义理高下」（教义学）。\n\n**判《华严》为「别教一乘」**：《法华》是「同教一乘」（会三归一，三乘同入一乘），《华严》是「别教一乘」（不共三乘，唯佛与佛的境界）——法藏以此确立华严在一切经典中的最高位置。",
+  "en_desc": "The [[huayan|Huayan school]]'s [[panjiao|doctrinal classification]] system of Fazang, standing alongside Tiantai's 'five periods and eight teachings' but proceeding differently: Tiantai arranges the scriptures by time, whereas Huayan arranges the doctrines by **the depth of the teaching**.\n\n**The five teachings**\n\n1. **The Hīnayāna teaching** - sets out the four truths and the twelve links, explaining the emptiness of the person;\n2. **The initial teaching of the Great Vehicle** - that is, the first stage of Yogacara and Madhyamaka, teaching that all is empty or that consciousness exists while its objects do not;\n3. **The final teaching of the Great Vehicle** - teaching suchness-based dependent origination and that all sentient beings possess the Buddha-nature;\n4. **The sudden teaching of the Great Vehicle** - beyond words and conceptual thought, pointing directly at the true reality (close to the Chan approach);\n5. **The perfect teaching of the one vehicle** - namely the *Avataṃsaka*, teaching the non-obstruction of phenomenon with phenomenon and that the one is the all.\n\n**The ten schools** are a further division into ten categories according to doctrinal content, used to assign the doctrinal levels of the various schools of the time, culminating in the 'school of perfect illumination and complete virtue' (Huayan).\n\nA comparison with Tiantai's divisions brings out the difference in character between the two schools:\n\n- Tiantai's 'five periods' is a classification by **time and pedagogical method**, stressing 'why the Buddha spoke thus' (pedagogy);\n- Huayan's 'five teachings' is a classification by **doctrinal level**, stressing 'the relative height of the doctrines' (doctrinal theology).\n\n**The judgement that the *Avataṃsaka* is the 'one vehicle of the distinct teaching'**: the *Lotus* is the 'one vehicle of the common teaching' (gathering the three into one, the three vehicles entering the one together), whereas the *Avataṃsaka* is the 'one vehicle of the distinct teaching' (not shared with the three vehicles, the realm of Buddhas alone). By this Fazang establishes the *Avataṃsaka*'s supreme place among all scriptures.",
+  "sources_zh": [
+   "法藏《华严一乘教义分齐章》（五教章）",
+   "法藏《华严经探玄记》",
+   "澄观《华严法界玄镜》"
+  ],
+  "sources_en": [
+   "Fazang, *Chapter on the Divisions of the Doctrine of the One Vehicle of the Avataṃsaka* (Wujiao zhang)",
+   "Fazang, *Record of Probing the Mysteries of the Avataṃsaka Sutra* (Huayan jing tanxuan ji)",
+   "Chengguan, *The Mysterious Mirror of the Huayan Dharma-Realm* (Huayan fajie xuanjing)"
+  ]
+ },
+ {
+  "id": "wushi_bajiao",
+  "name_zh": "五时八教",
+  "name_en": "The Five Periods and Eight Teachings",
+  "sa": "—",
+  "zh_desc": "[[tiantai|天台宗]]智顗建立的[[panjiao|判教]]体系，把全部经典排入一个有层次的秩序。「判教」的实质是**为宗派立场提供经典依据**：判某经为「圆」、某经为「不了义」，也就确立了自家所依经典的究竟地位。\n\n**五时**（依说法的时间次第）\n\n1. **华严时**——佛成道后最初说《华严》，直显佛果境界，但小机如聋如哑；\n2. **鹿苑时**（阿含时）——为根机浅者说四阿含，明四谛缘起；\n3. **方等时**——说方等诸经，弹偏斥小、叹大褒圆；\n4. **般若时**——说般若经，破一切执而显空；\n5. **法华涅槃时**——说《法华》开权显实、会三归一，最后说《涅槃》扶律谈常。\n\n**八教**分二。**化仪四教**（说法的形式，依《法华玄义》教相段）：\n\n- **顿**——不历次第，顿说大法（如《华严》）；\n- **渐**——次第引导，由小入大（如阿含、方等、般若）；\n- **秘密**——**同听异闻而互不相知**：佛一音说法，各人随根机听得不同，且彼此不知；\n- **不定**——**同听异闻而彼此相知**，且所证亦不定。\n\n「秘密」与日常语「保密」无关，是就「同一说法而闻者各得其解」立名；它与「不定」之别，正在于闻者是否相知、所得是否决定。\n\n**化法四教**（说法的内容）——藏、通、别、圆（藏教指小乘三藏，通教通大小，别教独菩萨，圆教圆满）。\n\n**判《法华》为「纯圆独妙」**：《法华》之前的诸经是「方便说」，《法华》开示「开佛知见」，故为最究竟。这一判释与法相宗的「三时判教」（以《解深密经》为第三时了义）直接冲突——同一批经典，两种排法，背后是成佛是否有边界（五种姓说与一切众生悉有佛性）的对立。",
+  "en_desc": "The [[tiantai|Tiantai school]]'s [[panjiao|doctrinal classification]] system established by Zhiyi, which arranges all the scriptures in a graded order. The substance of 'doctrinal classification' is **to provide scriptural warrant for a school's position**: to judge one scripture 'perfect' and another 'provisional' is also to establish the definitive status of the scripture on which one's own school relies.\n\n**The five periods** (according to the chronological order of the Buddha's preaching)\n\n1. **The Avataṃsaka period** - immediately after his awakening the Buddha taught the *Avataṃsaka Sutra*, directly revealing the realm of the Buddha's fruit, but those of small capacity were as if deaf and dumb;\n2. **The Deer Park period** (the Agama period) - for those of shallow capacity he taught the four Agamas, setting out the four truths and dependent origination;\n3. **The Vaipulya period** - he taught the Vaipulya scriptures, striking at one-sidedness, censuring the small, praising the great and commending the perfect;\n4. **The Prajñā period** - he taught the Prajñā scriptures, breaking every attachment and revealing emptiness;\n5. **The Lotus and Nirvāṇa period** - he taught the *Lotus Sutra*, opening the provisional and revealing the real, gathering the three into one; and finally taught the *Nirvāṇa Sutra*, upholding the precepts and expounding permanence.\n\n**The eight teachings** fall into two groups: the **four teachings in respect of method** (the form of the teaching) - sudden, gradual, secret and indeterminate; and the **four teachings in respect of doctrine** (the content of the teaching) - Tripitaka, common, distinct and perfect (the Tripitaka teaching refers to the Hīnayāna tripitaka, the common teaching is shared by great and small, the distinct teaching belongs to bodhisattvas alone, and the perfect teaching is complete).\n\n**The judgement that the *Lotus Sutra* is 'purely perfect and uniquely sublime'**: the scriptures before the *Lotus* are 'provisional teachings', while the *Lotus* reveals 'opening the Buddha's knowledge and vision', and is therefore the most definitive. This judgement directly conflicts with the Faxiang school's 'three-period classification' (which holds the *Saṃdhinirmocana-sūtra* to be the definitive teaching of the third period): the same body of scriptures arranged in two ways, behind which stands the opposition over whether Buddhahood has limits (the doctrine of the five lineages versus 'all sentient beings possess the Buddha-nature').",
+  "sources_zh": [
+   "智顗《法华玄义》",
+   "智顗《法华文句》《摩诃止观》"
+  ],
+  "sources_en": [
+   "Zhiyi, *Fahua Xuanyi* (Miaofa Lianhua Jing Xuanyi) (Profound Meaning of the Lotus Sūtra)",
+   "Zhiyi, *Words and Phrases of the Lotus Sutra* (Fahua wenju) and *Great Calming and Contemplation* (Mohe zhiguan)"
+  ]
+ },
+ {
+  "id": "panjiao",
+  "name_zh": "判教",
+  "name_en": "Doctrinal Classification",
+  "sa": "—",
+  "zh_desc": "「判教」即判释经典与教说的次第价值——把众多经论按说法时间、听众根机、教理深浅排出序列，使看似互相矛盾的经典各得其位。判教是各宗成立自身体系的方法，也是「[[tathagatagarbha|如来藏]] → 各宗」之间的必要中介：各宗不是直接从如来藏推出来，而是先判教定位，再据其判定位次组织自宗的核心义理。\n\n中国主要判教体系：\n- 天台「[[wushi_bajiao|五时八教]]」——五时（华严、阿含、方等、般若、法华涅槃），八教分「化仪四教」（顿、渐、秘密、不定）与「化法四教」（藏、通、别、圆），以《法华经》为纯圆独妙；\n- 华严「五教十宗」——小、始、终、顿、圆五教，以《华严经》为别教一乘；\n- 唯识（慈恩）「三时」——有教、空教、中道了义教，以《解深密经》为第三时；\n- 三论「二藏三轮」（**二藏**：声闻藏、菩萨藏，以所化为判；**三轮**：根本法轮（《华严》）、枝末法轮（《华严》后至《法华》前之诸经）、摄末归本法轮（《法华》，会三归一））——声闻藏、菩萨藏；根本法轮、枝末法轮、摄末归本法轮。\n\n判教的意义有两面：一面是理论整合——使经典多样性有了组织原则；另一面是宗派立场——每一体系都把自宗所依之经判为最究竟。因此判教既是印度佛学在中国的重组方式，也是中国宗派成立的标志。",
+  "en_desc": "“Panjiao,” or doctrinal classification, is the graded evaluation of the scriptures and teachings — arranging the many sūtras and treatises in sequence according to the time of their preaching, the capacities of their audiences, and the depth of their doctrine, so that scriptures that appear mutually contradictory each receive their proper place. Doctrinal classification is the method by which each school establishes its own system, and it is also the necessary intermediary in the sequence “[[tathagatagarbha|tathāgatagarbha]] → the schools”: the schools are not derived directly from tathāgatagarbha, but first locate themselves through doctrinal classification and then organise their own core doctrines according to the position so assigned.\n\nThe principal Chinese systems of doctrinal classification:\n- Tiantai's “[[wushi_bajiao|five periods and eight teachings]]” — the five periods (Avataṃsaka, Āgama, Vaipulya, Prajñāpāramitā, Lotus and Nirvāṇa), the eight teachings being divided into the “four teachings in respect of method” (sudden, gradual, secret, indeterminate) and the “four teachings of doctrine” (Tripiṭaka, common, distinct, perfect), taking the *Lotus Sūtra* as purely perfect and uniquely sublime;\n- Huayan's “five teachings and ten schools” — the five teachings of the Hīnayāna, the initial, the final, the sudden, and the perfect, taking the *Avataṃsaka Sūtra* as the one vehicle of the distinct teaching;\n- Yogācāra (Ci'en) “three periods” — the teaching of existence, the teaching of emptiness, and the teaching of the middle way of definitive meaning, taking the *Saṃdhinirmocana-sūtra* as the third period;\n- Sanlun's “two collections and three turnings” — the collection of the hearers and the collection of the bodhisattvas; the root dharma-wheel, the branch dharma-wheel, and the dharma-wheel of gathering the branches back to the root.\n\nThe significance of doctrinal classification is twofold: on one side it is theoretical integration — it gives the diversity of the scriptures an organising principle; on the other it is sectarian position — every system judges the scripture on which its own school relies to be the most ultimate. Doctrinal classification is therefore both the mode by which Indian Buddhist learning was reorganised in China and the mark of the establishment of the Chinese schools.",
+  "sources_zh": [
+   "智顗《法华玄义》",
+   "法藏《华严一乘教义分齐章》（五教章）",
+   "《解深密经·无自性相品》",
+   "吉藏《三论玄义》"
+  ],
+  "sources_en": [
+   "Zhiyi, *Fahua Xuanyi* (Miaofa Lianhua Jing Xuanyi) (Profound Meaning of the Lotus Sūtra)",
+   "Fazang, *Chapter on the Divisions of the Doctrine of the One Vehicle of the Avataṃsaka* (Wujiao zhang)",
+   "*Saṃdhinirmocana-sūtra*, “Chapter on the Characteristic of the Absence of Own-Nature”",
+   "Jizang, *Sanlun Xuanyi* (Profound Meaning of the Three Treatises)"
+  ]
+ },
+ {
+  "id": "sarvastivada",
+  "name_zh": "说一切有部",
+  "name_en": "Sarvāstivāda",
+  "sa": "Sarvāstivāda",
+  "zh_desc": "部派中最具哲学体系性的一派，主张「三世实有、法体恒有」：过去、现在、未来的法体都是实有，只有作用（功能）随时间而现、未现、已灭。\n\n这一主张不是随意的形而上学偏好，而是为了安置业果：若无过去未来的法体，则「已造的业」凭什么在后世成熟？有部因此需要一个不随作用的谢灭而消失的法体。这也解释了它为何同时建立「无表色」——一种由身语业所生、不可见而持续存在的[[rupa|色法]]，用以承担[[jie_ti|戒体]]与业力的相续。\n\n有部的教义体系（常以《俱舍论》的整理为准）：五位七十五法的「位」即五类：**色法**（物质，十一）——以「变坏、质碍」为判；**心法**（心王，一）——以「了别」为判；**心所法**（心之伴随活动，四十六）——以「与心相应俱起」为判；**心不相应行法**（十四）——「非色非心而与色心不相应」，如生、住、灭、得、非得；**无为法**（三）——「非因缘所生」，即择灭、非择灭、虚空。以下按其细目（色法十一、心法一、心所法四十六、心不相应行法十四、无为法三）；四谛十六行相；四十六心所；三世实有与「剎那灭」并存（法体恒有而作用剎那灭，二者并不矛盾）。\n\n历史上它是西北印度（迦湿弥罗、犍陀罗）的主流，也是汉传阿毗达磨与《俱舍论》的直接对手与来源。中国学者常通过《俱舍论》认识有部，但有部自身更完整的立场须看《大毗婆沙论》——两者在许多细节上不同，不可混用。",
+  "en_desc": "The school among the nikāyas with the most systematic philosophy. It holds that “the three times are real and the substance of the dharmas is eternal”: the substance of dharmas past, present, and future is all real, and only their function arises, has not yet arisen, or has ceased, according to time.\n\nThis claim is not an arbitrary metaphysical preference but a way of accommodating the fruit of karma: if there were no substance of dharmas in past and future, on what ground would “karma already performed” ripen in a later life? The Sarvāstivāda therefore needs a substance of dharmas that does not vanish when its function ceases. This also explains why it posits at the same time “unmanifest form” (avijñapti-rūpa): a kind of [[rupa|form]] produced by bodily and verbal karma that is invisible and persists, and that serves to carry on [[jie_ti|the essence of the precepts]] and the continuity of karma.\n\nThe doctrinal system of the Sarvāstivāda (usually taken in the arrangement of the *Abhidharmakośa-bhāṣya*): the five categories and seventy-five dharmas (eleven forms, one mind, forty-six mental factors, fourteen dharmas not associated with mind, and three unconditioned dharmas); the sixteen aspects of the four noble truths; the forty-six mental factors; and the coexistence of the reality of the three times with “perishing in every instant” (the substance of the dharmas is eternal while their function perishes in every instant — the two do not contradict each other).\n\nHistorically it was the dominant school of north-western India (Kaśmīra, Gandhāra), and it is at once the direct opponent and the source of Chinese Abhidharma and of the *Abhidharmakośa-bhāṣya*. Chinese scholars often come to know the Sarvāstivāda through the *Kośa*, but the school's own fuller position must be sought in the *Abhidharma-mahāvibhāṣā*: the two differ on many details and must not be conflated.",
+  "sources_zh": [
+   "《大毗婆沙论》卷76、卷77",
+   "《俱舍论》卷1、卷20",
+   "《大毗婆沙论》《顺正理论》"
+  ],
+  "sources_en": [
+   "*Abhidharma-mahāvibhāṣā*, fascicle 76 and fascicle 77",
+   "*Abhidharmakośa-bhāṣya*, fascicle 1 and fascicle 20",
+   "*Abhidharma-mahāvibhāṣā* and the *Abhidharma-nyāyānusāra*"
+  ]
+ },
+ {
+  "id": "eighteen_schools",
+  "name_zh": "部派分裂",
+  "name_en": "The Division of the Schools",
+  "sa": "nikāya-bheda",
+  "zh_desc": "佛灭百年后，僧团因[[precepts|戒律]]细节与教义理解的分歧渐次分裂：先是**[[southern_tradition|上座部]]**（Sthavira，重律、重论、以长老为准）与**大众部**（Mahāsāṃghika，重经、重方便、对教说取开放态度）的「根本二部」，此后继续细分，传统记为「十八部」或「二十部」——**数目之别在是否把根本二部计入**：不计根本二部而计所分者，为十八部；连根本二部并计，为二十部。故《异部宗轮论》作二十部，《大史》等南传史料所记又略异。\n\n分裂的原因不止教义，更多是**戒律实践与僧团制度**（十事是否合法、是否可受金银等），教义分歧中有相当部分是后来追认的。因此读部派表不宜倒果为因，把它当成一张纯粹的思想谱系图。\n\n对理论史影响最大的是这几部：\n\n- **说一切有部**（Sarvāstivāda）——立三世实有、五位七十五法，论书体系最完备；\n- **经量部**（Sautrāntika）——重经轻论，主张过去未来无体、只有现在实有，对有部形成持续批评；\n- **犊子部**（Vātsīputrīya）——立「不可说的补特伽罗」，在无我与业果之间给出实体性答案，被其余部派判为「附佛法外道」；\n- **大众部**——对佛身、菩萨道的理解较开放，被视为大乘思想的近源之一（此说在学界有争议，非定论）。\n\n部派分裂的正面意义常被低估：正是分头传诵与论辩，使同一经出现多种诵本——汉译四阿含与巴利四部的差异，正是部派传承的产物。",
+  "en_desc": "A hundred years after the Buddha's parinirvāṇa the saṅgha gradually divided over details of [[precepts|the precepts]] and over differences in the understanding of the teaching: first into the “two root schools” — the **[[southern_tradition|Sthaviras]]** (Sthavira, weighting the Vinaya and the treatises and taking the elders as the norm) and the **Mahāsāṃghikas** (Mahāsāṃghika, weighting the sūtras and expedient means and taking an open attitude to the teaching) — and thereafter into further subdivisions, recorded by tradition as “eighteen schools” or “twenty schools.”\n\nThe causes of the division were not only doctrinal but still more a matter of **Vinaya practice and saṅgha polity** (whether the ten points were legitimate, whether gold and silver might be accepted, and so on); a considerable part of the doctrinal differences was acknowledged only after the fact. A table of the schools should therefore not be read backwards from its outcome and taken as a purely intellectual genealogy.\n\nThe schools that mattered most for the history of theory are these:\n\n- **The Sarvāstivāda** (Sarvāstivāda) — holding the reality of the three times and the five categories and seventy-five dharmas, with the most complete system of treatises;\n- **The Sautrāntika** (Sautrāntika) — weighting the sūtras and slighting the treatises, holding that past and future have no substance and only the present is real, and criticising the Sarvāstivāda continuously;\n- **The Vātsīputrīya** (Vātsīputrīya) — positing an “inexpressible pudgala,” giving a substantialist answer between non-self and the fruit of karma, and judged by the other schools to be “a heterodox sect attached to the Buddha's Dharma”;\n- **The Mahāsāṃghikas** — more open in their understanding of the Buddha-body and the bodhisattva path, and regarded as one of the proximate sources of Mahāyāna thought (this view is contested in scholarship and is not settled).\n\nThe positive significance of the division of the schools is often underestimated: it was precisely recitation and debate carried on separately that produced multiple recensions of one and the same scripture — the differences between the four Chinese Āgamas and the four Pali Nikāyas are just the product of the schools' transmission.",
+  "sources_zh": [
+   "《异部宗轮论》（世友造，玄奘译）",
+   "《岛史》第五章、《大史》",
+   "《大毗婆沙论》卷99 等"
+  ],
+  "sources_en": [
+   "*Samayabhedoparacanacakra* (attrib. Vasumitra, trans. Xuanzang)",
+   "*Dīpavaṃsa*, fascicle 5, and *Mahāvaṃsa*",
+   "*Abhidharma-mahāvibhāṣā*, fascicle 99 and elsewhere"
+  ]
+ },
+ {
+  "id": "paratantra",
+  "name_zh": "依他起性",
+  "name_en": "The Dependent Nature",
+  "sa": "paratantra-svabhāva",
+  "zh_desc": "一切法依因缘而生、依识而现，属[[dependent_origination|缘起]]层面。「依他」（paratantra）即「依他缘而起」——不自主、不独立，全由条件所成。\n\n依他起是[[three_natures|三性]]中的枢纽，也是唯识与中观讨论最集中的焦点：中观认为依他起与缘起同义，即「无自性」；唯识则在承认依他起为**实有**这一点上与中观产生分歧。唯识所谓「有」须与「有自性」分辨：依他起**托众缘而生**，故非「性全无」（如幻事，非无其事），然亦**无独立自性**——「依他」二字本身即已否定自性。《成唯识论》卷8 作「二所依体实托缘生，此性非无，名依他起」，卷9 又于依他起立「生无自性性」。故唯识与中观之争不在「有无」，而在**「无自性」是否即等于「无」**：中观不许于无自性外别立「实有」，唯识则许。\n\n在唯识系统内，依他起与「识」直接对应——依识而现，故依他起性是识所变。",
+  "en_desc": "All dharmas arise from causes and conditions and appear in dependence on consciousness; this belongs to the level of [[dependent_origination|dependent origination]]. “Dependent on others” (paratantra) means “arising in dependence on other conditions” — not autonomous, not independent, entirely constituted by conditions.\n\nThe dependent nature is the pivot among the [[three_natures|three natures]] and also the focus of the most concentrated discussion between Yogācāra and Madhyamaka: Madhyamaka holds that the dependent nature is synonymous with dependent origination, that is, “without intrinsic nature”; Yogācāra, by contrast, diverges from Madhyamaka in acknowledging the dependent nature as “truly existent” (the dependent nature exists; it is only that the imagined nature does not exist upon it).\n\nWithin the Yogācāra system the dependent nature corresponds directly to “consciousness” — since it appears in dependence on consciousness, the dependent nature is what consciousness transforms.",
+  "sources_zh": [
+   "《成唯识论》卷8",
+   "《摄大乘论》"
+  ],
+  "sources_en": [
+   "*Cheng Weishi Lun*, fascicle 8",
+   "*Mahāyānasaṃgraha* (She Dasheng Lun)"
+  ]
+ },
+ {
+  "id": "three_natures",
+  "name_zh": "三性",
+  "name_en": "The Three Natures",
+  "sa": "tri-svabhāva",
+  "zh_desc": "[[vijnapti_matra|唯识]]学的迷悟结构：[[parikalpita|遍计所执性]]、依他起性、圆成实性。三者不是三个世界，而是对同一缘起法的三种认识状态。\n\n三者的关系是：\n- 依他起——一切法依因缘而生、依识而现，是存在的实际层面；\n- 遍计所执——在依他起法上误执有独立自性，属「迷」；\n- 圆成实——在依他起上远离遍计所执，证二空所显真如，属「悟」。\n\n因此三性中「依他起」是枢纽：迷与悟都不离它，差别只在是否在其上起了执。三者与「有」的三层次对应，须先分辨此三词：**假有**——唯依名言安立、无实自体（遍计所执）；**世俗有**——依因缘而现、于世俗谛中不无（依他起）；**胜义有**——于胜义谛中真实不虚（圆成实）。故「遍计所执属假有」与其「理无」并不相违：假有正是「无实体而唯名」之义。与二谛的对应是：遍计所执属假有，依他起属世俗有，圆成实属胜义有。\n\n三性也是三解脱门的建立依据（见《瑜伽师地论》卷74），因此这一组概念同时贯通了唯识的存有论、认识论与实践论。",
+  "en_desc": "The structure of delusion and awakening in [[vijnapti_matra|consciousness-only]] (Yogācāra): the [[parikalpita|imagined nature]], the dependent nature, and the perfected nature. The three are not three worlds but three cognitive states with respect to one and the same dependently originated dharma.\n\nTheir relation is as follows:\n- The dependent nature — all dharmas arise from causes and conditions and appear in dependence on consciousness; this is the actual level of existence;\n- The imagined nature — falsely grasping the dharmas of the dependent nature as possessing independent intrinsic nature; this belongs to “delusion”;\n- The perfected nature — on the basis of the dependent nature, being free from the imagined nature and realising the suchness revealed by the two emptinesses; this belongs to “awakening”.\n\nHence within the three natures the dependent nature is the pivot: neither delusion nor awakening is apart from it, the difference lying only in whether grasping has arisen upon it. The correspondence with the two truths is: the imagined nature is provisional existence, the dependent nature is conventional existence, the perfected nature is ultimate existence.\n\nThe three natures are also the basis on which the three doors of liberation are established (see *Yogācārabhūmi-śāstra*, fascicle 74); this group of concepts therefore runs through Yogācāra ontology, epistemology, and soteriology at once.",
+  "sources_zh": [
+   "《解深密经·一切法相品》",
+   "《成唯识论》卷8、卷9",
+   "《瑜伽师地论》卷74"
+  ],
+  "sources_en": [
+   "*Saṃdhinirmocana-sūtra* (Jie Shenmi Jing), “Chapter on the Marks of All Dharmas” (Yi Qie Fa Xiang Pin)",
+   "*Cheng Weishi Lun* (Discourse on the Perfection of Consciousness-only), fascicles 8 and 9",
+   "*Yogācārabhūmi-śāstra* (Yoga Shidi Lun), fascicle 74"
+  ]
+ },
+ {
+  "id": "eight_consciousnesses",
+  "name_zh": "八识",
+  "name_en": "The Eight Consciousnesses",
+  "sa": "aṣṭa-vijñāna",
+  "zh_desc": "眼识、耳识、鼻识、舌识、身识、意识、末那识、[[alaya|阿赖耶识]]。前六识了别粗境，末那识恒审思量，阿赖耶识持种受熏。\n\n八识说的成立过程：前五识为感官认识；第六意识综合了别，兼缘过去未来；第七末那识（manas）**恒审思量**：以第八识的见分为所缘，恒执为「我」，故其性为「有覆无记」，是我执的直接来源（与前六识有间断不同，它恒时现起）；第八阿赖耶识（ālaya）含藏一切种子，遇缘现行，承担业力[[continuity|相续]]的载体功能。\n\n这一体系的意义在于解决「无我而轮回」的技术难题：既不需假设一个实体灵魂，又需要说明业力如何跨生命相续——阿赖耶识正是以「识的相续」而非「实体的迁移」来承担这一功能。",
+  "en_desc": "Eye-consciousness, ear-consciousness, nose-consciousness, tongue-consciousness, body-consciousness, mind-consciousness, manas, and [[alaya|ālaya-consciousness]]. The first six consciousnesses discern coarse objects, manas constantly examines and deliberates, and ālaya-consciousness retains the seeds and receives perfuming.\n\nHow the doctrine of the eight consciousnesses came to be established: the first five consciousnesses are sensory cognition; the sixth, mind-consciousness, synthesises and discerns, and also takes past and future as its objects; the seventh, manas, constantly and persistently considers the eighth consciousness as “I”, and is the direct source of self-grasping; the eighth, ālaya, contains all seeds, becomes manifest when conditions obtain, and performs the function of being the vehicle of the [[continuity|continuity]] of karma.\n\nThe significance of this system lies in solving the technical problem of “rebirth without a self”: there is no need to posit a substantial soul, yet one must explain how karma continues across lives — ālaya-consciousness performs precisely this function by way of “the continuity of consciousness” rather than “the transmigration of a substance”.",
+  "sources_zh": [
+   "《解深密经·心意识相品》",
+   "《瑜伽师地论》卷51",
+   "《成唯识论》卷2—4"
+  ],
+  "sources_en": [
+   "*Saṃdhinirmocana-sūtra*, “Chapter on the Marks of Mind, Manas, and Consciousness” (Xin Yi Shi Xiang Pin)",
+   "*Yogācārabhūmi-śāstra*, fascicle 51",
+   "*Cheng Weishi Lun*, chs. 2–4"
+  ]
+ },
+ {
+  "id": "garbha_sutras",
+  "name_zh": "如来藏系经典",
+  "name_en": "Tathāgatagarbha Scriptures",
+  "sa": "—",
+  "zh_desc": "《大方等[[tathagatagarbha|如来藏]]经》《[[doc_14|胜鬘经]]》《不增不减经》《大般涅槃经》《入楞伽经》《宝性论》等。\n\n这一系经典的共同主题是：一切众生本具如来藏，故皆可成佛；心性本净，客尘所染。其中：\n- 《大方等如来藏经》一般认为是最早出现的如来藏经典，以九喻说明众生身中有如来；\n- 《胜鬘经》提出「空如来藏」与「不空如来藏」的区分，并说如来藏为「法界藏、法身藏、出世间上上藏、自性清净藏」。**「空如来藏」指如来藏脱离一切烦恼所缠（就其离染说「空」）；「不空如来藏」指其本具恒沙功德（就其具德说「不空」）**——二名非二体，是就同一如来藏的离染与具德两面立说；\n- 《宝性论》以七金刚句组织如来藏义，是这一系的论书总结。\n\n这一系经典的形成约在公元3—5世纪，晚于般若经（约前1—2世纪）而早于唯识论书的集成（4—5世纪），因此处在「空」与「识」两条主线之间——它既以空性为前提（如来藏本身即是空性的），又要为成佛提供肯定性的依据。这一位置正是中国佛学（天台、华严、禅）大量吸收它的原因。",
+  "en_desc": "The *[[tathagatagarbha|Tathāgatagarbha]] Sūtra* (Da Fangdeng Rulai Zang Jing), the *[[doc_14|Śrīmālādevī Sūtra]]*, the *Anūnatvāpūrṇatvanirdeśa* (Bu Zeng Bu Jian Jing), the *Mahāparinirvāṇa Sūtra*, the *Laṅkāvatāra Sūtra*, the *Ratnagotravibhāga*, and others.\n\nThe common theme of this group of scriptures is: all sentient beings intrinsically possess the tathāgatagarbha and can therefore all attain Buddhahood; the mind-nature is intrinsically pure but is defiled by adventitious dust. Among them:\n- The *Tathāgatagarbha Sūtra* is generally regarded as the earliest tathāgatagarbha scripture to appear; it uses nine similes to explain that the Tathāgata is present within the bodies of sentient beings;\n- The *Śrīmālādevī Sūtra* proposes the distinction between “the empty tathāgatagarbha” and “the non-empty tathāgatagarbha”, and says that the tathāgatagarbha is “the store of the dharma-realm, the store of the dharma-body, the supramundane supreme store, and the store of intrinsic purity”;\n- The *Ratnagotravibhāga* organises the meaning of the tathāgatagarbha by way of seven vajra points, and is the summary treatise of this tradition.\n\nThe formation of this group of scriptures falls roughly between the 3rd and 5th centuries CE, later than the Prajñāpāramitā sūtras (c. 1st–2nd century BCE) and earlier than the compilation of the Yogācāra treatises (4th–5th century); it therefore stands between the two main lines of “emptiness” and “consciousness” — it presupposes emptiness (the tathāgatagarbha is itself empty) while also providing a positive basis for attaining Buddhahood. It is precisely this position that led Chinese Buddhist thought (Tiantai, Huayan, Chan) to absorb it so extensively.",
+  "sources_zh": [
+   "《大方等如来藏经》",
+   "《胜鬘经·空义隐覆真实章》",
+   "《不增不减经》",
+   "《宝性论》（究竟一乘宝性论）"
+  ],
+  "sources_en": [
+   "*Tathāgatagarbha Sūtra* (Da Fangdeng Rulai Zang Jing)",
+   "*Śrīmālādevī Sūtra* (Shengman Jing), “Chapter on Emptiness Concealing the Real” (Kong Yi Yin Fu Zhenshi Zhang)",
+   "*Anūnatvāpūrṇatvanirdeśa* (Bu Zeng Bu Jian Jing)",
+   "*Ratnagotravibhāga* (Jiu Jing Yi Sheng Bao Xing Lun)"
+  ]
+ },
+ {
+  "id": "icchantika",
+  "name_zh": "一阐提 · 常乐我净",
+  "name_en": "The Icchantika and the Four Virtues",
+  "sa": "icchantika · nitya-sukha-ātman-śubha",
+  "zh_desc": "[[tathagatagarbha|如来藏]]系最具争议的两个论题，其走向决定了中国佛教的实践边界。\n\n**一阐提**（icchantika，「欲求者」）指断尽善根、不信因果、不修梵行之人。**问题**：《[[doc_7|大般涅槃经]]》前半部主张「一阐提不能成佛」，后半部则说「一切众生悉有佛性」，一阐提亦有佛性、亦当成佛——同一部经的前后不同，正是这一争论的现场。\n\n- **瑜伽行派（五种姓说）**——立「无种姓」，毕竟不能成佛，此说与「一阐提不成佛」相应；\n- **汉传（涅槃经后分与《法华经》）**——取「一切众生悉有佛性」，判一阐提亦当成佛，成为定论；\n- **竺道生**——在《涅槃经》后分尚未译出时（约5世纪初）即主张「一阐提皆得成佛」，被当时僧众判为邪说而摈出，后经文译出而印证其说，史称「孤明先发」。这是中国佛教史上**最著名的一次「以一义抗众说而最后被证实」**的案例。\n\n**常乐我净**（四德）是对「苦、无常、无我、不净」四颠倒的反转：《涅槃经》说如来法身具常、乐、我、净四德。**须辨「我」的同名异义**：此处的「我」**不是**阿含与中观所破的「常一主宰之我」，而是如来藏义、大自在义——指法身离系自在、不随业转。故「常乐我净」与「诸法无我」并不相违，而是就不同层次立说：前者说佛果之德，后者破凡夫之执。但它对读经者是一个关键提醒——**不能把「无我、无常」当成佛教的全部结论**：在「一切众生悉有佛性」的层次上，如来藏系用的是肯定性的语汇（真常、妙有），与阿含与中观的遮诠语汇并行。两种语汇如何会通，正是汉传判教处理的核心问题。",
+  "en_desc": "The two most controversial topics in the [[tathagatagarbha|tathāgatagarbha]] tradition, whose outcome determined the practical boundaries of Chinese Buddhism.\n\n**The icchantika** (“one who desires”) refers to a person who has cut off all roots of good, does not believe in causality, and does not practise the pure life. **The problem**: the first half of the *[[doc_7|Mahāparinirvāṇa Sūtra]]* maintains that “the icchantika cannot attain Buddhahood”, while the second half says that “all sentient beings possess the Buddha-nature”, so that the icchantika too has the Buddha-nature and will also attain Buddhahood — the discrepancy between the earlier and later parts of one and the same scripture is precisely the site of this controversy.\n\n- **Yogācāra (the doctrine of the five lineages)** — it posits “the lineage-less”, who can never attain Buddhahood; this doctrine corresponds to “the icchantika does not attain Buddhahood”;\n- **Chinese Buddhism (the later part of the *Nirvāṇa Sūtra* and the *Lotus Sūtra*)** — it adopts “all sentient beings possess the Buddha-nature” and judges that the icchantika too will attain Buddhahood, which became the settled conclusion;\n- **Zhu Daosheng** — before the later part of the *Nirvāṇa Sūtra* had been translated (c. early 5th century) he already maintained that “all icchantikas can attain Buddhahood”, was judged by the monks of his time to be teaching heresy and was expelled, and after the scriptures were translated his thesis was confirmed, an event known in history as “first to illumine alone” (gu ming xian fa). This is **the most famous case in Chinese Buddhist history of a single doctrine maintained against the many and finally vindicated**.\n\n**Permanence, bliss, self, and purity** (the four virtues) are the reversal of the four inversions of “suffering, impermanence, non-self, and impurity”: the *Nirvāṇa Sūtra* says that the Tathāgata's dharma-body possesses the four virtues of permanence, bliss, self, and purity. This is a key reminder for readers of the scriptures — **one must not take “non-self and impermanence” as the whole conclusion of Buddhism**: on the level of “all sentient beings possess the Buddha-nature”, the tathāgatagarbha tradition uses an affirmative vocabulary (true permanence, wondrous existence), running parallel to the via negativa vocabulary of the Āgamas and Madhyamaka. How these two vocabularies are to be reconciled is precisely the core problem addressed by Chinese doctrinal classification.",
+  "sources_zh": [
+   "《大般涅槃经》卷7 等（前分与后分）",
+   "《大乘起信论》《佛性论》",
+   "《瑜伽师地论》《佛地经论》",
+   "《高僧传》卷7〈竺道生传〉"
+  ],
+  "sources_en": [
+   "*Mahāparinirvāṇa Sūtra*, fascicle 7 and elsewhere (the earlier and later parts)",
+   "*Awakening of Faith in the Mahāyāna* (Da Cheng Qixin Lun) and the *Buddha-nature Treatise* (Fo Xing Lun)",
+   "*Yogācārabhūmi-śāstra* and *Buddhabhūmi-śāstra*",
+   "*Gaoseng Zhuan* (Biographies of Eminent Monks), fascicle 7, “Biography of Zhu Daosheng” (Zhu Daosheng Zhuan)"
+  ]
+ }
+]

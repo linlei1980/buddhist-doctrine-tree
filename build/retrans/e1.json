@@ -1,0 +1,226 @@
+[
+ {
+  "id": "right_speech",
+  "name_zh": "正语",
+  "name_en": "Right Speech",
+  "sa": "samyag-vāc",
+  "zh_desc": "不妄语、不两舌、不恶口、不绮语。四支各有判准，非以轻重排序：\n\n- **妄语**——违实而说：见言不见、闻言不闻（《瑜伽师地论》卷8 作「见闻觉知而言不见闻觉知」）；\n- **两舌**——于和合者说破坏语、于已坏者说令不和合语；判准在**是否欲坏他人关系**，故所说不实亦可能同时犯妄语，而所说属实则仍可为两舌；\n- **恶口**——粗恶刺耳、令他嗔恼之语；判准在**言语的粗恶与所对之人**；\n- **绮语**——非时语、无义语、非法语；判准在**有无意义、是否合时**，非以话题是否严肃论。\n\n论书因此以相反者界定「不绮语」，《瑜伽师地论·菩萨地》列「七语」：**时语、实语、义语、法语、顺道理语、巧调伏语、随时筹量决定语**——不绮语并非不许说话，而是所说皆有时、有实、有义、有法、有理、能调伏、经审量。\n\n正语在[[eightfold|八正道]]中属戒学。四支所对各不相同：妄语对**事实**，两舌对**他人之间的关系**，恶口对**对方**，绮语对**言语本身的意义**。",
+  "en_desc": "Abstention from false speech, from divisive speech, from harsh speech and from idle chatter — the four items of the ten wholesome courses of action that concern verbal action. Within the [[eightfold|noble eightfold path]], right speech belongs to the training in ethics, and its criterion is not only “what was said” but also “whether it is timely, whether it is true, whether it is beneficial, whether it is kindly.”",
+  "sources_zh": [
+   "《中部》117《大四十经》",
+   "《杂阿含经》卷33（五戒相关）",
+   "《瑜伽师地论》卷8（大正藏30册）",
+   "《瑜伽师地论·菩萨地》（七语）"
+  ],
+  "sources_en": [
+   "*Majjhima Nikāya* 117, *Mahācattārīsaka Sutta* (Da Sishi Jing)",
+   "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 33 (concerning the five precepts)",
+   "*Yogācārabhūmi-śāstra*, fascicle 8",
+   "*Yogācārabhūmi-śāstra*, Bodhisattva-bhūmi (the seven kinds of speech)"
+  ]
+ },
+ {
+  "id": "right_thought",
+  "name_zh": "正思惟",
+  "name_en": "Right Thought",
+  "sa": "samyak-saṃkalpa",
+  "zh_desc": "又译正志、正思。经中分两种：**世俗正志**——出要觉、无恚觉、不害觉；**出世正志**——与四谛相应的无漏思惟（《杂阿含经》卷28 第785经；《中部》117《大四十经》）。\n\n三者所对各不相同：\n\n- **出离**（nekkhamma，出要觉）——对治欲寻思：放下「总要有」的驱迫，非仅压制欲望；\n- **无嗔**（avyāpāda，无恚觉）——对治恚寻思。论书界定「嗔」为**欲打、欲缚、欲杀害**之心，故无嗔所息的是**害心**，不是情绪，也**不等于不作判断**——判某见为邪而不起加害之意，仍是无嗔；\n- **无害**（avihiṃsā，不害觉）——对治害寻思。论书以「不害」为善心所，**与「悲」同体**：不止「不愿加害」，而是愿其离苦。\n\n第二、三两类同指他人（论书共归对治嗔一路），然一层是**息灭敌意**、一层是**愿其离苦**，故不属同义重复。\n\n《中部》19《双寻经》记佛陀成道前把寻思分为两类：贪、嗔、害为一类，出离、无嗔、无害为一类，前者生起时知其「自害、害他、俱害」，后者反之——**同一心念，转向不同则或邪或正**，故属意业的净化。正思惟的位置在[[right_view|正见]]之后：见既然立，心的方向随之转向。",
+  "en_desc": "Also rendered right resolve or right intention. It refers to three intentions: renunciation (freedom from desire), non-ill-will, and harmlessness. Their opposites are the thought of desire, the thought of ill-will and the thought of harm. Right thought stands after [[right_view|right view]] — once the view is established, the orientation of the mind turns accordingly; it belongs to the purification of mental action.",
+  "sources_zh": [
+   "《杂阿含经》卷28 第785经",
+   "《中部》117《大四十经》",
+   "《中部》19《双寻经》",
+   "《俱舍论》卷25〈分别贤圣品〉"
+  ],
+  "sources_en": [
+   "*Majjhima Nikāya* 117, *Mahācattārīsaka Sutta* (Da Sishi Jing)",
+   "*Saṃyukta-āgama*, fascicle 28, sūtra 785",
+   "*Majjhima Nikāya* 19, *Dvedhāvitakka Sutta*",
+   "*Abhidharmakośa-bhāṣya*, fascicle 25, “Exposition of the Holy Ones”"
+  ]
+ },
+ {
+  "id": "right_action",
+  "name_zh": "正业",
+  "name_en": "Right Action",
+  "sa": "samyak-karmānta",
+  "zh_desc": "不杀生、不偷盗、不邪淫，守护身行，与[[five_precepts|五戒]]的前三条重合。论书以**性戒**判定此三条：**性戒**指自体即恶、不待佛制而犯（佛制未制，犯之皆罪）；**遮戒**指自体非恶，佛为防护余戒、息止讥嫌而制（如不饮酒）。「于有情之境发得」只是伴随特征，非分判标准。",
+  "en_desc": "Abstention from killing living beings, from taking what is not given, and from sexual misconduct; guarding bodily action. These coincide with the first three of the [[five_precepts|five precepts]]. The treatises classify these three as “precepts by nature” — because they are in themselves real offences regardless of circumstance, unlike the precept against drinking alcohol, which is a “precept of prohibition.”",
+  "sources_zh": [
+   "《中部》117《大四十经》",
+   "《萨婆多毗尼毗婆沙》卷1"
+  ],
+  "sources_en": [
+   "*Majjhima Nikāya* 117, *Mahācattārīsaka Sutta* (Da Sishi Jing)",
+   "*Sarvāstivāda-vinaya-vibhāṣā* (Sapoduo Pini Piposha), fascicle 1"
+  ]
+ },
+ {
+  "id": "right_samadhi",
+  "name_zh": "正定",
+  "name_en": "Right Concentration",
+  "sa": "samyak-samādhi",
+  "zh_desc": "心一境性，即[[four_dhyanas|四禅八定]]等，是观慧所依的定力。经中强调正定须与其余七支俱起才名为「正」——若只有专注而无正见、正念，则属世间定，可生天而不脱生死。论书因此区分二者，**判准在有漏与无漏、是否与无漏智相应**（《俱舍论》卷28）：世间定是有漏、不缘四谛；出世间定与无漏智相应、以四谛为所缘。",
+  "en_desc": "One-pointedness of mind, namely the [[four_dhyanas|four dhyānas and eight concentrations]] and the like; it is the power of concentration on which contemplative wisdom depends. The scriptures stress that right concentration is only called “right” when it arises together with the other seven factors — if there is absorption alone without right view and right mindfulness, it is a mundane concentration that can lead to rebirth in the heavens but does not escape birth and death. The treatises therefore distinguish “mundane concentration” from “supramundane concentration.”",
+  "sources_zh": [
+   "《中部》117《大四十经》",
+   "《长部》2《沙门果经》"
+  ],
+  "sources_en": [
+   "*Majjhima Nikāya* 117, *Mahācattārīsaka Sutta* (Da Sishi Jing)",
+   "*Dīgha Nikāya* 2, *Sāmaññaphala Sutta* (Shamen Guo Jing)"
+  ]
+ },
+ {
+  "id": "nonself_seal",
+  "name_zh": "诸法无我",
+  "name_en": "All Dharmas Are Non-Self",
+  "sa": "dharmā anātmānaḥ / anattā",
+  "zh_desc": "一切法——不论有为无为、不论有情世界或物质世界——都没有独立、不变、自在的自性。「我」（ātman）在印度语境中有确定含义：常（不变）、一（独立）、主（自在）、宰（支配）四义俱全者才名为「我」。佛教的[[anatta|无我]]即否定此四义中的任何一项在诸法中存在。\n\n因此无我并非「我不存在」的虚无断言，而是「没有任何法具备常一主宰的实体性」。这一表述与[[emptiness|空]]相通，但须留意**「空」在此不是「没有」**：依《中论》卷4〈观四谛品〉，空是「无自性」（缘起故无独立不变之体），而非否定诸法的缘起作用。故「空即无我」是无自性义的互说，不是虚无。",
+  "en_desc": "All dharmas — whether conditioned or unconditioned, whether the world of sentient beings or the material world — lack an independent, unchanging, self-existent nature. “Self” (ātman) has a determinate meaning in the Indian context: only that which possesses all four senses — permanent (unchanging), one (independent), master (self-existent) and sovereign (controlling) — is called a “self.” The Buddhist [[anatta|non-self]] denies that any dharma possesses any one of these four senses.\n\nNon-self is therefore not the nihilistic assertion “I do not exist” but “no dharma possesses the substantially real character of being permanent, one and sovereign.” This formulation is continuous with “emptiness”: emptiness is non-self, non-self is emptiness.",
+  "sources_zh": [
+   "《杂阿含经》卷10 第262经",
+   "《杂阿含经》卷2 第34经"
+  ],
+  "sources_en": [
+   "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 10, sūtra 262",
+   "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 2, sūtra 34"
+  ]
+ },
+ {
+  "id": "five_precepts",
+  "name_zh": "五戒",
+  "name_en": "Five Precepts",
+  "sa": "pañca-śīla",
+  "zh_desc": "不杀生、不偷盗、不邪淫、不妄语、不饮酒。是[[sila|戒学]]的基础，也是十善的简化形式。五条各有判准，非仅禁令：\n\n- **不杀生**——杀＝**断有情命**。成犯须缘具：是有情、作有情想、起杀心、兴方便、前人命断（《俱舍论》卷14〈分别业品〉十业道相）；\n- **不偷盗**——有主之物、作有主想、起盗心、取离本处、**值满五钱**成重（《四分律》〈波罗夷〉盗戒）；\n- **不邪淫**——**非偶、非道、非时、非处**：于非配偶、非产门、非宜时、非宜处而行；\n- **不妄语**——**违实而说**，见言不见、闻言不闻；\n- **不饮酒**——饮**一切能醉之酒**，不论谷酒、果酒、药酒。\n\n**性戒与遮戒之分**（判准在「自体是否即恶」，不在所对之境）：前四者属**性戒**——自体即恶、不待佛制，佛制未制犯之皆罪；不饮酒属**遮戒**——自体非恶，为放逸之本、能引人犯前四戒，故佛为防护余戒、息止讥嫌而制。古说「前四于有情之境发得、饮酒于非情之境发得」只是**伴随特征**，非分判标准。\n\n又前三戒防身、第四戒防口、第五戒通防身口而护前四戒。\n\n别名甚多，可据其名窥见其义：《[[doc_33|大毗婆沙论]]》名为「五学处」，《大庄严经》名为「五大施」，《俱舍论》名为「近事律仪」（近事即优婆塞）。\n\n**分受与具受之诤**：《增一阿含经》《优婆塞戒经》《大般涅槃经》提出可分别受持之说；《萨婆多毗尼毗婆沙》《杂阿毗昙心论》则认为「少分行、多分行、满分行」之说只是显示持戒功德多少，并非有分别受戒之法，故不许分受。",
+  "en_desc": "Not killing, not stealing, not committing sexual misconduct, not lying, not drinking intoxicants. They are the foundation of the [[sila|training in ethics]] and a simplified form of the ten wholesome courses of action.\n\nThere are many alternative names, and from them their meaning can be glimpsed: the [[doc_33|Abhidharma-mahāvibhāṣā]] calls them the \"five fields of training,\" the *Sūtrālaṃkāra* (Da Zhuangyan Jing) calls them the \"five great gifts,\" and the *Abhidharmakośa-bhāṣya* calls them the \"lay vows\" (the lay follower being the upāsaka).\n\nThe distinction between intrinsically wrong and conventionally prohibited precepts: the first four are \"intrinsically wrong\" — they are engendered towards the object of a sentient being and are in themselves real offences with respect to sentient beings; not drinking intoxicants is \"conventionally prohibited\" — it is engendered towards a non-sentient object and is not in itself a real offence, but because it is the root of heedlessness and can lead people to break the first four, the Buddha laid it down. Again, the first three precepts guard the body, the fourth guards speech, and the fifth guards both body and speech and so protects the first four.\n\nThe dispute over partial and complete reception: the *Ekottarika-āgama*, the *Upāsaka-śīla Sūtra* (Youposai Jie Jing), and the *Mahāparinirvāṇa Sūtra* put forward the view that they may be undertaken separately; the *Sarvāstivāda-vinaya-vibhāṣā* and the *Saṃyuktābhidharma-hṛdaya-śāstra* hold that the talk of \"few-factor practice, many-factor practice, complete-factor practice\" merely displays how much merit the observance of the precepts yields, and does not mean that there is a method of receiving them separately, so that partial reception is not allowed.",
+  "sources_zh": [
+   "《杂阿含经》卷33 等",
+   "《增一阿含经》卷20",
+   "《萨婆多毗尼毗婆沙》卷一",
+   "《俱舍论》卷14",
+   "《大毗婆沙论》等",
+   "《俱舍论》卷14〈分别业品〉",
+   "《四分律》〈波罗夷〉"
+  ],
+  "sources_en": [
+   "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 33, etc.",
+   "*Ekottarika-āgama* (Zengyi Ahan Jing), fascicle 20",
+   "*Sarvāstivāda-vinaya-vibhāṣā* (Sapoduo Pini Piposha), fascicle 1",
+   "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicle 14",
+   "*Abhidharma-mahāvibhāṣā*, and others",
+   "*Abhidharmakośa-bhāṣya*, fascicle 14, “Exposition of Action”",
+   "*Dharmaguptaka Vinaya*, Pārājika"
+  ]
+ },
+ {
+  "id": "four_immeasurables",
+  "name_zh": "四无量心",
+  "name_en": "The Four Immeasurable Attitudes",
+  "sa": "catvāri apramāṇāni",
+  "zh_desc": "慈、悲、喜、舍。是修定的重要法门，也是大乘菩提心的基础。又称「四梵住」（brahmavihāra）——因其果报可生梵天。\n\n- 慈（mettā／maitrī）：愿众生得乐；\n- 悲（karuṇā）：愿众生离苦；\n- 喜（muditā）：见众生得乐而欢喜，对治嫉妒；\n- 舍（upekṣā）：**于众生无偏私**，离爱憎。此处「无分别」是「不偏党」之义，**不是「不作分别」**——依《清净道论》第九〈说梵住品〉与《俱舍论》卷29，舍由「业为自属」之观而离贪瞋，仍如实了知众生与苦乐，只是不因此生爱憎。\n\n「无量」（apramāṇa）之义在于所缘无量：非对某一众生，而是遍及一切方所、一切众生，故心量无有限量。四者的次第不是偶然：慈与悲有明确的取向（与乐、拔苦），「喜」进一步对治见他人得乐时的不快，「舍」则使前三者不落偏私——若无舍，慈可能成为偏爱，悲可能成为沉溺。\n\n在修定中的地位：四无量可修至「第三禅」（喜）与「第四禅」（舍）的层次，是专修止业处之一；在大乘中则是菩提心的前行——先以四无量调柔心性，再发「为利一切众生愿成佛」的菩提心。",
+  "en_desc": "Loving-kindness, compassion, sympathetic joy, and equanimity. They are an important method for cultivating concentration and the basis of the Mahāyāna aspiration to awakening. They are also called the \"four divine abidings\" (brahmavihāra), because their fruit can be rebirth in the Brahma heavens.\n\n- Loving-kindness (mettā / maitrī): the wish that beings obtain happiness;\n- Compassion (karuṇā): the wish that beings be free from suffering;\n- Sympathetic joy (muditā): rejoicing when beings obtain happiness, counteracting envy;\n- Equanimity (upekṣā): being equal and without discrimination towards beings, free from liking and aversion.\n\nThe sense of \"immeasurable\" (apramāṇa) lies in the immeasurability of the object: the attitude is not directed at one particular being but extends to every direction and every being, and so the measure of the mind is unbounded. The order of the four is not accidental: loving-kindness and compassion have a definite orientation (giving happiness, removing suffering); sympathetic joy further counteracts displeasure at others' happiness; and equanimity prevents the first three from falling into partiality — without equanimity, loving-kindness may become favouritism and compassion may become indulgence.\n\nTheir place in the cultivation of concentration: the four immeasurable attitudes can be developed up to the level of the \"third dhyāna\" (sympathetic joy) and the \"fourth dhyāna\" (equanimity), and are one of the specialised objects of calm (śamatha) practice; in the Mahāyāna they are the preliminary to the aspiration to awakening — one first softens the character with the four immeasurable attitudes, and then generates the aspiration, \"for the benefit of all beings, may I attain Buddhahood.\"",
+  "sources_zh": [
+   "《中阿含经》〈说处经〉等",
+   "《大智度论》卷20",
+   "《俱舍论》卷29",
+   "《清净道论》第九〈说梵住品〉"
+  ],
+  "sources_en": [
+   "*Madhyama-āgama* (Zhong Ahan Jing), “Shuochu Jing,“ etc.",
+   "*Mahāprajñāpāramitā-śāstra* (Da Zhidu Lun), fascicle 20",
+   "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicle 29",
+   "*Visuddhimagga* (Qingjing Dao Lun), fascicle 9, “The Divine Abidings“"
+  ]
+ },
+ {
+  "id": "four_dhyanas",
+  "name_zh": "四禅八定",
+  "name_en": "The Four Dhyānas and Eight Concentrations",
+  "sa": "catvāri dhyānāni / aṣṭa samāpattayaḥ",
+  "zh_desc": "[[three_realms|色界]]四禅与无色界四定，合称四禅八定。是[[right_samadhi|正定]]中所述定的层次。\n\n色界四禅：\n- 初禅：离欲恶不善法，有寻有伺，离生喜乐；\n- 二禅：寻伺止息，内等净，定生喜乐；\n- 三禅：离喜，住舍，正念正知，身受乐（「离喜妙乐」）；\n- 四禅：舍念清净，不苦不乐受。\n\n无色界四定，依次以不同所缘而入（《俱舍论》卷28）；四者既是定，也是四无色天的生处：\n\n- **空无边处**——厌色想，缘**无边之空**；\n- **识无边处**——厌空之无边，缘**无边之识**；\n- **无所有处**——厌识之无边，缘**无所有**；\n- **非想非非想处**——**想非有非非有**，微细难觉，为三界之顶；寿命八万大劫，报尽仍堕，故非解脱（见《清净道论》第十〈说无色品〉）。\n\n论书对四禅的描述以「支」（禅支）为纲：初禅五支（寻、伺、喜、乐、心一境性），二禅四支（内等净、喜、乐、心一境性），三禅五支（舍、念、正知、乐、心一境性），四禅四支（舍、念清净、不苦不乐受、心一境性）。\n\n须注意两点：一是四禅八定并非佛教独有，外道亦可证得，故属「共法」；二是第四禅是佛教修观与发通的所依——佛成道与入涅槃皆在第四禅，因该禅中舍念清净、心最堪能。",
+  "en_desc": "The four dhyānas of the [[three_realms|form realm]] and the four concentrations of the formless realm, together called the four dhyānas and eight concentrations. These are the levels of concentration described under [[right_samadhi|right concentration]].\n\nThe four dhyānas of the form realm:\n- First dhyāna: secluded from sense-desires and unwholesome dharmas, with applied and sustained attention, with joy and happiness born of seclusion;\n- Second dhyāna: applied and sustained attention stilled, inner clarity, with joy and happiness born of concentration;\n- Third dhyāna: free of joy, dwelling in equanimity, with mindfulness and clear comprehension, experiencing happiness with the body (\"the marvellous happiness of freedom from joy\");\n- Fourth dhyāna: equanimity and purity of mindfulness, neither-painful-nor-pleasant feeling.\n\nThe four concentrations of the formless realm: the sphere of infinite space, the sphere of infinite consciousness, the sphere of nothingness, and the sphere of neither-perception-nor-non-perception.\n\nThe śāstras describe the four dhyānas with the \"factors\" (dhyāna-aṅga) as their framework: the first dhyāna has five factors (applied attention, sustained attention, joy, happiness, one-pointedness of mind); the second has four (inner clarity, joy, happiness, one-pointedness of mind); the third has five (equanimity, mindfulness, clear comprehension, happiness, one-pointedness of mind); the fourth has four (equanimity, purity of mindfulness, neither-painful-nor-pleasant feeling, one-pointedness of mind).\n\nTwo points call for attention: first, the four dhyānas and eight concentrations are not unique to Buddhism, and non-Buddhists can attain them too, so that they are a \"common practice\"; second, the fourth dhyāna is the support for Buddhist insight and for the development of supernormal powers — the Buddha's awakening and his entry into nirvāṇa both occurred in the fourth dhyāna, because in that dhyāna equanimity and mindfulness are purified and the mind is most capable.",
+  "sources_zh": [
+   "《长部》2《沙门果经》等",
+   "《俱舍论》卷28",
+   "《清净道论》"
+  ],
+  "sources_en": [
+   "*Dīgha Nikāya* 2, *Sāmaññaphala Sutta*, etc.",
+   "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicle 28",
+   "*Visuddhimagga* (Qingjing Dao Lun)"
+  ]
+ },
+ {
+  "id": "thirty_seven_bodhipakkhiya",
+  "name_zh": "三十七道品",
+  "name_en": "The Thirty-Seven Aids to Enlightenment",
+  "sa": "bodhipakṣika-dharma",
+  "zh_desc": "通向觉悟的三十七项修行条目，是早期佛教对「[[marga|道谛]]」最完整的展开。分为七组：\n\n1. **[[four_foundations|四念处]]**——观身、受、心、法；\n2. **四正勤**——已生恶令断、未生恶令不生、未生善令生、已生善令增长；\n3. **四如意足**（又称四神足）——**欲**（愿得定）、**勤**（精进策励）、**心**（专注一心）、**观**（以慧简择），四者皆为「成就定」的所依，故名如意足；\n4. **五根**——**信**（于三宝四谛生净信）、**进**（精进）、**念**（明记不忘）、**定**（心一境性）、**慧**（简择诸法）——五者能生善法，故名为根；\n5. **五力**——同上五者增长到不为烦恼所动；\n6. **七觉支**——**念**（明记所缘）、**择法**（以慧简择真伪）、**精进**、**喜**（得法而生喜）、**轻安**（身心调畅）、**定**、**舍**（心平等不偏），是见道位次第现起的觉支；\n7. **八正道**——见[[eightfold|八正道]]（正见、正思惟、正语、正业、正命、正精进、正念、正定），各支判准另见各支节点。\n\n这七组不是七套并列的法门，而是**同一修行过程的不同切面**：四念处是入手，四正勤是策励，四如意足是定力，五根五力是心力的成长与坚固，七觉支是接近见道时的觉照次第，八正道则是全程的总纲。论书因此把它们视为「道谛」的内容清单。\n\n其中「七觉支」的位置最能说明问题：它描述的是**见道前后心念的活动序列**（念→择法→精进→喜→轻安→定→舍），是修行从用力到放舍的转折，因此常被单独提出作为禅修的检核表。",
+  "en_desc": "The thirty-seven items of practice leading to awakening, the most complete unfolding of the \"[[marga|truth of the path]]\" in early Buddhism. They fall into seven groups:\n\n1. **[[four_foundations|The four establishments of mindfulness]]** — contemplation of body, feeling, mind, and dharmas;\n2. **The four right efforts** — to cause arisen evil to be cut off, to prevent unarisen evil from arising, to cause unarisen good to arise, to cause arisen good to increase;\n3. **The four bases of success** — desire, effort, mind, and investigation (the four bases for the accomplishment of concentration);\n4. **The five faculties** — faith, effort, mindfulness, concentration, and wisdom;\n5. **The five powers** — the same five grown to the point of being unmoved by defilements;\n6. **The seven factors of enlightenment** — mindfulness, investigation of dharmas, effort, joy, tranquillity, concentration, and equanimity (the sequence of enlightenment factors at the time of seeing the path);\n7. **The noble eightfold path** — from right view to right concentration.\n\nThese seven groups are not seven parallel methods but **different cross-sections of one and the same process of practice**: the four establishments of mindfulness are the point of entry, the four right efforts the incitement, the four bases of success the power of concentration, the five faculties and five powers the growth and firming of mental strength, the seven factors of enlightenment the sequence of awakening-awareness as one approaches the seeing of the path, and the noble eightfold path the general outline of the whole. The śāstras therefore regard them as the inventory of the content of the \"truth of the path.\"\n\nAmong them the position of the \"seven factors of enlightenment\" is the most telling: it describes the **sequence of mental activity before and after the seeing of the path** (mindfulness → investigation of dharmas → effort → joy → tranquillity → concentration → equanimity), the turning point of practice from exertion to letting go, and is therefore often singled out as a checklist for meditation.",
+  "sources_zh": [
+   "《杂阿含经》卷26—27 等",
+   "《大念处经》（《长部》22）",
+   "《俱舍论》卷25〈分别贤圣品〉",
+   "《俱舍论》卷25〈分别贤圣品〉"
+  ],
+  "sources_en": [
+   "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 26–27, etc.",
+   "*Mahāsatipaṭṭhāna Sutta* (*Dīgha Nikāya* 22)",
+   "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicle 25, “The Noble Ones“ chapter (Fenbie Xiansheng Pin)",
+   "*Abhidharmakośa-bhāṣya*, fascicle 25, “Exposition of the Holy Ones”"
+  ]
+ },
+ {
+  "id": "sravaka_fruits",
+  "name_zh": "声闻四果",
+  "name_en": "The Four Fruits of the Hearers",
+  "sa": "cattāri phalāni",
+  "zh_desc": "声闻修行的四个果位，各有「向」（趋向此果的修行位）与「果」（已证之位），合为「四向四果」：\n\n- **须陀洹**（入流）——断三结（身见、戒禁取、疑），最多七返人天而解脱；\n- **斯陀含**（一来）——三结断，贪瞋痴薄，再返[[three_realms|欲界]]一次；\n- **阿那含**（不来）——断**五下分结**（身见、戒禁取、疑、欲贪、瞋），不再还生欲界，于色界般[[nirvana|涅槃]]；\n- **阿罗汉**（应供、无生）——断五上分结（色贪、无色贪、慢、掉举、无明），「我生已尽，梵行已立，所作已办，不受后有」。\n\n**结构上值得注意的两点**\n\n1. **见道与修道的分界**——初果是「见道」（见四谛理，顿断见惑），后三果是「修道」（渐断修惑）。这一分界被所有部派与后来的大乘地论沿用：**顿悟与渐修的关系问题，最初就是在四果的框架里被提出的**。\n2. **断结的次第是有内容的**——不是抽象的阶段名，而是具体烦恼的断除清单（三结、五下分结、五上分结）。因此四果是「可验证的修行里程碑」，而非纯信仰的等级。\n\n大乘对此的判摄有二：唯识以四果为「小乘」的究竟位而实有其人；天台、华严则以此为大乘道中的化城（《法华经》「化城喻」），是方便安立的休息处。",
+  "en_desc": "The four fruitions of the hearer's practice, each having a \"path\" (the stage of practice tending towards that fruit) and a \"fruit\" (the stage already realised), together forming the \"four paths and four fruits\":\n\n- **Sotāpanna** (stream-entry) — cuts off the three fetters (personality view, clinging to rules and vows, doubt), and at most returns seven times among gods and humans before attaining liberation;\n- **Sakadāgāmin** (once-returner) — the three fetters are cut off and greed, hatred, and delusion are attenuated; returns once more to the [[three_realms|the realm of desire]];\n- **Anāgāmin** (non-returner) — cuts off the five lower fetters, is no longer reborn in the realm of desire, and attains [[nirvana|nirvāṇa]] in the form realm;\n- **Arhat** (worthy of offerings, without birth) — cuts off the five higher fetters (greed for the form realm, greed for the formless realm, conceit, restlessness, ignorance): \"birth is exhausted, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being.\"\n\n**Two structural points deserve attention**\n\n1. **The dividing line between the path of seeing and the path of cultivation** — the first fruit is the \"path of seeing\" (seeing the truth of the four noble truths and cutting off the defilements of view at once), and the last three fruits are the \"path of cultivation\" (gradually cutting off the defilements of cultivation). This division was retained by all the schools and by the later Mahāyāna theories of the stages: **the question of the relation between sudden awakening and gradual cultivation was first raised within the framework of the four fruits**.\n2. **The sequence of fetters cut off has content** — it is not a set of abstract stage names but a concrete inventory of the defilements cut off (the three fetters, the five lower fetters, the five higher fetters). The four fruits are therefore \"verifiable milestones of practice,\" not purely a hierarchy of belief.\n\nThe Mahāyāna assessed them in two ways: the Yogācāra (consciousness-only) school took the four fruits as the ultimate stage of the \"Hīnayāna\" and held that such persons really exist; the Tiantai and Huayan schools took them as a conjured city within the Mahāyāna path (the \"conjured city\" parable of the *Lotus Sūtra*), a resting place established as an expedient means.",
+  "sources_zh": [
+   "《杂阿含经》卷29 等",
+   "《俱舍论》卷23—25〈分别贤圣品〉",
+   "《清净道论》"
+  ],
+  "sources_en": [
+   "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 29, etc.",
+   "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicle 23–25, “The Noble Ones“ chapter (Fenbie Xiansheng Pin)",
+   "*Visuddhimagga* (Qingjing Dao Lun)"
+  ]
+ },
+ {
+  "id": "vinaya_rites",
+  "name_zh": "布萨 · 安居 · 羯磨",
+  "name_en": "Uposatha, the Rains Retreat, and Karma",
+  "sa": "uposatha · varṣā · karma",
+  "zh_desc": "[[precepts|戒律]]在僧团中的实际运作方式，是「[[sila|戒学]]」的第三层——戒条（戒相）、戒体（受戒所得）、**僧事（如何共同生活与决断）**。\n\n- **布萨（uposatha）**——每半月（十四或十五日）集会，诵波罗提木叉（戒本），比丘各自发露忏悔。这是僧团的定期自清机制，也是戒条得以被共同记忆与执行的方式；\n- **安居（varṣā）**——雨季三月（汉地四月十五至七月十五）不游方，聚居修道，避免踩踏草木虫蚁、避免因行脚而失仪；安居结束时有**自恣**，请众僧举发自己的过失；\n- **羯磨（karma）**——僧团的议事与决断程序，包括**单白**（一白即决，用于常规事务）、**白二**（一白一羯磨，用于受戒等中等事务）、**白四**（一白三羯磨，用于最重事务，如授具足戒、治罚、灭诤）三种形式，用于受戒、忏悔、分配房舍、处理诤事等一切僧事。**凡羯磨皆须具足「清净僧」与法定人数，程序不合则事不成**。\n\n这一层的意义在于它说明：佛教的戒律不是个人伦理清单，而是一套**共同体制度**——可执行、可追溯、可修复。上座部与说一切有部的律藏对这三种行仪的程序记载最完整；汉传律宗所依《四分律》属昙无德部系统。",
+  "en_desc": "The actual operation of [[precepts|the precepts]] within the monastic community — the third level of the \"[[sila|training in ethics]]\": the precepts themselves (their marks), the essence of the precepts (obtained at ordination), and **monastic affairs (how to live and decide together)**.\n\n- **Uposatha** — assembly every half month (on the fourteenth or fifteenth day) to recite the Prātimokṣa (the precepts), each monk confessing his own offences. This is the community's regular mechanism of self-purification, and the means by which the precepts are remembered and enforced in common;\n- **The rains retreat** (varṣā) — during the three months of the rainy season (in China, from the fifteenth of the fourth month to the fifteenth of the seventh month) one does not wander, but dwells in one place for practice, avoiding the trampling of plants, insects, and ants and avoiding breaches of decorum through travelling; the retreat ends with the **Pravāraṇā**, at which the monks are invited to point out one another's faults;\n- **Karma** — the procedure by which the community deliberates and decides, in three forms: the single motion, the motion with one resolution, and the motion with three resolutions (one announcement up to three announcements plus a vote), used for ordination, confession, the assignment of lodgings, the settlement of disputes, and every other monastic affair. **Every karma requires a \"pure community\" and a quorum; if the procedure is not in order, the matter does not stand.**\n\nThe significance of this level is that it shows the Buddhist precepts to be not a list of individual ethics but a set of **communal institutions** — enforceable, traceable, and repairable. The Vinaya collections of the Theravāda and the Sarvāstivāda preserve the most complete records of the procedures of these three observances; the *Dharmaguptaka Vinaya*, on which the Chinese Vinaya school relies, belongs to the Dharmaguptaka system.",
+  "sources_zh": [
+   "《四分律》〈布萨揵度〉〈安居揵度〉〈自恣揵度〉〈羯磨揵度〉",
+   "《根本说一切有部毗奈耶》（义净译）",
+   "《萨婆多毗尼毗婆沙》"
+  ],
+  "sources_en": [
+   "*Dharmaguptaka Vinaya* (Sifen lü), the Uposatha, Rains Retreat, Pravāraṇā, and Karma Skandhakas",
+   "*Mūlasarvāstivāda Vinaya* (Genben Shuo Yiqieyou Bu Pinaiye), trans. Yijing",
+   "*Sarvāstivāda-vinaya-vibhāṣā* (Sapoduo Pini Piposha)"
+  ]
+ },
+ {
+  "id": "link_clinging",
+  "name_zh": "取",
+  "name_en": "Clinging",
+  "sa": "upādāna",
+  "zh_desc": "欲取、见取、戒禁取、我语取四种，是「爱」的强化与固化。\n\n- 欲取：对五欲的执取，是爱在感官层面的固化；\n- 见取：对各种见解、理论的执取，认为「唯有此是真实，余者皆虚妄」；\n- 戒禁取：把无益的苦行、戒条或禁忌当作解脱之因，如执牛戒、狗戒等；\n- 我语取：执取有关「我」的各种说法，是四取中最根本的一种。**与见取的界限**：见取执「某见为最胜」，其对象是见解；我语取执「有一个我」，其对象是「我」的安立——前者虽亦可涉及我见，但落在「谁的说法最胜」，后者落在「我是什么」。\n\n四取的分类意义在于：它把[[samsara|轮回]]的执取从欲望扩展到理论与自我认同——博学与苦行同样可能成为轮回的系缚。",
+  "en_desc": "The four kinds of clinging — clinging to sense desire, clinging to views, clinging to rules and vows, and clinging to the doctrine of self — are the intensification and hardening of “craving.”\n\n- Clinging to sense desire: grasping at the five strands of sense desire, the hardening of craving at the sensory level;\n- Clinging to views: grasping at various opinions and theories, holding that “only this is true and all else is false”;\n- Clinging to rules and vows: taking useless austerities, precepts, or taboos as the cause of liberation, such as clinging to the cow vow or the dog vow;\n- Clinging to the doctrine of self: grasping at the various statements concerning “self,” the most fundamental of the four clingings.\n\nThe classificatory significance of the four clingings is that they extend the clinging of [[samsara|saṃsāra]] from desire to theory and self-identification — erudition and austerity can equally become the bonds of saṃsāra.",
+  "sources_zh": [
+   "《杂阿含经》卷12",
+   "《俱舍论》卷19、《大毗婆沙论》"
+  ],
+  "sources_en": [
+   "*Saṃyukta-āgama* (Za Ahan Jing), fascicle 12",
+   "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicle 19; *Abhidharma-mahāvibhāṣā* (Da Piposha Lun)"
+  ]
+ }
+]

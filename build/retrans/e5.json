@@ -1,0 +1,76 @@
+[
+ {
+  "id": "buddha_name",
+  "name_zh": "持名念佛",
+  "name_en": "Recitation of the Buddha's Name",
+  "sa": "—",
+  "zh_desc": "[[pureland|净土宗]]行门：执持名号，一心不乱。\n\n念佛的形式有四：**实相念佛**（观真如法身）、**观想念佛**（于心中作想佛像与净土庄严）、**观像念佛**（对已塑已画的佛像而观）、**持名念佛**（称念名号）。观想与观像之别在**所对**：一为心中所现之相，一为眼前实物之像。净土宗（尤其善导一系）取持名一门，因其「三根普被」——不论智愚皆可行。\n\n「一心不乱」的两个读法：「一心」可解为「专注无散」（事一心）与「与[[suchness|真如]]相应」（理一心）。善导一系侧重前者，宋以后天台、禅门注家则兼取后者，这是净土内部解释差异的主要所在。",
+  "en_desc": "The practice of the [[pureland|Pure Land]] school: holding fast to the name, with single-mindedness undistracted.\n\nThere are four forms of Buddha-recitation: recitation of true reality, contemplative recitation, recitation before an image, and recitation of the name. The Pure Land school (especially the line of Shandao) adopts the single gate of recitation of the name, because it “covers all three capacities” — it can be practised by the wise and the dull alike.\n\nThere are two readings of “single-mindedness undistracted”: “single mind” can be understood as “concentration without distraction” (single mind in the phenomenal sense) and as “accord with [[suchness|suchness]]” (single mind in the principle sense). The line of Shandao emphasises the former, while Tiantai and Chan commentators after the Song adopted both, and this is the main point of divergence in interpretation within the Pure Land tradition.",
+  "sources_zh": [
+   "《阿弥陀经》",
+   "《观无量寿经》",
+   "善导《观经四帖疏》"
+  ],
+  "sources_en": [
+   "*Amitābha Sūtra* (Amituo Jing)",
+   "*Amitāyurdhyāna-sūtra* (Guan Wuliangshou Jing)",
+   "Shandao, *Guanjing Sitie Shu* (Four-Part Commentary on the Contemplation Sūtra)"
+  ]
+ },
+ {
+  "id": "pure_land",
+  "name_zh": "极乐世界",
+  "name_en": "Sukhāvatī (The Land of Bliss)",
+  "sa": "Sukhāvatī",
+  "zh_desc": "阿弥陀佛愿力所成净土，往生者不退成佛。「极乐」（Sukhāvatī）意为「有乐」，经中描述其国众生无有众苦、但受诸乐，且「无有众苦」的核心在于「不退转」——往生者不再退堕。\n\n极乐世界的性质在宗派间有不同理解：\n- [[pureland|净土宗]]（善导）判为「报土」，凡夫依[[two_paths_two_powers|他力]]可入；\n- 唯识与部分天台注家判为「化土」，为应机示现；\n- 天台另有「四土」说（**凡圣同居土**——凡夫与圣者杂居，如娑婆与极乐；**方便有余土**——声闻缘觉所居，已断见思惑而未断无明；**实报无障碍土**——法身菩萨所居，分证中道；**常寂光土**——唯佛所居，即法身理体），把极乐判为凡圣同居土等。\n\n这些差异不影响净土宗的实践核心（信愿持名），但影响对「往生」性质的解释——是生于实报庄严的实土，还是入于应化的权土。",
+  "en_desc": "The pure land brought about by the power of Amitābha Buddha's vows, where those reborn do not fall back and attain Buddhahood. “Sukhāvatī” means “possessing bliss”; the sūtras describe the sentient beings of that land as having none of the many sufferings but experiencing only various pleasures, and the core of “having none of the many sufferings” lies in “non-retrogression” — those reborn no longer fall back.\n\nThe nature of Sukhāvatī is understood differently among the schools:\n- The [[pureland|Pure Land]] school (Shandao) judges it a “reward land,” which ordinary beings can enter by [[two_paths_two_powers|other-power]];\n- Yogācāra and some Tiantai commentators judge it a “transformation land,” manifested in response to capacities;\n- Tiantai has in addition the doctrine of the “four lands” (the land of co-residence of ordinary beings and sages, the land of expedient remainder, the land of true reward without obstruction, and the land of eternal quiescent light), and judges Sukhāvatī to be, for instance, the land of co-residence of ordinary beings and sages.\n\nThese differences do not affect the practical core of the Pure Land school (faith, vows, and recitation of the name), but they do affect the explanation of the nature of “rebirth” — whether one is born into a real land adorned by true reward or enters a provisional land of responsive transformation.",
+  "sources_zh": [
+   "《无量寿经》",
+   "《阿弥陀经》",
+   "智顗《观无量寿佛经疏》"
+  ],
+  "sources_en": [
+   "*Sūtra of Immeasurable Life* (Wuliangshou Jing)",
+   "*Amitābha Sūtra* (Amituo Jing)",
+   "Zhiyi, *Guan Wuliangshou Fo Jing Shu* (Commentary on the Contemplation Sūtra)"
+  ]
+ },
+ {
+  "id": "four_tantra_classes",
+  "name_zh": "四部密续",
+  "name_en": "The Four Classes of Tantra",
+  "sa": "—",
+  "zh_desc": "密续（tantra）按修行方式与目标所分的四类：\n\n- **事部**——以外在的洁净、供养、诵咒为主，本尊如客；\n- **行部**——外事与内瑜伽（观想、三摩地）均等；\n- **瑜伽部**——重内三摩地与观想，本尊如友；\n- **无上瑜伽部**——最高层次，本尊即自身（[[sokushin_jobutsu|即身成佛]]），在藏传中又有父续、母续、无二续之分——其判准在**所示之重点**：父续重「方便」（如幻身、大乐之方便分），母续重「智慧」（如空性之证悟分），无二续则方便与智慧不二（如时轮一类）。\n\n分类的意义在于确定**修行的次第与[[precepts|戒律]]**：四部各有不同的灌顶、三昧耶戒、坛城与仪轨，且上部的修法必须依下部的戒行基础。因此「四部」不只是难易排序，而是一套完整的修学制度。\n\n传入汉藏的情况很不同：**汉传（唐密）**以《大日经》（胎藏界）与《金刚顶经》（金刚界）为主，大体属瑜伽部及以下；**藏传**则四部具足，且以无上瑜伽部为重——这一差别使汉传密宗与藏传密宗的教义重心与实际修法都相当不同。",
+  "en_desc": "The four classes into which the tantras are divided according to their mode of practice and their aim:\n\n- **Kriya-tantra** - chiefly external purification, offering and recitation of mantras, with the deity as a guest;\n- **Carya-tantra** - external acts and [[southern_tradition|inner contemplation]] in equal measure;\n- **Yoga-tantra** - stresses inner samadhi and visualisation, with the deity as a friend;\n- **Anuttarayoga-tantra** - the highest level, in which the deity is oneself ([[sokushin_jobutsu|attaining Buddhahood in this very body]]); in Tibetan Buddhism it is further divided into father tantras, mother tantras and non-dual tantras.\n\nThe point of the classification is to determine **the stages of practice and the precepts**: each of the four classes has its own initiations, samaya precepts, mandalas and rituals, and practice in a higher class must rest on the ethical basis of the lower. The 'four classes' are therefore not merely a ranking by difficulty but a complete system of training.\n\nTheir transmission to China and Tibet differed greatly: **the Chinese transmission (Tang esoteric Buddhism)** relies chiefly on the *Mahavairocana-abhisambodhi-tantra* (garbhadhatu) and the *Vajrasekhara-tantra* (vajradhatu) and belongs largely to the yoga class and below; **the Tibetan transmission** possesses all four classes and gives weight to anuttarayoga - a difference that makes the doctrinal emphases and actual practices of Chinese and Tibetan esoteric Buddhism quite distinct.",
+  "sources_zh": [
+   "《大日经》（善无畏译）",
+   "《金刚顶经》（金刚智译）",
+   "宗喀巴《密宗道次第广论》"
+  ],
+  "sources_en": [
+   "*Mahavairocana-abhisambodhi-tantra* (trans. Śubhakarasiṃha)",
+   "*Vajrasekhara-tantra* (trans. Vajrabodhi)",
+   "Tsongkhapa, *Great Treatise on the Stages of the Mantra Path* (Ngakrim Chenmo)"
+  ]
+ },
+ {
+  "id": "debate_pudgala",
+  "name_zh": "论诤：无我，谁受报",
+  "name_en": "Dispute: If There Is No Self, Who Receives the Fruit?",
+  "sa": "pudgala-vāda",
+  "zh_desc": "**议题**　若[[anatta|无我]]，则作业者与受报者是谁？业力又如何从这一生转到下一生？\n\n**甲说：犊子部**——立「不可说的补特伽罗」（pudgala）：它既不是[[five_aggregates|五蕴]]，也不离五蕴，故不可说为「即蕴」或「离蕴」；它是实有的，正因如此，「谁造业、谁受报、谁解脱」才能成立。\n\n**乙说：说一切有部**——补特伽罗只是假名，实有者是五蕴及「**无表色**」（由身语业所生、不可见而相续存在的色法，见[[rupa|色法]]）所摄的业力相续——即以「业的相续」替代「我」说明谁受报。犊子部的说法被斥为「附佛法外道」：既承认实有，则与「诸法无我」相违。\n\n**丙说：经量部**——不需要任何实体，靠「种子相续」即能说明业力传递：业力是心相续上的功能差别。\n\n**丁说：唯识**——以阿赖耶识「持种受熏」，恒转如暴流，非常非断来承担这一功能。\n\n**戊说：中观**——问题本身可以拆解：若「我」是实体，「谁受报」才有意义；正因无实体，「受报」才可能。业与果之间是缘起关联，而非所有权关系。\n\n**佛教内部的共识**在于问题的转向：把「谁」（实体归属）替换为「如何」（因果关联）。各家分歧在于**这个「如何」需要多厚的实体假设**——从假名到种子到第八识，厚度递增。",
+  "en_desc": "**The question** If there is [[anatta|non-self]], who is it that acts and who is it that receives the fruit? And how does karma pass from this life to the next?\n\n**Position A: the Vātsīputrīya** — they posit an “inexpressible pudgala”: it is neither [[five_aggregates|the five aggregates]] nor apart from the five aggregates, and so it cannot be said to be “identical with the aggregates” or “apart from the aggregates”; it is real, and precisely for that reason “who acts, who receives the fruit, who is liberated” can be established.\n\n**Position B: the Sarvāstivāda** — the pudgala is only a provisional designation; what is real is the five aggregates together with the continuity of karma comprised in “unmanifest form.” The Vātsīputrīya position is censured as “a heterodox sect attached to the Buddha's Dharma”: once a real existent is admitted, it contradicts “all dharmas are without self.”\n\n**Position C: the Sautrāntika** — no entity is needed at all; the “continuity of seeds” suffices to explain the transmission of karma: karma is a functional distinction upon the continuity of mind.\n\n**Position D: Yogācāra** — the ālaya-consciousness “holds the seeds and receives the perfuming,” forever turning like a torrent, neither permanent nor annihilated, and takes on this function.\n\n**Position E: Madhyamaka** — the question itself can be dismantled: only if the “self” were an entity would “who receives the fruit” be meaningful; precisely because there is no entity, “receiving the fruit” is possible. Between karma and its fruit there is a relation of dependent origination, not one of ownership.\n\n**The consensus within Buddhism** lies in the shift of the question: “who” (the ascription of an entity) is replaced by “how” (the causal connection). The schools differ over **how thick an assumption of entity this “how” requires** — from provisional designation to seeds to the eighth consciousness, the thickness increases.",
+  "sources_zh": [
+   "《异部宗轮论》",
+   "《俱舍论》卷29〈破执我品〉",
+   "《成唯识论》卷1",
+   "《中论》卷2〈观作作者品〉等"
+  ],
+  "sources_en": [
+   "*Samayabhedoparacanacakra*",
+   "*Abhidharmakośa-bhāṣya*, fascicle 29, “The Chapter Refuting the View of Self”",
+   "*Cheng Weishi Lun* (Discourse on the Perfection of Consciousness-only), fascicle 1",
+   "*Mūlamadhyamakakārikā*, fascicle 2, “Examination of the Author and the Act,” and elsewhere"
+  ]
+ }
+]

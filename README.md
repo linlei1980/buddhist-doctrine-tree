@@ -2,15 +2,15 @@
 
 **English** · [中文](#中文)　·　[Jump to English](#english)
 
-一份把佛教基础理论组织为十二层结构的单页参考：235 个概念、868 条带类型的关系、567 条文献出处引证，每个概念附释义、分栏年代与出处原文；中英双语，可离线使用。
+一份把佛教基础理论组织为十二层结构的单页参考：235 个概念、868 条带类型的关系、576 条文献出处引证，每个概念附释义、分栏年代与出处原文；中英双语，可离线使用。
 
-*A single-page reference in twelve layers — 235 concepts, 868 typed relations, 567 cited passages — bilingual, self-contained, works offline.*
+*A single-page reference in twelve layers — 235 concepts, 868 typed relations, 576 cited passages — bilingual, self-contained, works offline.*
 
 ---
 
 ## English
 
-A single-page reference that organises the foundational doctrines of Buddhism into **twelve layers**: 235 concepts, 868 typed relations between them, and 567 cited passages, each concept carrying a definition, the source it rests on, and dated textual layers.
+A single-page reference that organises the foundational doctrines of Buddhism into **twelve layers**: 235 concepts, 868 typed relations between them, and 576 cited passages, each concept carrying a definition, the source it rests on, and dated textual layers.
 
 **Read online (no download)**: <https://linlei1980.github.io/buddhist-doctrine-tree/en.html>
 **Chinese edition**: <https://linlei1980.github.io/buddhist-doctrine-tree/>　·　a language switch sits at the top right of both pages
@@ -49,7 +49,7 @@ Search covers names, Indic terms, the body of the definitions, and the titles of
 |---|---|
 | Concepts | 235 (51 of them text entries, generated automatically) |
 | Typed relations | 868 in ten types, about 75 % of them crossing layers |
-| Cited passages | 567, given down to fascicle, chapter or sutta number, with the quotation |
+| Cited passages | 576, given down to fascicle, chapter or sutta number, with the quotation |
 | Outline depth | 12 layers |
 | Timeline | 9 periods, from about the 6th century BCE to the modern period |
 | Categories | Four Noble Truths · three seals · origination and karma · Nikāyas and Abhidharma · Buddhist logic · two truths and three natures · non-self · tathāgatagarbha · doctrinal classification and schools · practice · contested questions · scriptural texts · textual layers and transmission |
@@ -156,7 +156,7 @@ If you modify or cut the material, please note that you have done so. If you wou
 
 [English](#english) · **中文**
 
-一份把佛教基础理论组织为**十二层结构**的单页参考：235 个概念，868 条带类型的概念关系，567 条文献出处引证，每个概念都标注释义、出处原文与分栏年代。
+一份把佛教基础理论组织为**十二层结构**的单页参考：235 个概念，868 条带类型的概念关系，576 条文献出处引证，每个概念都标注释义、出处原文与分栏年代。
 
 **在线查看（无需下载）**：<https://linlei1980.github.io/buddhist-doctrine-tree/>
 **英文版**：<https://linlei1980.github.io/buddhist-doctrine-tree/en.html>　·　两页右上角均可切换语言
@@ -195,7 +195,7 @@ If you modify or cut the material, please note that you have done so. If you wou
 |---|---|
 | 概念 | 235（其中 51 个为自动生成的文献节点） |
 | 概念关系 | 868，规范为 10 类，约 75% 为跨层关系 |
-| 出处引证 | 567 条，标至卷 / 品 / 经号并附原文 |
+| 出处引证 | 576 条，标至卷 / 品 / 经号并附原文 |
 | 目录层级 | 12 层 |
 | 年表时段 | 9 段（约前 6 世纪 — 近现代） |
 | 分类 | 四圣谛 · 三法印 · 缘起业果 · 部派阿毗达磨 · 因明量论 · 二谛三性 · 无我 · 如来藏 · 判教宗派 · 修行实践 · 论诤 · 经律论文献 · 历史传播 |
@@ -263,7 +263,7 @@ python3 build/i18n_build.py     # 只重建英文译文数据（改动译文后�
 
 - **年代**：所有年代均为约数或区间。佛陀生卒年有南传（前 624—前 544）、汉传（前 565—前 486）、现代学界（约前 480—前 400）三说，本页统一自「约前 5 世纪」起算，不取一说。
 - **立场**：本页不作教义评判，仅收录理论结构、释义、文献出处与年代。宗派之间对部分概念（如来藏、二谛、无为法、戒体等）的解释互有出入，页内于相应节点标明分歧所在，并另设「论诤」类节点专门记录，读者可据此自行参校。
-- **层积**：内容按早期层、发展层、民间层、近世层、元层积标注。「历史 · 传播」一层所收汉译史、藏译史、南传史与学界讨论，性质属文献的流传与研究，不宜与前十一层的教义内容混同看待。
+- **层积**：内容按早期层、发展层、民间层、元层积标注（近现代的研究方法与实践形态归入元层积）。「历史 · 传播」一层所收汉译史、藏译史、南传史与学界讨论，性质属文献的流传与研究，不宜与前十一层的教义内容混同看待。
 - **文献节点**：被 3 个以上节点引用的文献各建一个节点，只交代其性质、引用规模与引用它的节点，**不标注该文献自身的年代**——同一部经的思想源头与文本定型常相差数百年，此类判断由讨论该文献的节点给出。
 
 欢迎指正错误。若发现释义有误、出处引文与原文不符、或年代标注失当，请开 [Issue](../../issues) 或提交 Pull Request。

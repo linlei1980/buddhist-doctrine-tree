@@ -1,0 +1,228 @@
+[
+ {
+  "id": "buddha_life",
+  "name_zh": "佛陀其人与其时代",
+  "name_en": "The Buddha: his life and times",
+  "sa": "the Buddha · his life and times",
+  "zh_desc": "本页其余各节点都从「教说」讲起，此条交代**说法的这个人**与他说法的处境——缺了它，读者无从判断「[[dependent_origination|缘起]]」在反对什么。\n\n**其人**　释迦牟尼（Śākyamuni），姓乔达摩（Gautama）、名悉达多（Siddhārtha），出身今尼泊尔南部与印度北方邦交界处的释迦族。早期经典所记极为节制：出生于贵族家庭，二十九岁（一说二十九至三十岁间）离城出家，三十五岁于菩提伽耶证悟，此后四五十年在摩揭陀、憍萨罗等国游化，八十岁于拘尸那揭罗入灭。**「[[reading_a_sutra|如是我闻]]，一时佛在……」这类套语几乎不提供生平细节**——关于他的传记（乘象入胎、四门出游、六年苦行）多成于后世，其中文学与象征的成分远超史料，故本页把「传记」与「教说」分开看待。\n\n**年代**　佛陀生卒年有三说并存：南传（前624—前544）、汉传（前565—前486）、现代学界（约前480—前400）。本页统一从「约前5世纪」起算，不取一说；三说相差百年，而这百年正是判断「阿含中哪些内容属最早层」的关键区间。\n\n**当时的印度**　佛陀与**六师外道**（不兰迦叶、末伽梨拘舍梨、删阇夜毗罗胝、阿耆多翅舍钦婆罗、迦罗鸠驮迦旃延、尼乾陀若提子）同时代，思想界有两个主流：\n\n- **婆罗门传统的祭祀与梵我一如**——以吠陀权威、祭仪、种姓为秩序，主张有一个恒常的「我」（ātman）与「梵」（brahman）同一；\n- **沙门思潮的否定与苦行**——耆那教、顺世论，以及不信因果、不信布施、不信他世的「邪见」诸师。\n\n佛教的位置在两者之间：反对祭祀权威与种姓的绝对性（「不依种姓，依行为」），反对有恒常之我（[[anatta|无我]]），却肯定善恶业与轮回的实在——这正是它被婆罗门视为异端、又被「邪见」诸师视为有神论的原因。[[dependent_origination|缘起]]与[[five_aggregates|五蕴]]的成立，须放在这两个对手的背景下才读得出来：前者替代「梵」作为世界与解脱的说明原理，后者替代「我」作为经验的分析单位。\n\n**为什么单列此条**　入门读者最常见的两个困惑——「这些真是佛说的吗」与「佛到底说了什么、没说什么」——都需要先有时、地、人的坐标。**区分判准**（本页所用，非学界定论）：**属早期记载**——见于巴利尼柯耶与汉译四阿含、且以「如是我闻，一时佛在……」的说法定型句系于具体说法背景者；**属后世传记**——仅见于佛传类文献与注疏，而不见于两传阿含者（如乘象入胎、四门出游、六年苦行的细节）；**仍无定论**——如佛陀生卒年、部分神变记载的历史性。此判准亦可谓：**判断的是「见于哪一类文献」，而非「是否可信」**。\n\n本页不做考据，只把「哪些属早期记载、哪些属后世传记、哪些学界仍无定论」区分开。",
+  "en_desc": "Every other node on this page begins from the teaching. This one sets out **who taught it** and into what situation — without which the reader cannot tell what [[dependent_origination|dependent origination]] was arguing against.\n\n**The person** Sakyamuni, of the Gautama clan, given name Siddhartha, born among the Sakya people of what is now southern Nepal and the border of Uttar Pradesh. The early scriptures record very little: birth into a noble family, departure from home at twenty-nine (or between twenty-nine and thirty), awakening at Bodh Gaya at thirty-five, then forty or fifty years of wandering and teaching in Magadha and Kosala, and death at Kusinagara at eighty. **Stock formulas such as “Thus have I heard, at one time the Buddha was staying at…” carry almost no biographical detail** — the familiar life story (the white elephant, the four excursions, six years of austerities) took shape much later, with far more literary and symbolic content than historical. This page therefore keeps “biography” and “teaching” apart.\n\n**Dates** Three chronologies stand side by side: the Southern tradition (624–544 BCE), the Chinese tradition (565–486 BCE), and modern scholarship (c. 480–400 BCE). This page counts from “c. 5th century BCE” without adopting any one of them; the three differ by a century, and that century is exactly the range within which judgements about the earliest strata of the Agamas have to be made.\n\n**India at the time** The Buddha was contemporary with the **six teachers** (satthus), and two currents dominated. \n\n- **Brahmanical sacrifice and the identity of atman and brahman** — Vedic authority, ritual and caste as the order of things, with a permanent self (atman) identical with brahman;\n- **The sramana current of denial and asceticism** — the Jains, the materialists, and teachers who held that there is no fruit of giving, no other world, and no efficacy in karma.\n\nBuddhism stands between them: against the absoluteness of sacrificial authority and caste (“not by birth, but by action”), and against a permanent self ([[anatta|non-self]]), while affirming the reality of good and bad karma and of rebirth. That is why the Brahmins counted it heterodox and the “wrong-view” teachers counted it theistic. [[dependent_origination|Dependent origination]] and the [[five_aggregates|five aggregates]] only read clearly against these two opponents: the first replaces brahman as the principle explaining the world and liberation, the second replaces atman as the unit of analysis.\n\n**Why this stands on its own** The two questions beginners ask first — “did the Buddha really say this?” and “what did he actually teach, and what did he not?” — both need a coordinate of time, place and person before they can be answered. This page does no source criticism; it only separates what the early record contains, what later biography added, and what scholarship still leaves open.",
+  "sources_zh": [
+   "《岛史》《大史》",
+   "《长部》1《梵网经》等",
+   "《杂阿含经》卷10 第262经 等",
+   "《高僧传》《开元释教录》"
+  ],
+  "sources_en": [
+   "*Dīpavaṃsa* and *Mahāvaṃsa*",
+   "*Digha Nikaya* 1, *Brahmajala Sutta*, and others",
+   "*Samyukta-agama*, fascicle 10, sutra 262, and others",
+   "*Gaoseng Zhuan*; *Kaiyuan Shijiao Lu*"
+  ]
+ },
+ {
+  "id": "reading_a_sutra",
+  "name_zh": "怎么读一部经",
+  "name_en": "How to read a scripture",
+  "sa": "how to read a scripture",
+  "zh_desc": "索引能告诉你一个概念站在哪里，不能替你读经。此条只交代**进门要认得的几件事**，使读者能自己打开一部经而不被体例挡住。\n\n**一、看开头**　「如是我闻，一时，佛在……，与大比丘众……俱」是多数经的定式开头：「如是」指所传内容，「我闻」标明这是[[councils|结集]]时阿难所传的传信语，「一时」是不记具体年代的习惯（印度史官传统薄弱，故佛经不系年），「佛在……与大比丘众俱」标出说法处与听众——**听众构成往往暗示教说的性质**：对出家众说[[three_trainings|戒定慧]]，对在家众说布施持戒生天，对菩萨众说六度（布施、持戒、忍辱、精进、禅定、般若）与如来藏。\n\n**二、看段落**　汉传科判通行三分：**序分**（说法缘由：谁问、何因。序分又分「通序」与「别序」：**通序即六成就**——信、闻、时、主、处、众六事具足，诸经共通；**别序**则是此经特有的发起因缘）、**正宗分**（主体教说）、**流通分**（嘱累与传持）。读一部不熟的长经，先找这三段，主体内容多在中段。科判各家不同（天台、华严各有分法），但三分骨架是共通的。\n\n**三、先确认手上是哪一个译本**　同一部经常有多译，差异不小：\n\n- 《法华经》有鸠摩罗什译本（通行）与竺法护等异译；罗什译本文字流畅，是此后一切注疏的底本；\n- 《大般涅槃经》有北凉 昙无谶译的前分与后出的《后分》，**一阐提成佛的问题正因前后分不同而立**（见[[icchantika|一阐提]]）；\n- 论亦如此：《俱舍论》有真谛旧译与玄奘新译，名相用字不同，读注疏时须对上是哪一系。\n\n**四、看它属于哪一藏**　经（佛说，含后世结集）、律（僧团行仪与戒条）、论（论师对经的整理与辩论）三者体例不同：经重应机与次第，论重定义与论证。**读论不能当经读**——论书先立名相再给定义，以问答逼出界定（见[[abhidharma|阿毗达磨]]），若照经的读法找「佛说了什么」，会读不进去。\n\n**五、先读导读，再读原文**　本页与多数工具书能提供位置与背景，但**经文的读法须依师承或可靠注疏**。实用次序是：先看此经在体系中的位置与本页该节点的释义，再读古注（如天台《法华文句》一类）或现代导读，最后读原文。\n\n**最后一条**　经中常见「方便说」与「真实说」交错（如「一阐提不成佛」与「一切众生悉有佛性」同经并存）。遇到互相矛盾的段落，先别急着判谁对谁错，而应先问：**这是对谁说、在什么层次上说**——这既是判教成立的根据，也是[[four_reliances|四依]]中「依了义经不依不了义经」所指。",
+  "en_desc": "An index can tell you where a concept stands; it cannot read the text for you. This node sets out only **the few things to recognise on the way in**, so that a reader can open a scripture without being stopped by its conventions.\n\n**1. Look at the opening** “Thus have I heard, at one time the Buddha was staying at …, together with a great assembly of monks” is the fixed opening of most sutras. “Thus” points to what was transmitted; “have I heard” marks it as Ananda’s transmission at the council; “at one time” is the habit of not dating (India had little historiographical tradition, so sutras carry no year); “the Buddha was staying at … together with” gives the place and the audience — and **the audience usually indicates the kind of teaching**: monastics are taught precepts, concentration and wisdom; lay people, giving, precepts and heaven; bodhisattvas, the six perfections and tathagatagarbha.\n\n**2. Look at the divisions** Chinese exegesis commonly divides a sutra in three: the **introduction** (why it was spoken: who asked, on what occasion), the **body** (the teaching itself) and the **conclusion** (entrustment and transmission). With a long unfamiliar sutra, find these three first; the substance is usually in the middle. Exegetical schemes differ (Tiantai and Huayan divide differently), but the three-part frame is shared.\n\n**3. Establish which translation you are holding** One text often has several, and they differ: \n\n- the *Lotus Sutra* exists in Kumarajiva’s version (the standard one) and in Dharmaraksa’s and others; Kumarajiva’s smoother text became the basis of every later commentary;\n- the *Mahaparinirvana Sutra* has Dharmaksema’s earlier portion and a later *Supplementary Portion* — **the question of the icchantika’s awakening turns precisely on the difference between them** (see [[icchantika|the icchantika]]);\n- the same is true of treatises: the *Kosa* exists in Paramartha’s old translation and Xuanzang’s new one, with different terminology, so commentaries must be matched to the right line.\n\n**4. See which basket it belongs to** Sutra (spoken by the Buddha, including later compilation), vinaya (monastic procedure and precepts) and treatise (the scholastic arrangement and debate of the teaching) have different conventions: sutras work by occasion and sequence, treatises by definition and argument. **A treatise cannot be read as a sutra** — it sets up terms first, then defines them, and forces definitions out through question and answer (see [[abhidharma|Abhidharma]]). Read as a sutra, in search of “what the Buddha said”, it becomes impenetrable.\n\n**5. Read an introduction before the text** A reference page or handbook can give position and background, but **the reading of the text itself depends on a teacher or a reliable commentary**. The practical order is: the text’s place in the system and this page’s node on it, then a traditional commentary (Tiantai’s *Fahua Wenju*, for instance) or a modern introduction, and only then the text itself.\n\n**One last point** Scriptures often interleave “provisional” and “definitive” statements — “the icchantika cannot awaken” and “all beings have Buddha-nature” stand in the same sutra. Faced with contradictory passages, resist deciding which is right and ask first: **to whom, and at what level, is this said?** That question is the ground of doctrinal classification, and what [[four_reliances|the four reliances]] mean by “rely on the definitive, not the provisional”.",
+  "sources_zh": [
+   "《大智度论》卷1 等",
+   "《法华玄义》《华严一乘教义分齐章》",
+   "《开元释教录》",
+   "《大般涅槃经》前分与后分"
+  ],
+  "sources_en": [
+   "*Mahāprajñāpāramitā-śāstra*, fascicle 1, and elsewhere",
+   "*Fahua Xuanyi* (Miaofa Lianhua Jing Xuanyi); *Huayan Yisheng Jiaoyi Fenqi Zhang*",
+   "*Kaiyuan Shijiao Lu*",
+   "*Mahaparinirvana Sutra*, earlier and later portions"
+  ]
+ },
+ {
+  "id": "simile_index",
+  "name_zh": "比喻索引",
+  "name_en": "Index of similes",
+  "sa": "index of similes",
+  "zh_desc": "佛教极善用喻，且**喻多出自经论本身**，不是后人为了好懂而编的。本页的释义一律不自行设喻（比喻若不来自经论，就没有出处，也会把某一派的解法冒充为「佛教的说法」）；此条把经论自己的喻集中列出，以便两件事：初读时用喻入门，深读时按喻回查原文。\n\n**一、说明[[continuity|相续]]非常非断**\n\n- **灯焰相续**——油灯一盏传一盏，前焰非后焰，而后焰不由他生。用以说[[samsara|轮回]]是「相续」而非「实体的搬迁」；唯识以「恒转如暴流」形容[[alaya|阿赖耶识]]持种，是同一意象的技术化（见[[flame_analogy|传灯之喻]]、[[continuity|相续]]）。出处：《杂阿含经》灯喻诸经；《成唯识论》卷3「恒转如暴流」。\n\n**二、说明互依而无实体**\n\n- **二束芦相依**——两束芦苇互相倚靠才立得住，去其一则俱倒。用以说识与名色互依，是「无我而相续」最简洁的经中表述（见[[link_namarupa|名色]]）。出处：《杂阿含经》卷12 等。\n\n**三、说明心被染而非本染**\n\n- **客尘**——「客」是过客、「尘」是浮尘：烦恼如客如尘，非心之本体。此喻是[[pure_mind|自性清净心]]说的经证。出处：《胜鬘经》。\n- **镜与影**——镜能现万象而自身不被染。**此处须留意**：唯识以「大圆镜智」说佛智（见[[four_wisdoms|四智]]），而般若系以「如镜中像」说诸法不可得——**同一个意象，两系用法相反**，不可混看。出处：《成唯识论》卷10；《大智度论》卷6 所引般若经「十喻」。\n\n**四、说明无我而作业受报**\n\n- **车喻**——车只是轮、轴、辕、轭等支分的假名，离诸支分别无「车」；「我」亦然，只是[[five_aggregates|五蕴]]的假名（见[[pudgala|假名我]]）。出处：《那先比丘经》（那先与弥兰王问答）。\n- **火与薪**——火依薪而燃，薪尽火灭；说作业者与受报者不一不异（见[[karma_ownership|业的归属]]）。出处：《相应部》12.61 等。\n\n**五、说明法门有层次**\n\n- **涅槃城有三门**——同一座城有三门可入，门异而城不异；说空、无相、无作三解脱门是一法之三面（见[[three_doors|三解脱门]]）。出处：《大智度论》卷20。\n- **筏喻**——筏用于渡河，渡已则应舍，不应负筏而行；说法尚应舍，何况非法。出处：《中阿含经》〈筏喻经〉（巴利《中部》22《蛇喻经》同有此喻）。\n- **五味**——乳、酪、生酥、熟酥、醍醐，次第转深；说教法由浅入深、判教有层次（天台「五味」判教即取此喻，见[[wushi_bajiao|五时八教]]）。出处：《大般涅槃经》卷8〈如来性品〉。\n\n**六、说明实相不可得**\n\n- **十喻**——如幻、如焰、如水中月、如虚空、如响、如犍闼婆城、如梦、如影、如镜中像、如化。《大智度论》卷6 广引此十喻，用以说诸法无自性（见[[emptiness|空]]）。出处：《大智度论》卷6 所引般若经。\n\n**七、说明语言之限**\n\n- **指月**——指能示月，而月不在指；执指为月，则失月亦失指。说经教是能诠之指，非所诠之月（见[[four_reliances|四依]]「依义不依语」）。出处：《楞伽经》。\n- **采沙中金**——于沙中择取真金，非取一切沙。说出家众对教法应审择其真实（见[[historical_layers|历史层积方法]]与「四依」的判别之义）。出处：《异部宗轮论》。\n\n**关于本条的核验方法**　上列喻与出处均以汉文大藏经（CBETA）、巴利三藏（SuttaCentral）及《大智度论》原文逐条比对；卷次凡未能确定者不标，宁可只给出经名。若读者所见版本卷次与此不同，请以藏经原文为准——**喻的可靠性不在本页，在它所标的原文**。",
+  "en_desc": "Buddhist literature is unusually rich in similes, and **most of them come from the scriptures and treatises themselves** — they were not coined later to make the doctrine easier. No node on this page invents a simile of its own (an invented simile has no source, and it smuggles one school’s solution in as “what Buddhism says”); this node gathers the tradition’s own images in one place, for two uses: to enter by them on a first reading, and to trace them back to the source on a deeper one.\n\n**1. Continuity that is neither identical nor unrelated**\n\n- **The lamp flame** — one lamp lights the next: the earlier flame is not the later one, and yet the later does not arise without it. Used for rebirth as a *continuity* rather than the migration of a substance; the Yogacara image of [[alaya|alaya-consciousness]] holding seeds, “rolling on like a torrent”, is the technical form of the same image (see [[flame_analogy|the lamp simile]], [[continuity|continuity]]). Source: the lamp similes of the *Samyukta-agama*; *Cheng Weishi Lun*, fascicle 3, “rolling on like a torrent”.\n\n**2. Mutual dependence without substance**\n\n- **Two bundles of reeds** — two sheaves stand only by leaning on each other; remove one and both fall. Used for the mutual dependence of consciousness and name-and-form — the tersest scriptural statement of continuity without a self (see [[link_namarupa|name-and-form]]). Source: *Samyukta-agama*, fascicle 12, and elsewhere.\n\n**3. A mind defiled, not inherently defiled**\n\n- **Guest and dust** — defilements are a guest, or motes of dust: they are not the nature of the mind. This is the scriptural warrant for [[pure_mind|the intrinsically pure mind]]. Source: *Śrīmālādevī Sutra*.\n- **Space and clouds** — space is not stained by clouds; when they clear, space is as before.\n- **Mirror and reflections** — a mirror shows all things without being stained by them. **Note carefully**: Yogacara uses this for the Buddha’s “great mirror wisdom” (see [[four_wisdoms|the four wisdoms]]), while the Prajnaparamita texts use “like an image in a mirror” to say that dharmas are unattainable — **the same image is used in opposite directions by the two systems** and must not be conflated. Source: *Cheng Weishi Lun*, fascicle 10; the “ten similes” of the Prajnaparamita cited in *Mahaprajnaparamita-sastra*, fascicle 6.\n\n**4. No self, yet action and its fruit**\n\n- **The chariot** — “chariot” is only a designation for wheel, axle, shaft and yoke; apart from the parts there is no chariot. So too “I” is only a designation for the [[five_aggregates|five aggregates]] (see [[pudgala|the nominal self]]). Source: *Milindapanha* (the dialogue of Nagasena and King Milinda).\n- **Fire and fuel** — fire burns in dependence on fuel; when the fuel is gone the fire goes out. Used for the doer of action and the receiver of its fruit being neither one nor different (see [[karma_ownership|the ownership of karma]]). Source: *Samyutta Nikaya* 12.61 and elsewhere.\n\n**5. The levels of the teaching**\n\n- **A city with three gates** — one city entered by three gates; the gates differ, the city does not. Used for emptiness, signlessness and wishlessness as three faces of one thing (see [[three_doors|the three doors of liberation]]). Source: *Mahaprajnaparamita-sastra*, fascicle 20.\n- **The raft** — a raft is for crossing; once across it is to be let go, not carried on one’s back. “The teaching itself is to be relinquished, how much more what is not the teaching.” Source: the *Raft Sutra* of the *Madhyama-agama* (the Pali *Alagaddupama Sutta*, *Majjhima Nikaya* 22, has the same simile).\n- **Five flavours** — milk, curds, fresh butter, clarified butter, ghee, deepening in turn. Used for the teaching proceeding from the shallow to the profound, and hence for doctrinal classification (Tiantai’s “five flavours” takes this image; see [[wushi_bajiao|the five periods and eight teachings]]). Source: *Mahaparinirvana Sutra*, fascicle 8, “Chapter on the Tathagata-nature”.\n\n**6. Reality as unattainable**\n\n- **The ten similes** — like an illusion, like a mirage, like the moon in water, like space, like an echo, like a city of the gandharvas, like a dream, like a shadow, like an image in a mirror, like a magical creation. *Mahaprajnaparamita-sastra*, fascicle 6, cites these at length to say that dharmas have no own-nature (see [[emptiness|emptiness]]). Source: the Prajnaparamita scriptures as cited in *Mahaprajnaparamita-sastra*, fascicle 6.\n\n**7. The limits of language**\n\n- **The finger and the moon** — a finger can point to the moon, but the moon is not the finger; fix on the finger as the moon and you lose both. The teaching is the pointing finger, not the pointed-at moon (see [[four_reliances|the four reliances]], “rely on the meaning, not the wording”). Source: *Lankavatara Sutra*.\n- **Panning gold from sand** — take the true gold from the sand, not all the sand. Said of the monk’s task of sifting the teaching for what is true (see [[historical_layers|the method of textual layers]] and the discernment meant by the four reliances). Source: *Samayabhedoparacanacakra*.\n\n**On how this node was verified** Every simile and source above was checked item by item against the Chinese canon (CBETA), the Pali canon (SuttaCentral) and the text of the *Mahaprajnaparamita-sastra*; where a fascicle number could not be established it is omitted, and only the title is given. If a reader’s edition numbers the fascicles differently, the canonical text decides — **the reliability of a simile lies not in this page but in the source it points to**.",
+  "sources_zh": [
+   "《大智度论》卷6（广引般若经十喻）",
+   "《杂阿含经》卷12 等（二束芦）",
+   "《胜鬘经》（客尘）",
+   "《中阿含经》〈筏喻经〉",
+   "《大般涅槃经》卷8〈如来性品〉（五味）",
+   "《那先比丘经》（车喻）",
+   "《大智度论》卷20（涅槃城三门）"
+  ],
+  "sources_en": [
+   "*Mahaprajnaparamita-sastra*, fascicle 6 (citing the ten similes of the Prajnaparamita)",
+   "*Samyukta-agama*, fascicle 12, and elsewhere (two bundles of reeds)",
+   "*Śrīmālādevī Sutra* (guest and dust)",
+   "*Madhyama-agama*, *Raft Sutra*",
+   "*Mahaparinirvana Sutra*, fascicle 8, “Chapter on the Tathagata-nature” (five flavours)",
+   "*Milindapanha* (chariot)",
+   "*Mahaprajnaparamita-sastra*, fascicle 20 (the city with three gates)"
+  ]
+ },
+ {
+  "id": "southern_tradition",
+  "name_zh": "南传佛教与巴利三藏",
+  "name_en": "The Southern Tradition and the Pali Canon",
+  "sa": "Theravāda",
+  "zh_desc": "上座部佛教在斯里兰卡与东南亚（缅甸、泰国、老挝、柬埔寨）的传承，以巴利三藏为依据，是今日唯一延续了**较早期形态**的佛教传统。\n\n**三藏的组成**（读者据以判断某文本属哪一藏，勿把《清净道论》误认为经）：\n\n- **律藏（Vinaya-piṭaka）**——《经分别》（比丘、比丘尼波罗提木叉的逐条解释）、《犍度》（僧团仪轨与制度）、《附随》（纲要整理）；\n- **经藏（Sutta-piṭaka）**——五部尼柯耶：《长部》《中部》《相应部》《增支部》《小部》；\n- **论藏（Abhidhamma-piṭaka）**——七论：《法聚论》《分别论》《界论》《人施设论》《论事》《双论》《发趣论》。\n\n《清净道论》为觉音所撰之**注疏性论书**，属对经藏的整理，不属论藏七论。\n\n**文本的确立**　巴利三藏先在斯里兰卡以口传保存，据《[[doc_51|岛史]]》记载于前1世纪（毗多伽摩尼王时）首次书写成文；此后有觉音（Buddhaghosa，5世纪）的系统注疏，其《[[doc_35|清净道论]]》以戒、定、慧三学组织全部修行，成为南传的论书标准。\n\n**与北传的分野**　南传不承认大乘经与后期论书，故无如来藏、无阿赖耶识、无菩萨道的十地体系；但它对**戒律与禅修的细节保存得极完整**——例如《大念处经》的完整修法、四禅八定的禅支判摄、观智的十六阶次，都比北传更具体。\n\n**近现代的内观运动**　20世纪，南传发展出面向在家众的内观（vipassanā）传统：缅甸的马哈希、乌巴庆、葛印卡，泰国的阿姜查与林居传统等，把原本的寺院禅修法门简化为可短期密集修习的课程，向全世界传播。**这是佛教现代传播最成功的一例**，也反过来影响了汉传与西方的禅修实践。\n\n**常见的对称误读**　把南传称为「小乘」属于宗派立场，且不准确：南传自身只称「上座部」或「分别说部」系统，其修证目标与教义体系并非「小」——它保存的是三学与四谛的完整实践，只是判教立场不同。",
+  "en_desc": "The transmission of Theravāda Buddhism in Sri Lanka and Southeast Asia (Myanmar, Thailand, Laos, Cambodia), grounded in the Pali canon; it is the only Buddhist tradition today that continues **an earlier form**.\n\n**Establishment of the text**  The Pali canon was first preserved orally in Sri Lanka and, according to the *[[doc_51|Dīpavaṃsa]]*, was first committed to writing in the 1st century BCE (in the time of King Vaṭṭagāmaṇī); thereafter came the systematic commentaries of Buddhaghosa (5th century), whose *[[doc_35|Visuddhimagga]]* organized the whole of practice under the three trainings of ethics, concentration, and wisdom and became the standard treatise of the southern tradition.\n\n**Divergence from the northern transmission**  The southern tradition does not accept the Mahāyāna sūtras or the later treatises, and so has no tathāgatagarbha, no ālaya-consciousness, and no ten-stage bodhisattva system; but it preserves the **details of the precepts and of meditation with exceptional completeness** — for example the full method of practice in the *Mahāsatipaṭṭhāna Sutta*, the analysis of the factors of the four dhyānas and eight concentrations, and the sixteen stages of insight knowledge are all more specific than in the northern transmission.\n\n**The modern insight movement**  In the 20th century the southern tradition developed a vipassanā tradition aimed at laypeople: Mahasi Sayadaw, U Ba Khin, and S. N. Goenka in Myanmar, and Ajahn Chah and the forest tradition in Thailand, among others, simplified the originally monastic meditation methods into courses that could be practised intensively over short periods and spread them throughout the world. **This is the most successful instance of the modern dissemination of Buddhism**, and it has in turn influenced meditative practice in Chinese Buddhism and in the West.\n\n**A common mirror-image misreading**  Calling the southern tradition \"Hīnayāna\" is a sectarian position and is also inaccurate: the southern tradition calls itself only the Theravāda or the Vibhajyavāda system, and its goals of practice and doctrinal system are not \"lesser\" — it preserves the complete practice of the three trainings and the Four Noble Truths; only its stance on doctrinal classification differs.",
+  "sources_zh": [
+   "巴利三藏（经、律、论）",
+   "觉音《清净道论》",
+   "《岛史》《大史》",
+   "马哈希《大念处经》巴缅对照等"
+  ],
+  "sources_en": [
+   "The Pali canon (sūtra, vinaya, abhidharma)",
+   "Buddhaghosa, *Visuddhimagga*",
+   "*Dīpavaṃsa* and *Mahāvaṃsa*",
+   "Mahasi Sayadaw’s Pali–Burmese parallel edition of the *Mahāsatipaṭṭhāna Sutta*, among others"
+  ]
+ },
+ {
+  "id": "historical_layers",
+  "name_zh": "历史层积方法",
+  "name_en": "The Method of Textual Stratification",
+  "sa": "—",
+  "zh_desc": "巴利尼柯耶与汉译阿含对比、梵文与犍陀罗语残卷、部派律藏、[[ashoka|阿育王]]石碑、文本层积分析。其结论是：没有纯粹的「原始佛教」，只有「[[early_layer|相对较早层]]」。\n\n方法的主要内容：\n- 南北对照：巴利《相应部》《中部》《长部》《增支部》与汉译《杂阿含》《中阿含》《长阿含》《增壹阿含》分属不同部派诵本（《杂阿含》属说一切有部诵本，巴利属分别说部），两传共有的内容一般视为较早；\n- 写本与残卷：梵文残卷、犍陀罗语写本（近现代在阿富汗、巴基斯坦出土），可超出汉巴两传的框架；\n- 律藏比较：各部派广律的对应段落，可辨识编纂层次；\n- **文体层积**：同一内容的**散文与偈颂并存**时，通常以偈颂为早、散文为后出的解释（偈颂便于诵持，散文解说是后来敷演）；但此判准须与南北对照并用，不可单凭文体定层；\n- 铭文与考古：阿育王石碑（约前3世纪）是佛教最早的物质史料，其中不提及四谛、缘起等教说的具体内容，是判断「阿育王时期佛教形态」的重要依据；\n- 文本层积分析：同一经典中散文与偈颂的层次、定型句（如「如是我闻」「一时佛在」）的插入、重复模式，皆可指示不同时期的叠加。\n\n结论的意义不在于否定传统，而在于给出「哪些内容可以较早地追溯到」的判断依据。因此它是一种「限制性」的结论：它不说「原始佛教是什么」，只说「相对而言哪些更早」。\n\n**方法自身的限度**：四者皆只能定「相对先后」，不能定「绝对年代」；南北共传者未必最早（也可能是后世共有的发展），独有者未必最晚（也可能是某部派失传）。故本页用「相对较早层」而不用「原始佛教」一词，即为此故。",
+  "en_desc": "Comparison of the Pali Nikāyas with the Chinese Āgamas, Sanskrit and Gāndhārī fragments, the Vinayas of the schools, the [[ashoka|Aśoka]] stone edicts, and the analysis of textual stratification. Its conclusion is that there is no pure \"original Buddhism\", only a \"[[early_layer|relatively early layer]]\".\n\nThe method consists chiefly of the following:\n- North–South comparison: the Pali *Saṃyutta Nikāya*, *Majjhima Nikāya*, *Dīgha Nikāya*, and *Aṅguttara Nikāya* and the Chinese *Saṃyukta-āgama*, *Madhyama-āgama*, *Dīrgha-āgama*, and *Ekottarika-āgama* belong to the recensions of different schools (*Saṃyukta-āgama* to the Sarvāstivāda recension, the Pali to the Vibhajyavāda); material common to both transmissions is generally regarded as earlier;\n- Manuscripts and fragments: Sanskrit fragments and Gāndhārī manuscripts (unearthed in Afghanistan and Pakistan in modern times), which can go beyond the framework of the Chinese and Pali transmissions;\n- Comparison of the Vinayas: corresponding passages in the extensive Vinayas of the various schools allow the layers of compilation to be identified;\n- Inscriptions and archaeology: the Aśokan stone edicts (ca. 3rd century BCE) are Buddhism's earliest material historical source; they do not mention the specific content of doctrines such as the Four Noble Truths or dependent origination, and are an important basis for judging \"the shape of Buddhism in Aśoka's time\";\n- Analysis of textual stratification: within a single scripture, the layers of prose and verse, the insertion of stereotyped formulas (such as \"Thus have I heard\" and \"At one time the Buddha was staying in\"), and patterns of repetition can all indicate accumulation from different periods.\n\nThe significance of this conclusion lies not in refuting tradition but in providing criteria for judging \"which contents can be traced back relatively early\". It is therefore a \"restrictive\" conclusion: it does not say \"what original Buddhism was\", only \"which elements are, relatively speaking, earlier\".",
+  "sources_zh": [
+   "阿育王石碑（约前3世纪）",
+   "巴利尼柯耶与汉译阿含的对比研究",
+   "梵文与犍陀罗语残卷"
+  ],
+  "sources_en": [
+   "The Aśokan stone edicts (ca. 3rd century BCE)",
+   "Comparative study of the Pali Nikāyas and the Chinese Āgamas",
+   "Sanskrit and Gāndhārī fragments"
+  ]
+ },
+ {
+  "id": "minimal_skeleton",
+  "name_zh": "最小骨架",
+  "name_en": "The Minimal Skeleton",
+  "sa": "—",
+  "zh_desc": "若只保留早期、核心、可验证的内容：苦、苦因、苦灭、灭苦之道、[[eightfold|八正道]]、[[four_foundations|四念处]]、缘起、无我、现世涅槃。这一骨架更近于「经验心理学 + 伦理实践 + 现象学分析」的组合。\n\n抽取的判准有三：**一、南北共传**（巴利尼柯耶与汉译阿含皆见）；**二、不依后期体系**（无需阿毗达磨的法数、唯识的八识、如来藏的佛性即可说明）；**三、可验证**（其主张能被现前的观照检验，如四念处之于身心）。三条同时满足者方入骨架——这既是筛选标准，也是它的限度。\n\n抽取最小骨架的价值不在替传统「减负」，而在于辨识层次：把「早期核心」与「后世发展」分开，可以看清哪些主张是佛教不可让渡的，哪些是随时代与地域而来的组织方式。\n\n需要注意，这一骨架若被当作「真正的佛教」而取代传统，会失去几样东西：\n- 判教与宗派所提供的经典组织原则；\n- 如来藏、佛性等为「何故能成佛」提供依据的肯定性理论；\n- 菩萨道所提供的利他动机与无限目标；\n- 戒律的完整系统（仅保留八正道则戒学的具体轨范无从确立）。\n\n本页的处理方式是：把这一骨架作为「较早层的可辨识内容」标出，同时保留发展层与民间层的完整结构——层次分明，但不下价值判断。",
+  "en_desc": "If only the early, core, and verifiable contents are retained: suffering, the cause of suffering, the cessation of suffering, the path to the cessation of suffering, the [[eightfold|noble eightfold path]], the [[four_foundations|four establishments of mindfulness]], dependent origination, non-self, and nirvāṇa in this present life. This skeleton comes closer to a combination of \"empirical psychology + ethical practice + phenomenological analysis\".\n\nThe value of extracting a minimal skeleton lies not in \"lightening the burden\" of tradition but in identifying layers: by separating the \"early core\" from \"later developments\", one can see clearly which claims are non-negotiable for Buddhism and which are modes of organization that came with particular times and regions.\n\nIt should be noted that if this skeleton were taken as \"true Buddhism\" and put in place of tradition, several things would be lost:\n- The principles of scriptural organization provided by doctrinal classification and the schools;\n- Affirmative theories such as tathāgatagarbha and Buddha-nature that provide the basis for \"why it is possible to attain Buddhahood\";\n- The altruistic motivation and limitless goal provided by the bodhisattva path;\n- The complete system of precepts (if only the noble eightfold path is retained, the specific norms of the training in ethics cannot be established).\n\nThe approach taken on this page is to mark this skeleton as \"identifiable content of the earlier layer\" while retaining the complete structure of the developmental and folk layers — the layers are clearly distinguished, but no value judgment is pronounced.",
+  "sources_zh": [
+   "巴利四部与汉译四阿含的共传内容",
+   "阿育王石碑（约前3世纪）"
+  ],
+  "sources_en": [
+   "Material shared by the four Pali Nikāyas and the four Chinese Āgamas",
+   "The Aśokan stone edicts (ca. 3rd century BCE)"
+  ]
+ },
+ {
+  "id": "development_layer",
+  "name_zh": "发展层",
+  "name_en": "The Developmental Layer",
+  "sa": "—",
+  "zh_desc": "**判准**：凡在早期层基础上新增「体系化的义理组织」或「时空与本体论上的扩展」者，属发展层——前者如阿毗达磨的法数体系、说一切有部的五位七十五法、唯识的八识与三性，后者如十方诸佛、他方净土、如来藏、密续。\n\n大乘[[bodhisattva_path|菩萨道]]、十方诸佛、[[pure_land|极乐世界]]、如来藏、唯识与中观体系、密续、判教体系。\n\n这一层的特征是：新增了「时间与空间上的扩展」与「本体论上的肯定」。\n\n- 扩展：早期佛教的视野以释迦牟尼一位佛与当下世界为中心；发展层出现十方诸佛、多劫多佛、他方净土（极乐世界），佛教的宇宙论由此展开；\n- 肯定：早期侧重「无我」「无自性」的遮诠；发展层出现如来藏、佛性等肯定性的表述，为成佛提供本体论根据；\n- 组织：中观与唯识建立了完整的哲学体系，判教体系则把众多经典排入秩序。\n\n时间上，般若经（约前1世纪—2世纪）是发展层的起点，此后依次为：中观（2—3世纪）、如来藏经典（3—5世纪）、唯识（4—5世纪）、密续（7世纪以后）、中国判教体系（6—8世纪）。",
+  "en_desc": "The Mahāyāna [[bodhisattva_path|bodhisattva path]], the Buddhas of the ten directions, the [[pure_land|Land of Bliss]], tathāgatagarbha, the Yogācāra and Madhyamaka systems, the tantras, and systems of doctrinal classification.\n\nThis layer is characterized by the addition of \"expansion in time and space\" and \"ontological affirmation\".\n\n- Expansion: the horizon of early Buddhism centered on a single Buddha, Śākyamuni, and the present world; the developmental layer introduces the Buddhas of the ten directions, many Buddhas across many aeons, and pure lands in other directions (the Land of Bliss), and Buddhist cosmology unfolds from this;\n- Affirmation: the early layer emphasizes the negative formulation of \"non-self\" and \"absence of own-nature\"; the developmental layer introduces affirmative formulations such as tathāgatagarbha and Buddha-nature, providing an ontological basis for the attainment of Buddhahood;\n- Organization: Madhyamaka and Yogācāra established complete philosophical systems, while systems of doctrinal classification arranged the many scriptures into an order.\n\nChronologically, the Prajñāpāramitā sūtras (ca. 1st century BCE–2nd century CE) are the starting point of the developmental layer, followed in order by Madhyamaka (2nd–3rd century), the tathāgatagarbha scriptures (3rd–5th century), Yogācāra (4th–5th century), the tantras (after the 7th century), and the Chinese systems of doctrinal classification (6th–8th century).",
+  "sources_zh": [
+   "般若经类（约前1世纪—2世纪）",
+   "中观（龙树，约150—250）与唯识（无著、世亲，约4—5世纪）",
+   "如来藏系经典（约3—5世纪）",
+   "密续（约7世纪以后）"
+  ],
+  "sources_en": [
+   "The Prajñāpāramitā sūtra corpus (ca. 1st century BCE–2nd century CE)",
+   "Madhyamaka (Nāgārjuna, ca. 150–250) and Yogācāra (Asaṅga and Vasubandhu, ca. 4th–5th century)",
+   "The tathāgatagarbha scriptures (ca. 3rd–5th century)",
+   "The tantras (ca. after the 7th century)"
+  ]
+ },
+ {
+  "id": "translation_history",
+  "name_zh": "汉译四阶段",
+  "name_en": "The Four Stages of Chinese Translation",
+  "sa": "—",
+  "zh_desc": "佛典汉译历时约八百年（2—8世纪），可分四个阶段。**分期依据是「主译者与译风」**：早期多外来僧凭口诵、格义为难免；罗什一期确立意译通达的标准；真谛至玄奘一期为「旧译／新译」之分野；此后以国家译场与宗派注疏为主。故四阶段既是时间划分，也是译经方法的分期——**这是汉传佛教发展脉络的骨干**，因为汉传各宗的先后，几乎就是译经的先后。\n\n**一、早期译经（东汉—西晋，2—3世纪）**　安世高译禅数（《安般守意经》等，属[[sarvastivada|说一切有部]]系统），支娄迦谶译般若（《道行般若经》179）——**禅与般若两条线自始并传**。此期译者多为外来僧，多凭口诵，风格质朴而多[[yichang|格义]]。\n\n**二、罗什与新旧译之间（4—5世纪）**　鸠摩罗什（401抵长安，401—413译）译出《中论》《百论》《十二门论》《大智度论》《法华经》《维摩经》《金刚经》等，以「意译通达」著称，中观与般若之学由此真正进入汉地；此后真谛（6世纪）译《摄大乘论》等，成「旧译唯识」。\n\n**三、玄奘的新译（7世纪）**　玄奘（645归国，645—664译）译出《瑜伽师地论》（646—648）、《俱舍论》（651—654）、《大般若经》（660—663）等，共七十五部、一千三百余卷，并以《成唯识论》（659）糅译十家释，成「新译唯识」。**新译与旧译的差异不只是文字**——同一部论在名相与义理上的读法可以完全不同，这是摄论师与法相宗分途的原因。\n\n**四、义净与密典译传（7—8世纪）**　义净（671—695西行，归国后译）以《根本说一切有部毗奈耶》补足律藏；善无畏（724译《大日经》）、金刚智、不空译出密续，唐密成立。此后会昌法难（845），译事中断。\n\n**这一分期的解释力**　把各宗立宗的时间与译经的时间对照，会看到高度的同步：般若译出→三论宗；《法华》《涅槃》译出→天台宗；《华严》译出→华严宗；《摄大乘论》《成唯识论》译出→摄论师与法相宗；密续译出→密宗。**汉传的宗派史，很大程度上是一部译经史。**",
+  "en_desc": "The translation of Buddhist texts into Chinese spanned about eight hundred years (2nd–8th century) and can be divided into four stages — **this is the backbone of the development of Chinese Buddhism**, since the sequence of the Chinese schools is almost the sequence of scripture translation.\n\n**I. Early translation (Eastern Han to Western Jin, 2nd–3rd century)**  An Shigao translated works on meditation and abhidharma (the *Ānāpānasmṛti-sūtra* and others, belonging to the [[sarvastivada|Sarvāstivāda]] system), and Lokakṣema translated the Prajñāpāramitā (the *Aṣṭasāhasrikā Prajñāpāramitā*, 179) — **the two lines of meditation and prajñā were transmitted in parallel from the beginning**. Translators of this period were mostly foreign monks working largely from oral recitation; their style was plain and abounded in [[yichang|matching meanings (ko-i)]].\n\n**II. Kumārajīva and the period between the old and new translations (4th–5th century)**  Kumārajīva (arrived in Chang'an in 401, translated 401–413) produced the *Mūlamadhyamakakārikā* (Zhong lun), *Śataśāstra*, *Dvādaśamukha-śāstra*, *Mahāprajñāpāramitā-śāstra*, *Lotus Sūtra* (Saddharmapuṇḍarīka), *Vimalakīrti-nirdeśa-sūtra*, *Vajracchedikā Prajñāpāramitā*, and others, and was renowned for \"free translation that conveys the sense\"; Madhyamaka and prajñā learning thus truly entered China. Thereafter Paramārtha (6th century) translated the *Mahāyānasaṃgraha* and other works, forming the \"old translation\" of Yogācāra.\n\n**III. Xuanzang's new translation (7th century)**  Xuanzang (returned to China in 645, translated 645–664) produced the *Yogācārabhūmi-śāstra* (646–648), the *Abhidharmakośa-bhāṣya* (Jushe lun, 651–654), the *Mahāprajñāpāramitā-sūtra* (660–663), and others, seventy-five works in more than thirteen hundred fascicles in all, and with the *Cheng Weishi Lun* (659) conflated the commentaries of ten masters into a single translation, forming the \"new translation\" of Yogācāra. **The difference between the new and old translations is not merely verbal** — the same treatise can be read in completely different ways as regards terminology and doctrine, and this is why the Shelun masters and the Faxiang school took separate paths.\n\n**IV. Yijing and the translation of esoteric texts (7th–8th century)**  Yijing (traveled west 671–695, translated after his return) supplemented the Vinaya with the *Mūlasarvāstivāda Vinaya*; Śubhakarasiṃha (who translated the *Mahāvairocanābhisambodhi-tantra* in 724), Vajrabodhi, and Amoghavajra translated the tantras, and Tang esoteric Buddhism was established. After this, with the Huichang persecution (845), translation work was interrupted.\n\n**The explanatory power of this periodization**  Setting the founding dates of the schools beside the dates of translation reveals a high degree of synchrony: the translation of the Prajñāpāramitā → the Sanlun school; of the *Lotus Sūtra* and the *Mahāparinirvāṇa Sūtra* → the Tiantai school; of the *Avataṃsaka Sūtra* → the Huayan school; of the *Mahāyānasaṃgraha* and the *Cheng Weishi Lun* → the Shelun masters and the Faxiang school; of the tantras → the Esoteric school. **The sectarian history of Chinese Buddhism is to a large extent a history of scripture translation.**",
+  "sources_zh": [
+   "《出三藏记集》（僧祐，约515）",
+   "《开元释教录》（智昇，730）",
+   "《高僧传》《续高僧传》《宋高僧传》"
+  ],
+  "sources_en": [
+   "*Chu Sanzang Jiji* (Sengyou, ca. 515)",
+   "*Kaiyuan Shijiao Lu* (Zhisheng, 730)",
+   "*Gaoseng Zhuan*, *Xu Gaoseng Zhuan*, and *Song Gaoseng Zhuan*"
+  ]
+ },
+ {
+  "id": "four_reliances",
+  "name_zh": "四依与四依法",
+  "name_en": "The Four Reliances",
+  "sa": "pratisaraṇa",
+  "zh_desc": "佛教自身给出的解释学原则，用来处理「经多义歧、师说不一」时以何为凭。通行表述出自《[[doc_7|大般涅槃经]]》：\n\n1. **依法不依人**——以教法本身为准，不以说者身份为准（此条使佛弟子对「传承权威」保持保留）；\n2. **依义不依语**——取所指之义，不执能诠之文辞（此条为意译与诠释打开合法性，也是汉译「[[yichang|格义]]」能被接受的理由）；\n3. **依了义经不依不了义经**——以究竟之说为准，以方便之说为辅（此条使判教成为必要）。**但「了义」本身无统一判准**——同一部经，唯识以《解深密经》的三时为了义，天台以《法华》为了义，故这一条只能确定「须分了义与不了义」，不能确定「何经为了义」；各家判教之争，正是对这条的不同落实；\n4. **依智不依识**——以如实之智为准，不以分别之识为准（此条把解说的最终判准落在证上）。\n\n**为什么这四条值得单列**　它与本页第十二层的「历史层积方法」正好相对：四依是**传统内部的判准**（在教内如何取舍），文献学方法是**外部观察者的判准**（这部文本何时、由谁、依据什么材料形成）。佛教史上一切判教、一切宗派之争，几乎都在引用四依中的某一条为自己的立场背书——例如「依了义」之争即如来藏是否了义之争，「依义不依语」则是中国佛教敢于以汉语重新表述印度思想的依据。\n\n区分这两套判准，是阅读佛教文献时最实用的一条自我保护。",
+  "en_desc": "Hermeneutical principles that Buddhism itself provides, for deciding what to rely on when \"the scriptures are many and their meanings divergent, and the teachers' explanations do not agree\". The standard formulation comes from the *[[doc_7|Mahāparinirvāṇa Sūtra]]*:\n\n1. **Rely on the Dharma, not on the person** — take the teaching itself as the standard, not the status of the speaker (this article leads Buddhists to be reserved about \"the authority of lineage\");\n2. **Rely on the meaning, not on the words** — take the meaning referred to, not clinging to the wording that expresses it (this article opens the legitimacy of free translation and interpretation, and is also why [[yichang|matching meanings (ko-i)]] in Chinese translation could be accepted);\n3. **Rely on the sūtras of definitive meaning, not on those of provisional meaning** — take the ultimate teaching as the standard and the expedient teaching as auxiliary (this article makes doctrinal classification necessary);\n4. **Rely on wisdom, not on consciousness** — take wisdom that accords with reality as the standard, not discriminating consciousness (this article places the final criterion of interpretation in realization).\n\n**Why these four deserve separate treatment**  They stand in exact contrast to the \"method of textual stratification\" in the twelfth layer of this page: the four reliances are **criteria internal to the tradition** (how to choose within the teaching), while the philological method is **the criterion of an external observer** (when, by whom, and on the basis of what materials this text was formed). Virtually every doctrinal classification and every sectarian controversy in Buddhist history cites one or another of the four reliances to endorse its own position — the controversy over \"relying on the definitive meaning\", for instance, is the controversy over whether tathāgatagarbha is definitive, while \"relying on the meaning, not on the words\" is the ground on which Chinese Buddhism dared to restate Indian thought in Chinese.\n\nDistinguishing these two sets of criteria is the most practical form of self-protection in reading Buddhist literature.",
+  "sources_zh": [
+   "《大般涅槃经》卷6 等",
+   "《大智度论》",
+   "《维摩经》〈法供养品〉等"
+  ],
+  "sources_en": [
+   "*Mahāparinirvāṇa Sūtra*, fascicle 6, and others",
+   "*Mahāprajñāpāramitā-śāstra* (Da Zhidu Lun)",
+   "*Vimalakīrti-nirdeśa-sūtra*, “Chapter on the Offering of the Dharma“, and others"
+  ]
+ },
+ {
+  "id": "precepts",
+  "name_zh": "戒律",
+  "name_en": "Precepts and Vinaya",
+  "sa": "śīla / vinaya",
+  "zh_desc": "[[vinaya|律宗]]核心：[[five_precepts|五戒]]、十善、具足戒等。\n\n在家与出家所受不同：在家受五戒（不杀、不盗、不邪淫、不妄语、不饮酒）；沙弥受十戒；比丘受二百五十戒（依《四分律》）、比丘尼受三百四十八戒；菩萨戒则另依《梵网经》十重四十八轻。\n\n受戒所得者称**戒体**——即受戒时于身心中所引发的、能遮止恶行的功能；其体性各家所说不同：有部立「无表色」（见[[rupa|色法]]），经部与唯识不许色法，或说为思种、或说为心种。这一分歧直接决定「戒如何相续」的解释。\n\n戒的作用在「防非止恶」与「为定慧所依」：《俱舍论》以「戒为定慧之因」，无戒则定不坚、慧不实。因此戒不是修行的准备阶段，而是贯穿全程的基础。\n\n律宗的实践难点在于戒律的时代适应——戒条产生于印度特定时空，如何在不违戒体的前提下适应汉地习俗，是历代律师的核心课题，也是「随方毗尼」（因地方习俗而调整戒条）说的由来。",
+  "en_desc": "The core of the [[vinaya|Vinaya school]]: the [[five_precepts|five precepts]], the ten wholesome courses of action, the full ordination precepts, and so on.\n\nThe precepts received differ between laypeople and monastics: laypeople receive the five precepts (not killing, not stealing, not committing sexual misconduct, not lying, not drinking alcohol); novices receive the ten precepts; monks receive two hundred and fifty precepts (according to the *Dharmaguptaka Vinaya*), nuns three hundred and forty-eight; the bodhisattva precepts are taken separately, according to the ten major and forty-eight minor precepts of the *Brahmajala Sutra*.\n\nThe function of the precepts lies in 'preventing wrong and stopping evil' and in 'serving as the basis for concentration and wisdom': the *Abhidharmakośa-bhāṣya* holds that 'the precepts are the cause of concentration and wisdom'; without the precepts, concentration is not firm and wisdom is not genuine. The precepts are therefore not a preparatory stage of practice but a foundation running through the whole of it.\n\nThe practical difficulty of the Vinaya school lies in the adaptation of the precepts to their times: the rules arose in a particular time and place in India, and how to adapt them to Chinese customs without violating the essence of the precepts was the central task of successive vinaya masters. It is also the origin of the doctrine of 'vinaya according to locality' (suifang pi ni, the adjustment of precepts to local custom).",
+  "sources_zh": [
+   "《四分律》",
+   "《梵网经》",
+   "《俱舍论》卷14"
+  ],
+  "sources_en": [
+   "*Dharmaguptaka Vinaya* (Sifen lü)",
+   "*Brahmajāla Sūtra*",
+   "*Abhidharmakośa-bhāṣya* (Jushe lun), fascicle 14"
+  ]
+ },
+ {
+  "id": "one_mind_3000",
+  "name_zh": "一念三千",
+  "name_en": "Three Thousand Realms in a Single Moment of Mind",
+  "sa": "—",
+  "zh_desc": "一念心中具足三千世间。《[[doc_39|摩诃止观]]》卷5 的经典表述：「夫一心具十法界，一法界又具十法界、百法界；一界具三十种世间，百法界即具三千种世间。此三千在一念心，若无心而已，介尔有心即具三千。」\n\n三千的算法：十法界（六凡＋四圣）× 十法界（每一界中又具十界）＝ 百法界；百法界 × 十如是（**相**＝外显形相，**性**＝内在本性，**体**＝主体质地，**力**＝功能潜力，**作**＝造作活动，**因**＝直接之因，**缘**＝辅助之缘，**果**＝所成之果，**报**＝后世之报，**本末究竟**＝初相与终报皆归实相）＝ 千如；千如 × 三种世间（五阴世间、众生世间、国土世间）＝ 三千世间。\n\n关键在「一念」与「三千」的关系：《摩诃止观》明确说「亦不言一心在前，一切法在後；亦不言一切法在前，一心在後」——不是心生三千（纵），也不是心一时含三千（横），而是「只心是一切法，一切法是心」。因此「三千」是「一切法」的代名词，不必执著于数字；其精神实质是「性具」——凡夫当下一念即圆满具足一切，无须外求。\n\n教义的经典依据是《[[doc_12|华严经]]·夜摩天宫自在品》「心佛众生，三无差别」，但「一念三千」本身是天台独创的观法。",
+  "en_desc": "A single moment of mind contains in full the three thousand worlds. The classic statement in fascicle 5 of the *[[doc_39|Mohe Zhiguan]]*: “Now, one mind contains the ten dharma-realms, and one dharma-realm in turn contains the ten dharma-realms, [making] a hundred dharma-realms; one realm contains thirty kinds of world, so a hundred dharma-realms contain three thousand kinds of world. These three thousand are in a single moment of mind: if there is no mind, that is all; but as soon as there is the slightest mind, it contains the three thousand.”\n\nThe calculation of the three thousand: the ten dharma-realms (the six ordinary realms plus the four noble realms) × the ten dharma-realms (each realm again containing the ten realms) = a hundred dharma-realms; a hundred dharma-realms × the ten suchnesses (characteristic, nature, substance, power, activity, cause, condition, effect, retribution, and the ultimate equality of beginning and end) = a thousand suchnesses; a thousand suchnesses × the three kinds of world (the world of the five aggregates, the world of sentient beings, and the world of the land) = the three thousand worlds.\n\nThe key lies in the relation between “a single moment” and “the three thousand.” The *Mohe Zhiguan* states explicitly: “It is not said that one mind comes first and all dharmas afterwards; nor is it said that all dharmas come first and one mind afterwards” — it is not that the mind generates the three thousand (vertically), nor that the mind contains the three thousand all at once (horizontally), but that “the mind alone is all dharmas, and all dharmas are the mind.” “The three thousand” is therefore a synonym for “all dharmas,” and one need not fixate on the number; its essential spirit is “inherent inclusion” — the ordinary person's present single moment of mind is already complete in possessing everything, with no need to seek outside.\n\nThe scriptural basis of the doctrine is the *[[doc_12|Avataṃsaka Sūtra]]*, “Chapter on the Sovereignty of the Yāma Heaven Palace”: “Mind, Buddha, and sentient beings — these three are without distinction”; but “three thousand realms in a single moment of mind” itself is a contemplation unique to Tiantai.",
+  "sources_zh": [
+   "智顗《摩诃止观》卷5上（大正46·54上）",
+   "智顗《法华玄义》卷2",
+   "《华严经·夜摩天宫自在品》"
+  ],
+  "sources_en": [
+   "Zhiyi, *Mohe Zhiguan*, fascicle 5a (Taishō 46, 54a)",
+   "Zhiyi, *Fahua Xuanyi* (Miaofa Lianhua Jing Xuanyi), fascicle 2",
+   "*Avataṃsaka Sūtra*, “Chapter on the Sovereignty of the Yāma Heaven Palace”"
+  ]
+ },
+ {
+  "id": "kaifozhijian",
+  "name_zh": "开佛知见",
+  "name_en": "Opening the Buddha's Insight",
+  "sa": "—",
+  "zh_desc": "《法华经》的宗旨：开、示、悟、入佛之知见。\n\n经中说佛出现于世间的唯一大事因缘，就是为令众生「开佛知见、示佛知见、悟佛知见、入佛知见」。天台以此作为判《法华》为纯圆的理由——《法华》不开权显实之外的方便，只说佛的真实意趣。\n\n四字各有其义，与修行位次相应：**开**——破除无明、开启本具之知见（如除翳见物）；**示**——指示知见之体相，令其分明（如示物于人）；**悟**——令众生领会而自证（如人见物而识）；**入**——证入究竟，与佛知见冥合（如人至物所）。\n\n「开」另有双重义：一是「开除」——除去众生对权教的执著；二是「开发」——显发本具的佛之知见。因此「开佛知见」与「一切众生悉有[[buddha_nature|佛性]]」在结构上相应：知见不是外加的，而是本具而被覆的。\n\n与「[[six_identities|六即佛]]」的关系：「开佛知见」是判教的宗旨，「六即佛」是修行的位次；前者说明目标的性质，后者说明达成的位置。",
+  "en_desc": "The cardinal teaching of the *Lotus Sūtra*: opening, showing, awakening to, and entering the Buddha's insight.\n\nThe sūtra says that the sole great cause for the Buddha's appearance in the world is to lead sentient beings to “open the Buddha's insight, show the Buddha's insight, awaken to the Buddha's insight, and enter the Buddha's insight.” Tiantai takes this as the reason for judging the *Lotus* to be purely perfect — the *Lotus* sets forth no expedient device apart from opening the provisional to reveal the real, but speaks only of the Buddha's true intent.\n\n“Opening” has a double meaning: first, “opening away,” that is, removing sentient beings' attachment to provisional teachings; second, “opening up,” that is, revealing the Buddha's insight that is inherently possessed. “Opening the Buddha's insight” therefore corresponds structurally to “all sentient beings possess the [[buddha_nature|Buddha-nature]]”: the insight is not added from outside but is inherently possessed and obscured.\n\nRelation to the “[[six_identities|six identities]]”: “opening the Buddha's insight” is the cardinal teaching of the doctrinal classification, while the “six identities” are the stages of practice; the former explains the nature of the goal, the latter the position of attainment.",
+  "sources_zh": [
+   "《妙法莲华经·方便品》"
+  ],
+  "sources_en": [
+   "*Lotus Sūtra*, “Expedient Means” chapter"
+  ]
+ }
+]
