@@ -2,15 +2,15 @@
 
 **English** · [中文](#中文)　·　[Jump to English](#english)
 
-一份把佛教基础理论组织为十二层结构的单页参考：231 个概念、831 条带类型的关系、550 条文献出处引证，每个概念附释义、分栏年代与出处原文；中英双语，可离线使用。
+一份把佛教基础理论组织为十二层结构的单页参考：235 个概念、868 条带类型的关系、567 条文献出处引证，每个概念附释义、分栏年代与出处原文；中英双语，可离线使用。
 
-*A single-page reference in twelve layers — 231 concepts, 831 typed relations, 550 cited passages — bilingual, self-contained, works offline.*
+*A single-page reference in twelve layers — 235 concepts, 868 typed relations, 567 cited passages — bilingual, self-contained, works offline.*
 
 ---
 
 ## English
 
-A single-page reference that organises the foundational doctrines of Buddhism into **twelve layers**: 231 concepts, 831 typed relations between them, and 550 cited passages, each concept carrying a definition, the source it rests on, and dated textual layers.
+A single-page reference that organises the foundational doctrines of Buddhism into **twelve layers**: 235 concepts, 868 typed relations between them, and 567 cited passages, each concept carrying a definition, the source it rests on, and dated textual layers.
 
 **Read online (no download)**: <https://linlei1980.github.io/buddhist-doctrine-tree/en.html>
 **Chinese edition**: <https://linlei1980.github.io/buddhist-doctrine-tree/>　·　a language switch sits at the top right of both pages
@@ -38,7 +38,7 @@ This page therefore:
 | **Outline** | the twelve-layer tree; filterable by type of relation — selecting *Contrast* alone gives every disputed question |
 | **Timeline** | the whole corpus in nine periods, with 31 key nodes marked, for tracing lines of development |
 | **Study paths** | four routes: foundations (core claims and their reasons) → depth (scholastic literature, Madhyamaka and Yogācāra) → history (India to East Asia and Tibet) → practice (stages, methods, criteria) |
-| **Canon index** | a searchable table of 151 texts; open any row to see every node that cites it |
+| **Canon index** | a searchable table of 150 texts; open any row to see every node that cites it |
 | **Node view** | definition, dating, quoted sources, related nodes; terms inside a definition link straight through |
 
 Search covers names, Indic terms, the body of the definitions, and the titles of cited texts — enter *Kośa* or *Mūlamadhyamakakārikā* to list everything relevant. Names are matched in Chinese, pinyin, English and Sanskrit. The current node is written into the URL, so a refresh or a shared link keeps its place. There is a separate narrow-screen layout for phones, and a print stylesheet that exports cleanly to PDF.
@@ -47,9 +47,9 @@ Search covers names, Indic terms, the body of the definitions, and the titles of
 
 | | |
 |---|---|
-| Concepts | 231 (51 of them text entries, generated automatically) |
-| Typed relations | 831 in ten types, about 76 % of them crossing layers |
-| Cited passages | 550, given down to fascicle, chapter or sutta number, with the quotation |
+| Concepts | 235 (51 of them text entries, generated automatically) |
+| Typed relations | 868 in ten types, about 75 % of them crossing layers |
+| Cited passages | 567, given down to fascicle, chapter or sutta number, with the quotation |
 | Outline depth | 12 layers |
 | Timeline | 9 periods, from about the 6th century BCE to the modern period |
 | Categories | Four Noble Truths · three seals · origination and karma · Nikāyas and Abhidharma · Buddhist logic · two truths and three natures · non-self · tathāgatagarbha · doctrinal classification and schools · practice · contested questions · scriptural texts · textual layers and transmission |
@@ -156,7 +156,7 @@ If you modify or cut the material, please note that you have done so. If you wou
 
 [English](#english) · **中文**
 
-一份把佛教基础理论组织为**十二层结构**的单页参考：231 个概念，831 条带类型的概念关系，550 条文献出处引证，每个概念都标注释义、出处原文与分栏年代。
+一份把佛教基础理论组织为**十二层结构**的单页参考：235 个概念，868 条带类型的概念关系，567 条文献出处引证，每个概念都标注释义、出处原文与分栏年代。
 
 **在线查看（无需下载）**：<https://linlei1980.github.io/buddhist-doctrine-tree/>
 **英文版**：<https://linlei1980.github.io/buddhist-doctrine-tree/en.html>　·　两页右上角均可切换语言
@@ -184,7 +184,7 @@ If you modify or cut the material, please note that you have done so. If you wou
 | **目录** | 十二层结构树；可按关系类型筛选——只看「对辨」即得全部论诤 |
 | **年表** | 九个时段排列全部条目，标出 31 个重点节点，用来看发展线索 |
 | **学习路径** | 四条读法：基础（核心主张与理由）→ 深入（部派论书、中观唯识）→ 脉络（印度至东亚与西藏）→ 实践（次第、方法、判准） |
-| **经律论总览** | 151 种文献的检索表，点开可见全部引用它的节点 |
+| **经律论总览** | 150 种文献的检索表，点开可见全部引用它的节点 |
 | **节点详情** | 释义、时间 · 层积、出处引文、关联节点；释义中的其他概念名可直接点击跳转 |
 
 检索范围覆盖名称、梵巴原语、释义正文与所引经论名（例如输入《俱舍论》可列出全部相关节点）。名称支持中文、拼音、英文与梵文四种写法匹配。当前节点会写入 URL，刷新与分享不丢失位置。手机上有独立的窄屏布局；另有打印样式，可直接导出 PDF。
@@ -193,9 +193,9 @@ If you modify or cut the material, please note that you have done so. If you wou
 
 | 项 | 数量 |
 |---|---|
-| 概念 | 231（其中 51 个为自动生成的文献节点） |
-| 概念关系 | 831，规范为 10 类，约 76% 为跨层关系 |
-| 出处引证 | 550 条，标至卷 / 品 / 经号并附原文 |
+| 概念 | 235（其中 51 个为自动生成的文献节点） |
+| 概念关系 | 868，规范为 10 类，约 75% 为跨层关系 |
+| 出处引证 | 567 条，标至卷 / 品 / 经号并附原文 |
 | 目录层级 | 12 层 |
 | 年表时段 | 9 段（约前 6 世纪 — 近现代） |
 | 分类 | 四圣谛 · 三法印 · 缘起业果 · 部派阿毗达磨 · 因明量论 · 二谛三性 · 无我 · 如来藏 · 判教宗派 · 修行实践 · 论诤 · 经律论文献 · 历史传播 |

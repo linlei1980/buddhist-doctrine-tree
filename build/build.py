@@ -150,6 +150,19 @@ for mod in (content_a, content_b, content_c, content_d):
         node.setdefault('era', 'none')
         nodes[k] = node
 
+# ---------- 五戒「五学处」一名补出处 ----------
+# 原版释义称「《大毗婆沙论》名为『五学处』」，却未把该论列入出处栏——
+# 正文点名的典籍应当可查，故补一条出处（也使正文中的链接有所指）。
+if not any('大毗婆沙论' in _s.get('t', '') for _s in nodes['five_precepts']['src']):
+    nodes['five_precepts']['src'].append(
+        dict(t='《大毗婆沙论》等', q='五戒又名「五学处」；《大庄严经》名「五大施」，《俱舍论》名「近事律仪」。'))
+
+# ---------- 题名规范：法华玄义 ----------
+# 正文以「法华玄义」为称，出处栏原作全名《妙法莲华经玄义》，与文献节点名不一致。
+for _s in nodes['six_identities']['src']:
+    if '妙法莲华经玄义' in _s.get('t', ''):
+        _s['t'] = _s['t'].replace('妙法莲华经玄义', '法华玄义（妙法莲华经玄义）')
+
 # ---------- 《杂阿含经》经号校订 ----------
 # 原版把《无我相经》（第34经）系于卷1；该经在《杂阿含经》中属卷二
 # （卷1 止于第32经）。卷10 与卷15 经号经核无误，不改。
@@ -313,7 +326,7 @@ nodes['nonself_seal'] = dict(
 
 # 原节点年表时段标注
 ERA_BY_ID = {
- '前6-5': ['three_realms','kalpa_cosmology','vinaya_rites','four_truths','dukkha','samudaya','nirodha','marga','eightfold','right_view','six_realms','ten_paths',
+ '前6-5': ['buddha_life','three_realms','kalpa_cosmology','vinaya_rites','four_truths','dukkha','samudaya','nirodha','marga','eightfold','right_view','six_realms','ten_paths',
            'right_thought','right_speech','right_action','right_livelihood','right_effort',
            'right_mindfulness','right_samadhi','craving','ignorance','medical_logic',
            'impermanence','all_suffering','nonself_seal','nirvana','dependent_origination','twelve_links',
@@ -326,7 +339,7 @@ ERA_BY_ID = {
            'twelve_ayatana','eighteen_dhatu','anatta','pudgala','not_one_not_diff','three_doors',
            'thirty_seven_bodhipakkhiya','sravaka_fruits'],
  '前3-1': ['caitasika','suchness','three_seals','four_seals','unconditioned','three_unconditioned'],
- '4-7':   ['samatha_vipassana','four_reliances','six_unconditioned','two_truths','conventional','ultimate',
+ '4-7':   ['samatha_vipassana','reading_a_sutra','simile_index','four_reliances','six_unconditioned','two_truths','conventional','ultimate',
            'emptiness','three_natures','parikalpita','paratantra','parinispanna',
            'eight_consciousnesses','alaya','transformation','four_wisdoms','karma_ownership',
            'suffering_continues','tathagatagarbha','buddha_nature','pure_mind','garbha_sutras',
@@ -473,6 +486,7 @@ def item(id, children=None, note=None):
 TREE = json.loads(r"""
 [
  {"title":"01 问题层 · 四圣谛","epoch":"约前 5 世纪","items":[
+   {"id":"buddha_life","note":"前置"},
    {"id":"four_truths","children":[
      {"id":"dukkha"},{"id":"samudaya","children":[{"id":"craving","seeAlso":1},{"id":"ignorance","seeAlso":1}]},
      {"id":"nirodha"},{"id":"marga","children":[{"id":"eightfold","children":[
@@ -540,6 +554,8 @@ TREE = json.loads(r"""
    {"id":"buddha_body_land","children":[{"id":"three_bodies"}]}]},
  {"title":"12 历史层积 · 传播","epoch":"方法论与流传史","items":[
    {"id":"historical_layers","children":[{"id":"early_layer"},{"id":"development_layer"},{"id":"folk_layer"},{"id":"minimal_skeleton"},{"id":"canon_expansion"}]},
+   {"id":"reading_a_sutra"},
+   {"id":"simile_index"},
    {"id":"four_reliances"},{"id":"mahayana_origins"},{"id":"ashoka"},
    {"id":"translation_history","children":[{"id":"yichang"}]},
    {"id":"tibetan_translation"},{"id":"huiChang_persecution"},{"id":"modern_studies"},
@@ -743,6 +759,24 @@ for s, t, l, n in [
 add('samsara','three_realms','支分',None)
 add('three_realms','four_dhyanas','修证','四禅八定的果报处所')
 add('three_realms','six_realms','对辨','六道与三界的两种分类')
+# 入门指引两节点的关联
+add('buddha_life', 'four_truths', '次第', '先有其人其时代，后有其教说')
+add('buddha_life', 'dependent_origination', '说明', '缘起成立于对「梵我一如」的回应')
+add('buddha_life', 'anatta', '说明', '无我成立于对「恒常之我」的否定')
+add('buddha_life', 'councils', '次第', '入灭后由结集传持教说')
+add('reading_a_sutra', 'four_reliances', '依据', '读经取舍的原则')
+add('reading_a_sutra', 'abhidharma', '对辨', '经与论的体例不同，读法亦异')
+add('reading_a_sutra', 'icchantika', '说明', '以涅槃经前后分为例')
+add('reading_a_sutra', 'translation_history', '说明', '先确认手上是哪一个译本')
+add('reading_a_sutra', 'docbranch', '依据', '查译本与存佚的工具书')
+add('simile_index', 'continuity', '说明', '灯焰相续喻')
+add('simile_index', 'link_namarupa', '说明', '二束芦喻')
+add('simile_index', 'pure_mind', '说明', '客尘喻')
+add('simile_index', 'emptiness', '说明', '般若十喻')
+add('simile_index', 'three_doors', '说明', '涅槃城三门喻')
+add('simile_index', 'four_reliances', '依据', '指月喻与「依义不依语」')
+add('simile_index', 'reading_a_sutra', '说明', '读经时按喻回查原文')
+
 add('kalpa_cosmology','samsara','依据','轮回的时间尺度')
 add('kalpa_cosmology','mahayana_origins','说明','多劫多佛与十方诸佛的背景')
 add('four_dhyanas','samatha_vipassana','支分',None)
@@ -904,6 +938,15 @@ for k, v in nodes.items():
     e = v.get('era')
     if e and e not in _era_ids:
         errs.append('era 值不在年表时段内（该节点将不进年表）: %s → %s' % (k, e))
+# 正文中的文献链接必须指向该节点**确实引用**的文献。
+# 英文页曾按英文题名匹配，而同一英文题名可对应多部文献（如《杂阿含经》与《增支部》），
+# 导致「中观派」的链接指向《成唯识论》——此类错链从单页看不出，故在此断言。
+_doc_name = {d['id']: d['name'] for d in DOCS if 'id' in d}
+for k, v in nodes.items():
+    for _did in re.findall(r'\[\[(doc_\d+)\|', v.get('d') or ''):
+        _nm = _doc_name.get(_did)
+        if _nm and not any(_nm in (_s.get('t') or '') for _s in v.get('_src') or []):
+            errs.append('正文文献链接与该节点出处不符: %s → %s(%s)' % (k, _did, _nm))
 if errs:
     print('校验发现问题：'); [print('  -', x) for x in errs[:40]]
 else:
@@ -1246,7 +1289,7 @@ GUIDE_REV = '''<details open><summary>本版修订说明</summary><div class="gb
 <li><b>12 历史 · 传播</b>——阿育王与佛法西传、大乘起源问题、汉译四阶段、译场与格义、藏译与藏文大藏经、会昌法难、南传与巴利三藏、现代佛学研究。原版有宗派而无输入史，故「近代汉传何以禅净为主」一类问题无从解答。</li>
 </ul>
 <b>四、目录层级对齐</b>　原版有 57 个节点的层级标记与目录缩进不一致（八识、转识成智被列为顶层概念），5 个节点在目录中重复出现。本版各归其位，重复处改标「另见」。
-<br><br><b>五、文献层与年代口径</b>　新增 52 个文献节点（被 3 个以上节点引用的经、律、论疏、史料各一个节点）与可检索的「经律论总览」（151 种）。文献节点只交代性质、引用规模与引用它的节点，<b>不标注该文献自身的年代</b>——同一部经的思想源头与文本定型常相差数百年，此类判断只能由讨论该文献的节点（04 论书层、12 历史 · 传播）给出。
+<br><br><b>五、文献层与年代口径</b>　新增 52 个文献节点（被 3 个以上节点引用的经、律、论疏、史料各一个节点）与可检索的「经律论总览」（150 种）。文献节点只交代性质、引用规模与引用它的节点，<b>不标注该文献自身的年代</b>——同一部经的思想源头与文本定型常相差数百年，此类判断只能由讨论该文献的节点（04 论书层、12 历史 · 传播）给出。
 <br><br><b>六、细节校订</b>　南传「三相」的第二支恢复为「诸行是苦」（原版误重复「诸法无我」）；「涅槃」统一为「涅槃寂静」；《俱舍论》的两种题名统一。释义保持原状：深度依各概念的需要而定，不作长度上的齐一。
 </div></details>'''
 
@@ -1273,7 +1316,7 @@ GUIDE_USE = '''<details><summary>阅读路径与判读方法</summary><div class
 </ul>
 <b>关系网络与主线的关系</b>
 <ul>
-<li>主线九项只表示主干，不表示唯一的理解顺序。全页 831 条关系中约 76% 为跨层关系，另有「论诤」「对辨」两类专门记录宗派分歧。</li>
+<li>主线九项只表示主干，不表示唯一的理解顺序。全页 868 条关系中约 75% 为跨层关系，另有「论诤」「对辨」两类专门记录宗派分歧。</li>
 </ul>
 </div></details>'''
 
@@ -1842,7 +1885,7 @@ WELCOME_NEW = '''<div class="welcome">
   <p>本页将佛教基础理论组织为<strong>十二层</strong>与一条<strong>由问题到体系</strong>的主线。主线九项依次为：四圣谛、三法印、缘起 · 业果、部派 · 阿毗达磨、中观 · 唯识、如来藏、判教 · 十宗，另设修行实践与历史 · 传播两层；后两层不在主线上，而是贯穿全页的两个视角——前者为教理在行持上的落实，后者为文本与宗派在历史上的形成过程。</p>
   <p>主线各环之间为承接关系：四圣谛确定问题所在，三法印给出判定教说的标准，缘起 · 业果展开其原理，部派佛教将原理整理为论书体系，大乘由此开出中观与唯识两大轨道，如来藏为「何故能成佛」补足依据，判教与十宗则把上述内容组织为宗派的体系。</p>
   <div class="chain">__CHAIN__</div>
-  <p style="margin-top:12px">左栏三个视图：<b>目录</b>为十二层结构树，可按关系类型筛选；<b>年表</b>按九个时段排列，用于检视发展线索；<b>学习路径</b>提供四条自基础至实践的读法。右侧两个标签页：<b>总览</b>（本条及其下的修订说明、阅读路径与关系类型）与<b>经律论总览</b>（151 种文献的检索表）。</p>
+  <p style="margin-top:12px">左栏三个视图：<b>目录</b>为十二层结构树，可按关系类型筛选；<b>年表</b>按九个时段排列，用于检视发展线索；<b>学习路径</b>提供四条自基础至实践的读法。右侧两个标签页：<b>总览</b>（本条及其下的修订说明、阅读路径与关系类型）与<b>经律论总览</b>（150 种文献的检索表）。</p>
   <div class="guide">
     __GUIDE_REV__
     __GUIDE_USE__

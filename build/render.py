@@ -90,6 +90,18 @@ def translate_data(lang):
     # 中文标题 → 规范英文题名 的反查表
     zh2en = i18n.sources()
     # 兜底索引：凡出处标题的英文译文中含此中文题名者，取其形式
+    # 权威书名表（doc_names.json）：键为《书名》，值为规范英译。
+    # 必须优先于 i18n.source()——后者返回的是**完整引文题名**
+    # （如「*Saṃyutta Nikāya* 56.11, 'Dhammacakkappavattana-sutta' (Pali)」），
+    # 用作书目节点名会把具体一经的题名当成整部文献的名字。
+    _canon = {}
+    try:
+        _dn = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                          'i18n', 'doc_names.json'), encoding='utf-8'))
+        _canon = {k[1:-1] if k.startswith('《') and k.endswith('》') else k: v
+                  for k, v in _dn.items() if not k.startswith('_')}
+    except Exception:
+        _canon = {}
     _loose = {}
     for _zh, _en in zh2en.items():
         m = re.search(r'《([^》]+)》', _zh)
@@ -104,8 +116,8 @@ def translate_data(lang):
             cn = v['n']
             if cn.startswith('文献 · '):
                 cn = cn[len('文献 · '):]
-            en_name = (DOC_NAME_EN.get(cn) or zh2en.get('《%s》' % cn) or zh2en.get(cn)
-                       or _loose.get(cn) or i18n.source('《%s》' % cn, default=cn))
+            en_name = (DOC_NAME_EN.get(cn) or _canon.get(cn)
+                       or zh2en.get('《%s》' % cn) or zh2en.get(cn) or _loose.get(cn) or cn)
             later = [e['t'] for e in DATA['edges'] if e['s'] == k][:14]
             if '律' in cn or '毗尼' in cn or '毗奈耶' in cn or '清规' in cn:
                 kind = 'a vinaya work (monastic precepts and procedure)'
@@ -128,6 +140,23 @@ def translate_data(lang):
                                  color=v['src'][0]['color'] if v.get('src') else '#8A94A6')]
             continue
         t = i18n.node(k)
+        # ---- 正文中的文献链接：以中文侧（已校验）为准，用该节点自身的出处译名重建 ----
+        # 英文题名歧义严重（同一英文题名对应多部文献，如《杂阿含经》与《增支部》），
+        # 若按英文题名匹配会把链接指向错误的文献。中文侧的链接是按该节点实际引用的
+        # 文献生成的，故在此按位置对照重建，只把显示文字换成英文。
+        _zh_srcs = DATA['nodes'][k]['src']
+        _en_srcs = t.get('src') or []
+        _title_pairs = {}
+        for _zs, _es in zip(_zh_srcs, _en_srcs):
+            _zt, _et = _zs.get('t') or '', _es.get('t') or ''
+            for _doc in DATA.get('docs', []):
+                if _doc.get('id') and _doc['name'] in _zt:
+                    _title_pairs[_doc['id']] = _et
+        # 英文节点正文用 d 字段（与中文同构），显示文字换成该节点自身的出处译名
+        if _title_pairs and t.get('d'):
+            t['d'] = re.sub(r'\[\[(doc_\d+)\|[^\]]*\]\]',
+                            lambda m: '[[%s|%s]]' % (m.group(1), _title_pairs.get(m.group(1), m.group(2))),
+                            t['d'])
         if not t:
             miss.append(k)
             tr[k] = dict(v)
@@ -170,6 +199,8 @@ def tree_for(lang):
                     if '见「05 大乘层」' in note:
                         it['note'] = ('three natures · eight consciousnesses · transformation into '
                                       'wisdom · four wisdoms — see layer 05')
+                    elif note == '前置':
+                        it['note'] = 'prerequisite'
                     elif note == '第一支':
                         it['note'] = '1st link'
                     elif note == '第八支':
@@ -387,7 +418,7 @@ def welcome_html(lang, meta_zh=''):
               '判教与十宗则把上述内容组织为宗派的体系。')
         p3 = ('左栏三个视图：<b>目录</b>为十二层结构树，可按关系类型筛选；<b>年表</b>按九个时段排列，'
               '用于检视发展线索；<b>学习路径</b>提供四条自基础至实践的读法。右侧两个标签页：'
-              '<b>总览</b>（本条及其下的修订说明、阅读路径与关系类型）与<b>经律论总览</b>（151 种文献的检索表）。')
+              '<b>总览</b>（本条及其下的修订说明、阅读路径与关系类型）与<b>经律论总览</b>（150 种文献的检索表）。')
         # 页脚从 static.json 取，保证与英文版同源、不被后续步骤覆盖
         meta = i18n.static().get('metaNoteZh') or meta_zh
     else:
